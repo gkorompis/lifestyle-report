@@ -1,0 +1,437 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat';
+}
+
+
+
+/* universal class */
+.whitecover{
+  color:rgb(218, 210, 210);
+}
+.bg_risk_high{
+  background-color: #d30961;
+  box-shadow: #b80d57f3 0px 0px 0px 3px;
+  /* color: rgba(187, 142, 70, 0.909) */
+  /* box-shadow: #b80d57f3 0px 0px 0px 3px; */
+}
+.bg_risk_typical{
+  
+  background-color: #cf8d22;
+  box-shadow: #ae761d 0px 0px 0px 3px;
+  /* background-color: rgba(38, 38, 39, 0.738);
+  box-shadow: rgba(38, 38, 39, 0.738) 0px 0px 0px 3px; */
+}
+
+.bg_risk_low{
+  background-color: #068e82;
+  box-shadow: #2c3131 0px 0px 0px 3px;
+}
+
+.test {
+  border: 0.5px solid rgb(44, 43, 43);
+}
+
+/* Main Components CSS */
+.FrontCover {
+  width: 21cm;
+  height: 29.685cm;
+  /* border: 0.5px dashed black; */
+  padding-top: 0px;
+  padding-bottom: 0px;
+  
+  
+  /* background-image: ; */
+  /* background-color: #000000; */
+  
+}
+/* .FrontCoverHealth{
+  background-image: url("../public/health-panel-cover.jpg");
+} */
+.table-of-content {
+  /* background-color: #d30961; */
+  width: 21cm;
+  height: 29.685cm;
+  background-image: url("../public/toc.png");
+  background-size: 21cm 29.685cm; 
+
+}
+.SummaryPt1{
+  /* background-color: #d30961; */
+  width: 21cm;
+  height: 29.685cm;
+  /* background-image: url("../public/summarypt1.png");
+  background-size: 21cm 29.685cm; */
+
+}
+.SummaryPt2 {
+  /* background-color: #d30961; */
+  width: 21cm;
+  height: 29.685cm;
+  background-image: url("../public/summarypt2.png");
+  background-size: 21cm 29.65cm;
+
+}
+.FrontCoverImg{
+  width:21cm;
+  height:29.65cm;
+  /* border: 0.5px dashed black; */
+}
+.BookBelongsTo {
+  background-color: #d30961;
+  width: 21cm;
+  height: 29.685cm;
+  background-image: url("../public/chapter_cover.png");
+  background-size: 21cm 29.65cm;
+}
+.FrontCoverImgHealth{
+  background-color: #d30961;
+  width: 21cm;
+  height: 29.66cm;
+  background-image: url("../public/health-panel-cover.jpg");
+  background-size: 21cm 29.65cm;
+}
+.FrontCoverImgNutrition {
+  background-color: #d30961;
+  width: 21cm;
+  height: 29.685cm;
+  background-image: url("../public/nutri-cover-3.jpg");
+  background-size: 21cm 29.65cm;
+}
+.FrontCoverImgFitness {
+  background-color: #d30961;
+  width: 21cm;
+  height: 29.685cm;
+  background-image: url("../public/fitness-panel-cover-2.jpg");
+  background-size: 21cm 29.65cm;
+}
+.FrontCoverImgHabbit {
+  background-color: #d30961;
+  width: 21cm;
+  height: 29.685cm;
+  background-image: url("../public/habit-cover-3.jpg");
+  background-size: 21cm 29.65cm;
+}
+
+.PhenotypeReport {
+  width: 21cm;
+  height: 29.688cm;
+  /* border: 0.5px dashed rgb(210, 39, 39); */
+}
+.PhenotypeReportNutrition {
+  width: 21cm;
+  height: 29.686cm;
+  /* border: 0.5px dashed rgb(210, 39, 39); */
+}
+.PhenotypeReportFitness {
+  width: 21cm;
+  height: 29.685cm;
+  /* border: 0.5px dashed rgb(210, 39, 39); */
+}
+.PhenotypeReportHabbit {
+  width: 21cm;
+  height: 29.687cm;
+  /* border: 0.5px dashed rgb(210, 39, 39); */
+}
+.trait-title{
+  height:8cm;
+  margin:10px;
+}
+.per-trait-bar{
+  margin-left: 15px;
+}
+.per-trait-title {
+  position: relative;
+  left: 0cm;
+  width: 12.5cm;
+  /* height: 5cm; */
+  box-shadow: 5px 5px 0px rgb(255, 255, 255);
+  /* box-shadow: 5px 5px 0px rgb(195, 179, 179); */
+  border-radius: 5px;
+  margin-right: 0px;
+  margin-top: 40px;
+  /* border: 0.5px dashed rgb(210, 39, 39); */
+}
+.title-bar{
+  width:8.5cm;
+  height:29.658cm;
+  /* background-color: #068e82; */
+  background-color: #d30961;
+  /* background-color: #efebed; */
+  color:rgb(255, 246, 246);
+  /* color:rgba(55, 53, 53, 0.773); */
+}
+.title-bar-fitness {
+  width: 8cm;
+  height: 29.7cm;
+  /* background-color: #068e82; */
+  background-color: #d30961;
+  /* background-color: #efebed; */
+  color: rgb(255, 246, 246);
+  border: 1px solid black;
+  /* color:rgba(55, 53, 53, 0.773); */
+}
+.score{
+  margin-block: 5px
+}
+/* .phenotype_health{
+  background-image: url("../public/health-icon.png");
+  background-size: 7cm 7cm;
+  background-repeat: no-repeat;
+  background-attachment: relative;
+  background-position: -1cm 20cm;
+}
+.phenotype_habbit {
+  background-image: url("../public/habit-icon.png");
+  background-size: 7cm 7cm;
+  background-repeat: no-repeat;
+  background-attachment: relative;
+  background-position: -1cm 20cm;
+}
+.phenotype_fitness {
+  background-image: url("../public/fitness-icon.png");
+  background-size: 7cm 7cm;
+  background-repeat: no-repeat;
+  background-attachment: relative;
+  background-position: -1cm 20cm;
+}
+.phenotype_nutri {
+  background-image: url("../public/nutri-icon.png");
+  background-size: 7cm 7cm;
+  background-repeat: no-repeat;
+  background-attachment: relative;
+  background-position: -1cm 20cm;
+} */
+
+.FirstChapter {
+  width: 21cm;
+  height: 29.65cm;
+  /* border: 0.5px dashed black;  */
+}
+
+/* Report Cover */
+.report_cover{
+  /* border: 3px dashed rgb(194, 46, 46); */
+  height: 29.7cm;
+  
+}
+ .report_cover_title{
+  height: 23cm;
+  width:10.5cm;
+  /* border: 3px dashed rgb(46, 194, 76); */
+}
+.report_cover_list{
+  width: 9cm;
+  /* border: 3px dashed rgb(46, 194, 76); */
+} 
+
+
+ .cover_title_box{
+  position: relative;
+  right:3.4cm;
+  height:3cm;
+  width:10cm;
+  font-size: 100px;
+  color: rgba(0, 0, 0, 0.746);
+  transform: rotate(-90deg);
+  /* border: 3px dashed rgb(64, 22, 149); */
+  /* border: 0.5px dashed black; */
+  /* background-image: url("../public/ICON1.png"); */
+  /* background-size: 10cm 3cm; */
+ }
+ .title_box{
+  height:3.5cm;
+}
+.cover_list_box{
+  margin-top: 40px;
+  position: relative;
+  left:45px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  /* border: 3px dashed rgb(29, 27, 157); */
+}
+.chapter_icon_cat{
+  margin-bottom: 9px;
+  /* border: 0.5px dashed black;  */
+  height: 1cm;
+   width: 9cm;
+  background-image: url("../public/ICON9.png");
+  /* background-color: #000000; */
+  background-size: 9cm 1cm ;
+}
+
+
+/* Report Intro css */
+
+.report_title {
+  margin-top: 25px;
+  padding-left: 20px;
+  font-family: 'Montserrat';
+  
+}
+.title_subchapter{
+  font-size: 18px;
+  padding-left: 1.5px;
+  font-family: 'Montserrat';
+}
+.title_phenotype{
+  font-size:40px;
+  font-weight: bolder;
+  color: black;
+  font-family: 'Montserrat';
+}
+
+/* Report Introduction css */
+.report_intro {
+  margin-top: 15px;
+  padding-left: 20px;
+}
+.title_desc{
+  font-size:23px;
+  /* font-family: 'Montserrat'; */
+}
+.title_desc_light {
+  font-size: 23px;
+  color: rgba(255, 244, 244, 0.746);
+  margin-bottom: 17px;
+  /* font-family: 'Montserrat'; */
+}
+.body_desc{
+  font-size: 12px;
+  color:rgba(0, 0, 0, 0.746);
+  /* font-family: 'Montserrat'; */
+}
+.body_desc_light {
+  font-size: 12px;
+  color: rgba(255, 244, 244, 0.746);
+  /* font-family: 'Montserrat'; */
+}
+.gap_small{
+  margin:0.1px;
+  /* color: rgba(42, 41, 41, 0.746) */
+}
+
+
+
+
+
+/* Report Result CSS */
+.report_result{
+  margin-block: 50px;
+  font-size: 20px;
+  /* font-family: 'Montserrat'; */
+}
+.result_oval{
+  /* border-top-right-radius: 3%; */
+  border-radius: 10px;
+  padding: 8px;
+ 
+}
+.result_desc{
+  color:rgb(253, 248, 248);
+}
+.result_name{
+  font-size: 25px;
+  /* font-family: 'Montserrat'; */
+}
+
+
+/* Report Boxes CSS */
+.report_boxes{
+  margin-top:1cm;
+}
+.boxes{
+  width: 20cm;
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-left: 17px;
+  padding-bottom: 10px;
+}
+.left_box{
+  background-color: rgba(55, 53, 53, 0.773);
+  color: whitesmoke;
+  border-top-right-radius: 5%;
+  border-bottom-right-radius: 5%;
+  /* font-family: 'Montserrat'; */
+}
+.right_box {
+  background-color: rgba(20, 16, 16, 0.773);
+
+  width: 13cm;
+  border-radius: 5px;
+  /* border-bottom-left-radius: 5%;  */
+  /* font-family: 'Montserrat'; */
+}
+
+.footer{
+  width: 21cm;
+}
+.icon_box{
+  margin-right:-13px;
+  /* border: 0.5px dashed black; */
+}
+.icon_img{
+  margin-top: 25px;
+  position: relative;
+  top:-30px;
+  width:1.9cm;
+  height:1.9cm;
+  /* border: 0.5px dashed black; */
+}
+
+/* .risk-meter{
+  box-shadow: 5px 5px 5px rgb(62, 59, 59);
+  -webkit-print-color-adjust: exact;
+  -webkit-filter: opacity(1);
+}
+
+@media print {
+  .risk-meter {
+    box-shadow: 5px 5px 5px rgb(62, 59, 59);
+  }
+} */
+
+/* web table css */
+
+table {
+  border-collapse: collapse;
+  width: "";
+}
+
+th,
+td {
+  padding-block: 0px;
+  text-align: left;
+}
+
+th {
+  background-color: #146C94;
+  /* border-bottom: solid 3px rgb(255, 255, 255); */
+}
+
+th:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+th:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.chunk-container {
+  padding-block: 0px;
+}
+
+.chunks-row {
+  padding-block: 6px;
+  padding-inline: 20px;
+  font-size: 11px
+}
+
+.chunks-row-body {
+  border-bottom: 1px solid #146C94;
+  color: #146C94
+}
+
