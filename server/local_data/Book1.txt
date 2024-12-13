@@ -1,0 +1,3487 @@
+phenotype	description	risk_category	your_risk	gene_tested	priority	type	category	sub_pri	intrinsic_factors	sign_and_symptoms	recomm_test	possible_outcome	do_action	do_not_action
+Ankylosing Spondylitis	"Ankylosing spondylitis (AS) adalah radang kronis persedian tulang punggung yang menyebabkan kaku, nyeri dan juga dapat menyebabkan perubahan postur menjadi bungkuk. Jika peradangan terjadi pada tulang rusuk, pernapasan sangat mungkin terganggu. Selain tulang punggung, AS dapat menyerang organ lain seperti mata, jantung, paru-paru dan ginjal.
+AS bisa menyerang semua kelompok usia. 
+"	Typical		"ERAP1; CAST; IL23R; ERAP1, LOC102724748"	1	Health	Bone and Joint Disorders		"Faktor intrinsik 
+
+1.	Usia: lebih sering terjadi pada usia 20-30 tahun
+2.	Gender: lebih sering terjadi pada laki-laki
+3.	Riwayat keluarga
+
+Faktor Gaya Hidup 
+Tidak Ada 
+
+Kondisi medis terkait
+1.	Penyakit radang usus
+2.	Psoriasis**
+3.	Penyakit paru restriktif	
+
+
+"	"1) Nyeri sendi yang tiba-tiba dan intens
+2) Efusi sendi
+3) Peradangan yang berlebihan pada persendian
+4) Kemerahan dan nyeri pada persendian
+5) Tophi (nodul di bawah kulit) menunjukkan
+Hiperurisemia yang berlangsung lama
+6) Penglihatan kabur"	"1) Kadar asam urat dan kreatinin serum
+2) Uji Cairan Sendi
+3) USG Muskuloskeletal mendeteksi kristal urat di sendi
+4) Konsultasi Dokter/Dokter Ortopedi direkomendasikan"	TBA	TBA	NA
+Ankylosing Spondylitis	"Ankylosing spondylitis (AS) adalah radang kronis persedian tulang punggung yang menyebabkan kaku, nyeri dan juga dapat menyebabkan perubahan postur menjadi bungkuk. Jika peradangan terjadi pada tulang rusuk, pernapasan sangat mungkin terganggu. Selain tulang punggung, AS dapat menyerang organ lain seperti mata, jantung, paru-paru dan ginjal.
+AS bisa menyerang semua kelompok usia. 
+"	Low		"ERAP1; CAST; IL23R; ERAP1, LOC102724748"	1	Health	Bone and Joint Disorders		"Faktor intrinsik 
+
+1.	Usia: lebih sering terjadi pada usia 20-30 tahun
+2.	Gender: lebih sering terjadi pada laki-laki
+3.	Riwayat keluarga
+
+Faktor Gaya Hidup 
+Tidak Ada 
+
+Kondisi medis terkait
+1.	Penyakit radang usus
+2.	Psoriasis**
+3.	Penyakit paru restriktif	
+
+
+"	"1) Nyeri sendi yang tiba-tiba dan intens
+2) Efusi sendi
+3) Peradangan yang berlebihan pada persendian
+4) Kemerahan dan nyeri pada persendian
+5) Tophi (nodul di bawah kulit) menunjukkan
+Hiperurisemia yang berlangsung lama
+6) Penglihatan kabur"	"1) Kadar asam urat dan kreatinin serum
+2) Uji Cairan Sendi
+3) USG Muskuloskeletal mendeteksi kristal urat di sendi
+4) Konsultasi Dokter/Dokter Ortopedi direkomendasikan"	TBA	TBA	NA
+Ankylosing Spondylitis	"Ankylosing spondylitis (AS) adalah radang kronis persedian tulang punggung yang menyebabkan kaku, nyeri dan juga dapat menyebabkan perubahan postur menjadi bungkuk. Jika peradangan terjadi pada tulang rusuk, pernapasan sangat mungkin terganggu. Selain tulang punggung, AS dapat menyerang organ lain seperti mata, jantung, paru-paru dan ginjal.
+AS bisa menyerang semua kelompok usia. 
+"	High		"ERAP1; CAST; IL23R; ERAP1, LOC102724748"	1	Health	Bone and Joint Disorders		"Faktor intrinsik 
+
+1.	Usia: lebih sering terjadi pada usia 20-30 tahun
+2.	Gender: lebih sering terjadi pada laki-laki
+3.	Riwayat keluarga
+
+Faktor Gaya Hidup 
+Tidak Ada 
+
+Kondisi medis terkait
+1.	Penyakit radang usus
+2.	Psoriasis**
+3.	Penyakit paru restriktif	
+
+
+"	"1) Nyeri sendi yang tiba-tiba dan intens
+2) Efusi sendi
+3) Peradangan yang berlebihan pada persendian
+4) Kemerahan dan nyeri pada persendian
+5) Tophi (nodul di bawah kulit) menunjukkan
+Hiperurisemia yang berlangsung lama
+6) Penglihatan kabur"	"1) Kadar asam urat dan kreatinin serum
+2) Uji Cairan Sendi
+3) USG Muskuloskeletal mendeteksi kristal urat di sendi
+4) Konsultasi Dokter/Dokter Ortopedi direkomendasikan"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Ankylosing Spondylitis	"Perkaya asupan vitamin D dan Kalsium untuk meningkatkan kesehatan tulang dan mencegah perkembangan AS
+
+Bergerak aktif dan berolahraga teratur seperti tai chi, yoga, terapi air, pilates dan berenang untuk mencegah kekakuan dan nyeri.
+
+Jaga postur tubuh dengan berdiri dan duduk yang tegak untuk mencegah masalah pembungkukan pada AS
+
+Terapi panas seperti kompres panas, mandi air panas, dan terapi dingin dengan kompres dan pijat es pada sendi yang kaku dan otot yang tegang untuk meredakan bila ada pembengkakan.
+
+Makan makanan kaya antioksidan (sebagian besar buah dan sayuran, kacang-kacangan dan biji-bijian, rempah-rempah)
+
+Konsultasikan kepada fisioterapis jika terdapat gejala AS"	"Makanan tinggi garam
+
+Merokok
+
+Beban berat yang membebani punggung dan persendian
+
+Mengubah postur tubuh dan istirahat secara berkala saat duduk atau berdiri dalam waktu yang sangat lama"
+Gout	"Asam urat adalah bentuk radang sendi yang diakibatkan peningkatan konsentrasi asam urat dalam darah (hiperurisemia). 
+Asam urat mempengaruhi sendi perifer, paling sering jempol kaki. Namun, sendi pergelangan kaki, lutut, jari, pergelangan tangan, dan siku juga dapat terpengaruh. Hiperurisemia berpotensi menyebabkan gangguan lain seperti batu ginjal, gagal ginjal, dan penyakit kardiovaskular.
+"	Typical		"ABCG2; SLC2A9; GCKR"	2	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: onset antara
+usia 30-60 tahun pada pria;
+setelah menopause di
+wanita
+2) Jenis Kelamin: lebih
+umum pada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Kelebihan berat badan
+2) Diet kaya purin dan diet tinggi daging merah
+3) Makanan dan minuman dengan kadar fruktosa tinggi
+4)Alkohol berlebihan
+
+Kondisi medis terkait
+1) Hiperurisemia
+2) Hipertensi
+3) Diabetes
+4) Penyakit ginjal
+5) Penyakit jantung
+6) Obat-obatan tertentu seperti
+diuretik, siklosporin dan
+aspirin dosis rendah
+7) Operasi baru-baru ini atau trauma
+
+
+
+"	"1) Nyeri sendi yang tiba-tiba dan intens
+2) Efusi sendi
+3) Peradangan yang berlebihan pada persendian
+4) Kemerahan dan nyeri pada persendian
+5) Tophi (nodul di bawah kulit) menunjukkan
+Hiperurisemia yang berlangsung lama
+6) Penglihatan kabur"	"1) Kadar asam urat dan kreatinin serum
+2) Uji Cairan Sendi
+3) USG Muskuloskeletal mendeteksi kristal urat di sendi
+4) Konsultasi Dokter/Dokter Ortopedi direkomendasikan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Gout	"
+1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala asam urat dan segera konsultasikan ke dokter jika Anda mengalami salah satu dari gejala."	NA
+Gout	"Asam urat adalah bentuk radang sendi yang diakibatkan peningkatan konsentrasi asam urat dalam darah (hiperurisemia). 
+Asam urat mempengaruhi sendi perifer, paling sering jempol kaki. Namun, sendi pergelangan kaki, lutut, jari, pergelangan tangan, dan siku juga dapat terpengaruh. Hiperurisemia berpotensi menyebabkan gangguan lain seperti batu ginjal, gagal ginjal, dan penyakit kardiovaskular.
+"	Low		"ABCG2; SLC2A9; GCKR"	2	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: onset antara
+usia 30-60 tahun pada pria;
+setelah menopause di
+wanita
+2) Jenis Kelamin: lebih
+umum pada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Kelebihan berat badan
+2) Diet kaya purin dan diet tinggi daging merah
+3) Makanan dan minuman dengan kadar fruktosa tinggi
+4)Alkohol berlebihan
+
+Kondisi medis terkait
+1) Hiperurisemia
+2) Hipertensi
+3) Diabetes
+4) Penyakit ginjal
+5) Penyakit jantung
+6) Obat-obatan tertentu seperti
+diuretik, siklosporin dan
+aspirin dosis rendah
+7) Operasi baru-baru ini atau trauma
+
+
+
+"	"1) Nyeri sendi yang tiba-tiba dan intens
+2) Efusi sendi
+3) Peradangan yang berlebihan pada persendian
+4) Kemerahan dan nyeri pada persendian
+5) Tophi (nodul di bawah kulit) menunjukkan
+Hiperurisemia yang berlangsung lama
+6) Penglihatan kabur"	"1) Kadar asam urat dan kreatinin serum
+2) Uji Cairan Sendi
+3) USG Muskuloskeletal mendeteksi kristal urat di sendi
+4) Konsultasi Dokter/Dokter Ortopedi direkomendasikan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Gout	"
+1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala asam urat dan segera konsultasikan ke dokter jika Anda mengalami salah satu dari gejala."	NA
+Gout	"Asam urat adalah bentuk radang sendi yang diakibatkan peningkatan konsentrasi asam urat dalam darah (hiperurisemia). 
+Asam urat mempengaruhi sendi perifer, paling sering jempol kaki. Namun, sendi pergelangan kaki, lutut, jari, pergelangan tangan, dan siku juga dapat terpengaruh. Hiperurisemia berpotensi menyebabkan gangguan lain seperti batu ginjal, gagal ginjal, dan penyakit kardiovaskular.
+"	High		"ABCG2; SLC2A9; GCKR"	2	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: onset antara
+usia 30-60 tahun pada pria;
+setelah menopause di
+wanita
+2) Jenis Kelamin: lebih
+umum pada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Kelebihan berat badan
+2) Diet kaya purin dan diet tinggi daging merah
+3) Makanan dan minuman dengan kadar fruktosa tinggi
+4)Alkohol berlebihan
+
+Kondisi medis terkait
+1) Hiperurisemia
+2) Hipertensi
+3) Diabetes
+4) Penyakit ginjal
+5) Penyakit jantung
+6) Obat-obatan tertentu seperti
+diuretik, siklosporin dan
+aspirin dosis rendah
+7) Operasi baru-baru ini atau trauma
+
+
+
+"	"1) Nyeri sendi yang tiba-tiba dan intens
+2) Efusi sendi
+3) Peradangan yang berlebihan pada persendian
+4) Kemerahan dan nyeri pada persendian
+5) Tophi (nodul di bawah kulit) menunjukkan
+Hiperurisemia yang berlangsung lama
+6) Penglihatan kabur"	"1) Kadar asam urat dan kreatinin serum
+2) Uji Cairan Sendi
+3) USG Muskuloskeletal mendeteksi kristal urat di sendi
+4) Konsultasi Dokter/Dokter Ortopedi direkomendasikan"	TBA	TBA	TBA
+Osteoarthritis	"Osteoarthritis (OA) adalah penyakit sistem muskuloskeletal yang mempengaruhi sendi lutut, pinggul dan tulang belakang, dan sendi lain yang ditandai dengan rusaknya tulang rawan/kartilago, jaringan keras namun fleksibel yang menutupi ujung tulang pada sendi.
+OA adalah penyakit degeneratif yang memburuk dari waktu ke waktu, yang sering mengakibatkan nyeri kronis.
+"	Typical		"IL11; FILIP1, LOC101928540; GDF5; ADAM12"	3	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia
+2) Jenis Kelamin: wanita berada pada risiko yang lebih tinggi daripada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Kelebihan berat badan atau obesitas
+3) Stres berulang pada sendi karena pekerjaan atau olahraga
+4) Penggunaan berlebihan 
+
+Kondisi medis terkait
+1) Deformitas tulang
+2) Obesitas
+3) Cedera sendi
+4) Diabetes
+5) Hemokromatosis (terlalu banyak zat besi)
+
+
+"	"1) Nyeri sendi
+2) Kekakuan sendi
+3) Nyeri pada persendian
+4) Hilangnya fleksibilitas
+5) Kelemahan otot
+6) Sensasi kisi
+7) Taji tulang
+8) Pembengkakan pada persendian
+9) Deformitas sendi"	"1) Rontgen untuk mencari kehilangan tulang rawan dan taji tulang formasi di sekitar sendi
+2) MRI biasanya tidak diperlukan untuk mendiagnosis OA tetapi dapat membantu memberikan lebih banyak informasi dalam kasus yang kompleks
+3) Analisis cairan sendi untuk menyingkirkan penyebab lain dari sendi rasa sakit
+4) Tes darah untuk menyingkirkan penyebab lain dari nyeri sendi
+5) Pemindaian Tulang
+6) Direkomendasikan konsultasi dengan Dokter/Dokter Ortopedi"	Secara genetik, kamu memiliki risiko umum untuk mengidap Osteoarthritis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Osteoarthritis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Osteoarthritis	"Osteoarthritis (OA) adalah penyakit sistem muskuloskeletal yang mempengaruhi sendi lutut, pinggul dan tulang belakang, dan sendi lain yang ditandai dengan rusaknya tulang rawan/kartilago, jaringan keras namun fleksibel yang menutupi ujung tulang pada sendi.
+OA adalah penyakit degeneratif yang memburuk dari waktu ke waktu, yang sering mengakibatkan nyeri kronis.
+"	Low		"IL11; FILIP1, LOC101928540; GDF5; ADAM12"	3	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia
+2) Jenis Kelamin: wanita berada pada risiko yang lebih tinggi daripada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Kelebihan berat badan atau obesitas
+3) Stres berulang pada sendi karena pekerjaan atau olahraga
+4) Penggunaan berlebihan 
+
+Kondisi medis terkait
+1) Deformitas tulang
+2) Obesitas
+3) Cedera sendi
+4) Diabetes
+5) Hemokromatosis (terlalu banyak zat besi)
+
+
+"	"1) Nyeri sendi
+2) Kekakuan sendi
+3) Nyeri pada persendian
+4) Hilangnya fleksibilitas
+5) Kelemahan otot
+6) Sensasi kisi
+7) Taji tulang
+8) Pembengkakan pada persendian
+9) Deformitas sendi"	"1) Rontgen untuk mencari kehilangan tulang rawan dan taji tulang formasi di sekitar sendi
+2) MRI biasanya tidak diperlukan untuk mendiagnosis OA tetapi dapat membantu memberikan lebih banyak informasi dalam kasus yang kompleks
+3) Analisis cairan sendi untuk menyingkirkan penyebab lain dari sendi rasa sakit
+4) Tes darah untuk menyingkirkan penyebab lain dari nyeri sendi
+5) Pemindaian Tulang
+6) Direkomendasikan konsultasi dengan Dokter/Dokter Ortopedi"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Osteoarthritis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Osteoarthritis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Osteoarthritis	"Osteoarthritis (OA) adalah penyakit sistem muskuloskeletal yang mempengaruhi sendi lutut, pinggul dan tulang belakang, dan sendi lain yang ditandai dengan rusaknya tulang rawan/kartilago, jaringan keras namun fleksibel yang menutupi ujung tulang pada sendi.
+OA adalah penyakit degeneratif yang memburuk dari waktu ke waktu, yang sering mengakibatkan nyeri kronis.
+"	High		"IL11; FILIP1, LOC101928540; GDF5; ADAM12"	3	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia
+2) Jenis Kelamin: wanita berada pada risiko yang lebih tinggi daripada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Kelebihan berat badan atau obesitas
+3) Stres berulang pada sendi karena pekerjaan atau olahraga
+4) Penggunaan berlebihan 
+
+Kondisi medis terkait
+1) Deformitas tulang
+2) Obesitas
+3) Cedera sendi
+4) Diabetes
+5) Hemokromatosis (terlalu banyak zat besi)
+
+
+"	"1) Nyeri sendi
+2) Kekakuan sendi
+3) Nyeri pada persendian
+4) Hilangnya fleksibilitas
+5) Kelemahan otot
+6) Sensasi kisi
+7) Taji tulang
+8) Pembengkakan pada persendian
+9) Deformitas sendi"	"1) Rontgen untuk mencari kehilangan tulang rawan dan taji tulang formasi di sekitar sendi
+2) MRI biasanya tidak diperlukan untuk mendiagnosis OA tetapi dapat membantu memberikan lebih banyak informasi dalam kasus yang kompleks
+3) Analisis cairan sendi untuk menyingkirkan penyebab lain dari sendi rasa sakit
+4) Tes darah untuk menyingkirkan penyebab lain dari nyeri sendi
+5) Pemindaian Tulang
+6) Direkomendasikan konsultasi dengan Dokter/Dokter Ortopedi"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Osteoarthritis	"Makan makanan kaya antioksidan (sebagian besar buah dan sayuran, kacang-kacangan dan biji-bijian, rempah-rempah)
+
+Makan makanan yang kaya asam lemak omega-3 
+
+Gunakan bioflavonoid seperti quercetin jika dibutuhkan untuk meredakan rasa sakit pada OA
+
+Olahraga teratur dapat membantu menunda timbul dan berkembangnya OA
+
+Makanan yang memiliki kandungan olahan gula dan karbohidrat yang tinggi.
+
+Makanan tinggi lemak jenuh"	"Makanan yang memiliki kandungan olahan gula dan karbohidrat yang tinggi.
+
+Makanan tinggi lemak jenuh
+
+Makanan tinggi kolesterol
+
+Olahraga seperti berlari, aktivitas yang mengubah arah dengan cepat (seperti basket, tennis, dll.), dan latihan yang melibatkan lompatan"
+Rheumatoid Arthritis	"Rheumatoid Arthritis (RA) adalah penyakit inflamasi sistemik kronis, terjadi ketika sistem kekebalan tubuh Anda secara keliru menyerang persendian. 
+RA biasanya mempengaruhi sendi di kedua sisi tubuh, salah satu ciri khas yang membedakan dari radang sendi lainnya. Peradangan yang terkait dengan RA dapat juga merusak bagian lain dari tubuh.
+"	Typical		"UBASH3A; SYNGR1; PADI4; REL; LOC100506023, TNFSF4; NFKBIE; PTPN2; RASGRP1; SPRED2; STAT4; TNFAIP3; CTLA4; ARID5B; CCR6; MTF1"	4	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: lebih sering terjadi pada kelompok usia 30-60 tahun
+2) Jenis Kelamin: wanita berisiko lebih tinggi daripada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Paparan dini terhadap asap rokok: anak-anak yang ibunya merokok memiliki risiko dua kali lipat terkena RA saat dewasa
+3) Paparan bahan kimia tertentu seperti asbes dan silika
+
+Kondisi medis terkait
+1) Obesitas
+2) Nuliparitas (belum pernah
+3) Diabetes
+4) Osteoporosis
+
+"	"1) Nyeri, kaku, nyeri tekan dan bengkak pada banyak sendi; Keterlibatan sendi simetris; Deformitas sendi
+2) Penurunan berat badan dan anemia
+3) Demam, kelelahan, atau kelelahan
+4) Kekeringan, nyeri dan kemerahan di mata
+5) Mulut kering, iritasi gusi
+6) Nodul reumatoid
+7) Peradangan pembuluh darah yang menyebabkan kerusakan saraf"	"1) Pemeriksaan fisik oleh rheumatologist
+2) Kriteria klinis:
+a) pembengkakan hadir di setidaknya satu sendi, penyebab lain
+dikesampingkan
+b) hasil dari setidaknya satu tes darah yang menunjukkan
+kehadiran RA
+c) gejala telah ada setidaknya selama 6 minggu
+3) X-ray, Ultrasound, MRI sendi
+4) Tes darah Tes faktor RA, tes antibodi anti-CCP,
+tes panel antibodi anti-nuklir, kadar CRP dan ESR
+5) Aspirasi sendi
+6) Analisis cairan sinovial"	Secara genetik, kamu memiliki risiko umum untuk mengidap Rheumatoid Arthritis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Rheumatoid Arthritis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut.
+"	NA
+Rheumatoid Arthritis	"Rheumatoid Arthritis (RA) adalah penyakit inflamasi sistemik kronis, terjadi ketika sistem kekebalan tubuh Anda secara keliru menyerang persendian. 
+RA biasanya mempengaruhi sendi di kedua sisi tubuh, salah satu ciri khas yang membedakan dari radang sendi lainnya. Peradangan yang terkait dengan RA dapat juga merusak bagian lain dari tubuh.
+"	Low		"UBASH3A; SYNGR1; PADI4; REL; LOC100506023, TNFSF4; NFKBIE; PTPN2; RASGRP1; SPRED2; STAT4; TNFAIP3; CTLA4; ARID5B; CCR6; MTF1"	4	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: lebih sering terjadi pada kelompok usia 30-60 tahun
+2) Jenis Kelamin: wanita berisiko lebih tinggi daripada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Paparan dini terhadap asap rokok: anak-anak yang ibunya merokok memiliki risiko dua kali lipat terkena RA saat dewasa
+3) Paparan bahan kimia tertentu seperti asbes dan silika
+
+Kondisi medis terkait
+1) Obesitas
+2) Nuliparitas (belum pernah
+3) Diabetes
+4) Osteoporosis
+
+"	"1) Nyeri, kaku, nyeri tekan dan bengkak pada banyak sendi; Keterlibatan sendi simetris; Deformitas sendi
+2) Penurunan berat badan dan anemia
+3) Demam, kelelahan, atau kelelahan
+4) Kekeringan, nyeri dan kemerahan di mata
+5) Mulut kering, iritasi gusi
+6) Nodul reumatoid
+7) Peradangan pembuluh darah yang menyebabkan kerusakan saraf"	"1) Pemeriksaan fisik oleh rheumatologist
+2) Kriteria klinis:
+a) pembengkakan hadir di setidaknya satu sendi, penyebab lain
+dikesampingkan
+b) hasil dari setidaknya satu tes darah yang menunjukkan
+kehadiran RA
+c) gejala telah ada setidaknya selama 6 minggu
+3) X-ray, Ultrasound, MRI sendi
+4) Tes darah Tes faktor RA, tes antibodi anti-CCP,
+tes panel antibodi anti-nuklir, kadar CRP dan ESR
+5) Aspirasi sendi
+6) Analisis cairan sinovial"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Rheumatoid Arthritis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Rheumatoid Arthritis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut.
+"	NA
+Rheumatoid Arthritis	"Rheumatoid Arthritis (RA) adalah penyakit inflamasi sistemik kronis, terjadi ketika sistem kekebalan tubuh Anda secara keliru menyerang persendian. 
+RA biasanya mempengaruhi sendi di kedua sisi tubuh, salah satu ciri khas yang membedakan dari radang sendi lainnya. Peradangan yang terkait dengan RA dapat juga merusak bagian lain dari tubuh.
+"	High		"UBASH3A; SYNGR1; PADI4; REL; LOC100506023, TNFSF4; NFKBIE; PTPN2; RASGRP1; SPRED2; STAT4; TNFAIP3; CTLA4; ARID5B; CCR6; MTF1"	4	Health	Bone and Joint Disorders		"Faktor intrinsik
+1) Usia: lebih sering terjadi pada kelompok usia 30-60 tahun
+2) Jenis Kelamin: wanita berisiko lebih tinggi daripada pria
+3) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Paparan dini terhadap asap rokok: anak-anak yang ibunya merokok memiliki risiko dua kali lipat terkena RA saat dewasa
+3) Paparan bahan kimia tertentu seperti asbes dan silika
+
+Kondisi medis terkait
+1) Obesitas
+2) Nuliparitas (belum pernah
+3) Diabetes
+4) Osteoporosis
+
+"	"1) Nyeri, kaku, nyeri tekan dan bengkak pada banyak sendi; Keterlibatan sendi simetris; Deformitas sendi
+2) Penurunan berat badan dan anemia
+3) Demam, kelelahan, atau kelelahan
+4) Kekeringan, nyeri dan kemerahan di mata
+5) Mulut kering, iritasi gusi
+6) Nodul reumatoid
+7) Peradangan pembuluh darah yang menyebabkan kerusakan saraf"	"1) Pemeriksaan fisik oleh rheumatologist
+2) Kriteria klinis:
+a) pembengkakan hadir di setidaknya satu sendi, penyebab lain
+dikesampingkan
+b) hasil dari setidaknya satu tes darah yang menunjukkan
+kehadiran RA
+c) gejala telah ada setidaknya selama 6 minggu
+3) X-ray, Ultrasound, MRI sendi
+4) Tes darah Tes faktor RA, tes antibodi anti-CCP,
+tes panel antibodi anti-nuklir, kadar CRP dan ESR
+5) Aspirasi sendi
+6) Analisis cairan sinovial"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Rheumatoid Arthritis	"Eat fiber-rich food (fruits, vegetables, and whole grains)
+
+Consume mineral-rich diet like potassium, magnesium, calcium, and antioxidant
+
+Eat protein-rich food (chicken, eggs, nuts, and lentils)
+
+Consume low-fat dairy products (milk, yogurt, buttermilk)
+
+Maintain a healthy weight and do at least 30 minutes of daily exercise. Weightlifting may be practiced by lower the loads and higher repetitions"	"Makanan tinggi garam (acar, keripik, saus, dll.)
+
+Konsumsi alkohol
+
+Merokok atau mengunyah tembakau
+
+Konsumsi kafein berlebihan (lebih dari 200mg/ hari)
+
+"
+Atrial Fibrillation	"Fibrilasi atrium (AF) adalah kondisi jantung dimana detak jantung tidak teratur dan tidak normal.
+AF terjadi ketika banyak impuls yang berbeda menyala sekaligus pada atria. 
+Detak jantung berkisar antara 300-600 denyut per menit yang menyebabkan pusing, palpitasi, sesak nafas dan kelelahan. Dalam beberapa kasus, dapat meningkatkan risiko stroke, gagal jantung, dan kondisi jantung lainnya.
+"	Typical		"PITX2; ZFHX3; KCNN3; PRRX1; MIR6500; GJA5; ATXN1; UST; CAV1; FBXO32; NEURL1; KCNJ5; TBX5; HCN4; RPL3L; LINC01426; SH3PXD2A; ARHGAP10"	5	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: semakin tua usia, lebih besar resikonya
+2) Riwayat keluarga
+
+Faktor gaya hidup
+1) Minum alkohol (terutama pesta minuman keras)
+2) Merokok atau mengunyah tembakau
+3) Konsumsi kafein yang berlebihan
+4) Stres
+5) Terlalu banyak aktivitas fisik
+
+Kondisi medis terkait
+1) Obesitas
+2) Hipertensi
+3) Kardiomiopati
+4) Penyakit Arteri Koroner
+5) Emboli paru
+6) Penyakit Paru-Paru Kronis
+7) Hipertiroidisme
+8) Apnea tidur
+9) Infeksi virus
+10) Stres hemodinamik
+
+"	"1) Palpitasi
+2) Kelemahan
+3) Berkurangnya kemampuan untuk berolahraga
+4) Kelelahan
+5) Sakit kepala ringan
+6) Pusing
+7) Sesak napas
+8) nyeri dada"	"1) Elektrokardiogram (EKG)
+2) pemantau holter
+3) Monitor acara portabel
+4) Monitor transtelepon
+5) Tes stres
+6) Rontgen dada
+7) Tes darah untuk menyingkirkan masalah tiroid atau lainnya
+zat dalam darah Anda yang dapat menyebabkan atrium
+fibrilasi
+8) Konsultasi ahli jantung dianjurkan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Atrial Fibrillation	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Fibrilasi Atrium dan segera konsultasikan ke dokter jika Anda mengalami
+gejala apapun."	NA
+Atrial Fibrillation	"Fibrilasi atrium (AF) adalah kondisi jantung dimana detak jantung tidak teratur dan tidak normal.
+AF terjadi ketika banyak impuls yang berbeda menyala sekaligus pada atria. 
+Detak jantung berkisar antara 300-600 denyut per menit yang menyebabkan pusing, palpitasi, sesak nafas dan kelelahan. Dalam beberapa kasus, dapat meningkatkan risiko stroke, gagal jantung, dan kondisi jantung lainnya.
+"	Low		"PITX2; ZFHX3; KCNN3; PRRX1; MIR6500; GJA5; ATXN1; UST; CAV1; FBXO32; NEURL1; KCNJ5; TBX5; HCN4; RPL3L; LINC01426; SH3PXD2A; ARHGAP10"	5	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: semakin tua usia, lebih besar resikonya
+2) Riwayat keluarga
+
+Faktor gaya hidup
+1) Minum alkohol (terutama pesta minuman keras)
+2) Merokok atau mengunyah tembakau
+3) Konsumsi kafein yang berlebihan
+4) Stres
+5) Terlalu banyak aktivitas fisik
+
+Kondisi medis terkait
+1) Obesitas
+2) Hipertensi
+3) Kardiomiopati
+4) Penyakit Arteri Koroner
+5) Emboli paru
+6) Penyakit Paru-Paru Kronis
+7) Hipertiroidisme
+8) Apnea tidur
+9) Infeksi virus
+10) Stres hemodinamik
+
+"	"1) Palpitasi
+2) Kelemahan
+3) Berkurangnya kemampuan untuk berolahraga
+4) Kelelahan
+5) Sakit kepala ringan
+6) Pusing
+7) Sesak napas
+8) nyeri dada"	"1) Elektrokardiogram (EKG)
+2) pemantau holter
+3) Monitor acara portabel
+4) Monitor transtelepon
+5) Tes stres
+6) Rontgen dada
+7) Tes darah untuk menyingkirkan masalah tiroid atau lainnya
+zat dalam darah Anda yang dapat menyebabkan atrium
+fibrilasi
+8) Konsultasi ahli jantung dianjurkan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Atrial Fibrillation	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Fibrilasi Atrium dan segera konsultasikan ke dokter jika Anda mengalami
+gejala apapun."	NA
+Atrial Fibrillation	"Fibrilasi atrium (AF) adalah kondisi jantung dimana detak jantung tidak teratur dan tidak normal.
+AF terjadi ketika banyak impuls yang berbeda menyala sekaligus pada atria. 
+Detak jantung berkisar antara 300-600 denyut per menit yang menyebabkan pusing, palpitasi, sesak nafas dan kelelahan. Dalam beberapa kasus, dapat meningkatkan risiko stroke, gagal jantung, dan kondisi jantung lainnya.
+"	High		"PITX2; ZFHX3; KCNN3; PRRX1; MIR6500; GJA5; ATXN1; UST; CAV1; FBXO32; NEURL1; KCNJ5; TBX5; HCN4; RPL3L; LINC01426; SH3PXD2A; ARHGAP10"	5	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: semakin tua usia, lebih besar resikonya
+2) Riwayat keluarga
+
+Faktor gaya hidup
+1) Minum alkohol (terutama pesta minuman keras)
+2) Merokok atau mengunyah tembakau
+3) Konsumsi kafein yang berlebihan
+4) Stres
+5) Terlalu banyak aktivitas fisik
+
+Kondisi medis terkait
+1) Obesitas
+2) Hipertensi
+3) Kardiomiopati
+4) Penyakit Arteri Koroner
+5) Emboli paru
+6) Penyakit Paru-Paru Kronis
+7) Hipertiroidisme
+8) Apnea tidur
+9) Infeksi virus
+10) Stres hemodinamik
+
+"	"1) Palpitasi
+2) Kelemahan
+3) Berkurangnya kemampuan untuk berolahraga
+4) Kelelahan
+5) Sakit kepala ringan
+6) Pusing
+7) Sesak napas
+8) nyeri dada"	"1) Elektrokardiogram (EKG)
+2) pemantau holter
+3) Monitor acara portabel
+4) Monitor transtelepon
+5) Tes stres
+6) Rontgen dada
+7) Tes darah untuk menyingkirkan masalah tiroid atau lainnya
+zat dalam darah Anda yang dapat menyebabkan atrium
+fibrilasi
+8) Konsultasi ahli jantung dianjurkan"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Atrial Fibrillation	"Lakukan diet sehat jantung (diet DASH)
+
+Pertahankan berat badan yang sehat.
+
+Biasakan gaya hidup yang aktif secara fisik
+
+Kontrol tekanan darah dan kadar gula darah Anda melalui diet dan olahraga yang tepat. Berobatlah jika diperlukan
+
+Kelola tingkat stress untuk mencegah berkembangnya AF"	"Merokok atau mengunyah tembakau
+
+Konsumsi alkohol
+
+Konsumsi kafein berlebihan (seperti teh, kopi, minuman energi, cola, dan beberapa obat yang dijual bebas)
+
+Penggunaan obat-obatan seperti kokain
+
+Obat yang mengandung bahan-bahan yang dapat meningkatkan detak jantung. Tanyakan kepada dokter atau apoteker, terutama untuk obat batuk dan pilek"
+Coronary Artery Disease (CAD)	"Penyakit Arteri Koroner (CAD) adalah penyempitan atau penyumbatan arteri koroner yang memasok darah, oksigen, dan nutrisi ke jantung Anda. 
+Jika suplai darah ke sebagian otot jantung terputus, atau jika kebutuhan energi jantung menjadi jauh lebih besar, serangan jantung mungkin dapat terjadi.
+"	Typical		"NOS3; CDKN2B-AS1; PHACTR1; PCSK9; LPA; APOE; MIR146A; PSRC1; CELSR2; ADIPOQ; CDKN2B; MIA3; MTHFD1L; TCF21; SMARCA4"	6	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: lebih mungkin terjadi setelah 45 tahun pada pria dan 55 tahun pada wanita
+2) Jenis Kelamin: pria memiliki risiko lebih besar daripada wanita
+3) Etnisitas: lebih umum pada populasi tertentu
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok dan penggunaan tembakau
+2) Kurang olahraga
+3) Pola makan yang tidak sehat
+4) Stres emosional dan depresi
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Kolesterol tinggi dan
+kadar trigliserida
+4) Hipertensi
+5) Homocystinuria
+6) Apnea tidur
+7) Preeklamsia
+8) Gangguan autoimun
+seperti artritis reumatoid
+9) Penyakit ginjal stadium akhir
+
+
+"	"1) Nyeri retrosternal
+2) Angina (rasa tidak nyaman di dada), berat atau sesak di dada
+3) Sesak nafas
+4) Nyeri di lengan dan bahu
+5) Pusing
+6) Berkeringat
+
+Seiring dengan gejala ini, wanita juga mungkin mengalami mual, muntah, nyeri rahang, ketidaknyamanan epigastrium dan sakit punggung"	"1) Elektrokardiogram
+2) Ekokardiogram
+3) Stress test atau Treadmill test (TMT)
+4) Angiogram (kateterisasi jantung)
+5) CT-scan jantung"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Coronary Artery Disease (CAD)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Penyakit Arteri Koroner (CAD) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut.
+"	NA
+Coronary Artery Disease (CAD)	"Penyakit Arteri Koroner (CAD) adalah penyempitan atau penyumbatan arteri koroner yang memasok darah, oksigen, dan nutrisi ke jantung Anda. 
+Jika suplai darah ke sebagian otot jantung terputus, atau jika kebutuhan energi jantung menjadi jauh lebih besar, serangan jantung mungkin dapat terjadi.
+"	Low		"NOS3; CDKN2B-AS1; PHACTR1; PCSK9; LPA; APOE; MIR146A; PSRC1; CELSR2; ADIPOQ; CDKN2B; MIA3; MTHFD1L; TCF21; SMARCA4"	6	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: lebih mungkin terjadi setelah 45 tahun pada pria dan 55 tahun pada wanita
+2) Jenis Kelamin: pria memiliki risiko lebih besar daripada wanita
+3) Etnisitas: lebih umum pada populasi tertentu
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok dan penggunaan tembakau
+2) Kurang olahraga
+3) Pola makan yang tidak sehat
+4) Stres emosional dan depresi
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Kolesterol tinggi dan
+kadar trigliserida
+4) Hipertensi
+5) Homocystinuria
+6) Apnea tidur
+7) Preeklamsia
+8) Gangguan autoimun
+seperti artritis reumatoid
+9) Penyakit ginjal stadium akhir
+
+
+"	"1) Nyeri retrosternal
+2) Angina (rasa tidak nyaman di dada), berat atau sesak di dada
+3) Sesak nafas
+4) Nyeri di lengan dan bahu
+5) Pusing
+6) Berkeringat
+
+Seiring dengan gejala ini, wanita juga mungkin mengalami mual, muntah, nyeri rahang, ketidaknyamanan epigastrium dan sakit punggung"	"1) Elektrokardiogram
+2) Ekokardiogram
+3) Stress test atau Treadmill test (TMT)
+4) Angiogram (kateterisasi jantung)
+5) CT-scan jantung"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Coronary Artery Disease (CAD)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala Penyakit Arteri Koroner (CAD) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut.
+"	NA
+Coronary Artery Disease (CAD)	"Penyakit Arteri Koroner (CAD) adalah penyempitan atau penyumbatan arteri koroner yang memasok darah, oksigen, dan nutrisi ke jantung Anda. 
+Jika suplai darah ke sebagian otot jantung terputus, atau jika kebutuhan energi jantung menjadi jauh lebih besar, serangan jantung mungkin dapat terjadi.
+"	High		"NOS3; CDKN2B-AS1; PHACTR1; PCSK9; LPA; APOE; MIR146A; PSRC1; CELSR2; ADIPOQ; CDKN2B; MIA3; MTHFD1L; TCF21; SMARCA4"	6	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: lebih mungkin terjadi setelah 45 tahun pada pria dan 55 tahun pada wanita
+2) Jenis Kelamin: pria memiliki risiko lebih besar daripada wanita
+3) Etnisitas: lebih umum pada populasi tertentu
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok dan penggunaan tembakau
+2) Kurang olahraga
+3) Pola makan yang tidak sehat
+4) Stres emosional dan depresi
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Kolesterol tinggi dan
+kadar trigliserida
+4) Hipertensi
+5) Homocystinuria
+6) Apnea tidur
+7) Preeklamsia
+8) Gangguan autoimun
+seperti artritis reumatoid
+9) Penyakit ginjal stadium akhir
+
+
+"	"1) Nyeri retrosternal
+2) Angina (rasa tidak nyaman di dada), berat atau sesak di dada
+3) Sesak nafas
+4) Nyeri di lengan dan bahu
+5) Pusing
+6) Berkeringat
+
+Seiring dengan gejala ini, wanita juga mungkin mengalami mual, muntah, nyeri rahang, ketidaknyamanan epigastrium dan sakit punggung"	"1) Elektrokardiogram
+2) Ekokardiogram
+3) Stress test atau Treadmill test (TMT)
+4) Angiogram (kateterisasi jantung)
+5) CT-scan jantung"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Coronary Artery Disease (CAD)	"Makan makanan bergizi seimbang dan sehat, terutama makanan kaya serat (buah dan sayuran) dan mengandung lemak sehat (kacang dan biji-bijian)
+
+Pertahankan berat badan  yang sehat.
+
+Berolahraga setiap hari. Rencanakan untuk berolahraga sekitar 150 menit seminggu dengan aktivitas fisik sedang. Cobalah berjalan selama sekitar 30 menit setiap hari.
+
+Berlatih cara sehat untuk mengelola stres, seperti relaksasi otot dan pernapasan dalam.
+
+Kontrol tekanan darah dan kadar gula darah Anda melalui diet dan olahraga yang tepat. Berobatlah jika diperlukan"	"Konsumsi daging merah, makanan berlemak, daging olahan, gorengan, dll.
+
+Konsumsi produk olahan gula berlebihan
+
+Merokok dan penggunaan tembakau atau produk tembakau
+
+Konsumsi alkohol. Laki-laki tidak lebih dari dua minuman/hari, wanita tidak lebih dari 1 minuman/hari."
+High HDL (Good) Cholesterol Levels	"HDL adalah kolesterol baik yang menghilangkan LDL (kolesterol jahat), mengangkutnya ke hati untuk diproses ulang, dan memelihara dinding bagian dalam pembuluh darah untuk mencegah kerusakan.
+Tingkat HDL yang tinggi mengurangi risiko penyakit jantung tetapi tingkat yang lebih rendah meningkatkan risiko.
+"	Typical		"CETP; ZPR1; APOE; LIPC; DOCK6; ABCA1; APOA5; CELSR2; SMARCA4; MTHFD1L; TCF21; SMARCA4"	7	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Pria >45 tahun dan wanita >55 tahun berisiko lebih tinggi
+2) Wanita pra-menopause berisiko lebih rendah daripada pria tetapi wanita pascamenopause berisiko lebih tinggi daripada pria
+3) Umum di Asia Selatan
+4) Riwayat keluarga
+*berlaku untuk HDL Rendah
+
+Faktor gaya hidup
+1) Merokok
+2) Kurang olahraga
+3) Diet kaya lemak jenuh dan lemak trans
+*berlaku untuk Kolesterol HDL Rendah.
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Obstruksi Bilier
+4) Hipotiroidisme
+5) Hipertensi
+6) Hipopituitarisme
+7) Sindrom nefrotik
+*berlaku untuk HDL Rendah
+Kolesterol.
+
+
+"	Kolesterol HDL rendah tidak memiliki gejala 	"Uji Profil Lipid yang mengukur:
+1) Kolesterol total
+2) kolesterol LDL
+3) kolesterol HDL
+4) Trigliserida"	Secara genetik, kamu mempunyai risiko umum untuk memilki Kadar Kolesterol HDL (Baik) yang rendah. 	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala kolesterol HDL rendah jika Anda mengembangkannya karena alasan lain dan segera
+konsultasikan dengan dokter jika Anda mengalami salah satu gejala.
+"	NA
+High HDL (Good) Cholesterol Levels	"HDL adalah kolesterol baik yang menghilangkan LDL (kolesterol jahat), mengangkutnya ke hati untuk diproses ulang, dan memelihara dinding bagian dalam pembuluh darah untuk mencegah kerusakan.
+Tingkat HDL yang tinggi mengurangi risiko penyakit jantung tetapi tingkat yang lebih rendah meningkatkan risiko.
+"	Low		"CETP; ZPR1; APOE; LIPC; DOCK6; ABCA1; APOA5; CELSR2; SMARCA4; MTHFD1L; TCF21; SMARCA4"	7	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Pria >45 tahun dan wanita >55 tahun berisiko lebih tinggi
+2) Wanita pra-menopause berisiko lebih rendah daripada pria tetapi wanita pascamenopause berisiko lebih tinggi daripada pria
+3) Umum di Asia Selatan
+4) Riwayat keluarga
+*berlaku untuk HDL Rendah
+
+Faktor gaya hidup
+1) Merokok
+2) Kurang olahraga
+3) Diet kaya lemak jenuh dan lemak trans
+*berlaku untuk Kolesterol HDL Rendah.
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Obstruksi Bilier
+4) Hipotiroidisme
+5) Hipertensi
+6) Hipopituitarisme
+7) Sindrom nefrotik
+*berlaku untuk HDL Rendah
+Kolesterol.
+
+
+"	Kolesterol HDL rendah tidak memiliki gejala 	"Uji Profil Lipid yang mengukur:
+1) Kolesterol total
+2) kolesterol LDL
+3) kolesterol HDL
+4) Trigliserida"	Secara genetik, kamu mempunyai risiko tinggi untuk memilki Kadar Kolesterol HDL (Baik) yang tinggi. 	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Perhatikan tanda dan gejala kolesterol HDL rendah jika Anda mengembangkannya karena alasan lain dan segera
+konsultasikan dengan dokter jika Anda mengalami salah satu gejala.
+"	NA
+High HDL (Good) Cholesterol Levels	"HDL adalah kolesterol baik yang menghilangkan LDL (kolesterol jahat), mengangkutnya ke hati untuk diproses ulang, dan memelihara dinding bagian dalam pembuluh darah untuk mencegah kerusakan.
+Tingkat HDL yang tinggi mengurangi risiko penyakit jantung tetapi tingkat yang lebih rendah meningkatkan risiko.
+"	High		"CETP; ZPR1; APOE; LIPC; DOCK6; ABCA1; APOA5; CELSR2; SMARCA4; MTHFD1L; TCF21; SMARCA4"	7	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Pria >45 tahun dan wanita >55 tahun berisiko lebih tinggi
+2) Wanita pra-menopause berisiko lebih rendah daripada pria tetapi wanita pascamenopause berisiko lebih tinggi daripada pria
+3) Umum di Asia Selatan
+4) Riwayat keluarga
+*berlaku untuk HDL Rendah
+
+Faktor gaya hidup
+1) Merokok
+2) Kurang olahraga
+3) Diet kaya lemak jenuh dan lemak trans
+*berlaku untuk Kolesterol HDL Rendah.
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Obstruksi Bilier
+4) Hipotiroidisme
+5) Hipertensi
+6) Hipopituitarisme
+7) Sindrom nefrotik
+*berlaku untuk HDL Rendah
+Kolesterol.
+
+
+"	Kolesterol HDL rendah tidak memiliki gejala 	"Uji Profil Lipid yang mengukur:
+1) Kolesterol total
+2) kolesterol LDL
+3) kolesterol HDL
+4) Trigliserida"	TBA	TBA	TBA
+High LDL (Bad) Cholesterol Levels	LDL adalah jenis kolesterol jahat yang bisa menjadi berbahaya jika terlalu banyak. Kolesterol LDL dapat membentuk plak dan menumpuk di dinding arteri. Hal ini dapat membuat arteri lebih sempit dan kurang fleksibel, menempatkan Anda pada risiko kondisi seperti serangan jantung atau stroke.	Typical		"APOC1; HMGCR; LDLR; CELSR2; PCSK9; APOB; APOE; PSRC1"	8	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Pria >45 tahun dan wanita >55 tahun berisiko lebih tinggi
+2) Pra-menopause
+wanita berisiko lebih rendah daripada pria tetapi pascamenopause
+wanita berisiko lebih tinggi daripada pria
+3) Umum di Selatan
+orang asia
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Kurang olahraga
+3) Diet kaya lemak jenuh dan lemak trans
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Obstruksi Bilier
+4) Hipotiroidisme
+5) Hipertensi
+6) Hipopituitarisme
+7) Sindrom nefrotik
+
+"	"Kadar Kolesterol LDL (Buruk) yang tinggi tidak memiliki gejala tetapi dapat meningkatkan risiko Anda untuk kondisi yang memang memiliki gejala. Tanda-tanda:
+1) Pertumbuhan atau lesi yang lembut dan kekuningan pada kulit yang disebut xantoma. Mereka dapat berkembang di atas tendon terutama pada Tendon Achilles.
+2) Xanthelasma."	"Uji Profil Lipid yang mengukur:
+1) Kolesterol total
+2) kolesterol LDL
+3) kolesterol HDL
+4) Trigliserida"	Secara genetik, kamu mempunyai risiko umum untuk memilki Kadar Kolesterol LDL (Buruk) yang tinggi. 	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Kadar Kolesterol LDL (Buruk) yang tinggi dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut.
+"	NA
+High LDL (Bad) Cholesterol Levels	LDL adalah jenis kolesterol jahat yang bisa menjadi berbahaya jika terlalu banyak. Kolesterol LDL dapat membentuk plak dan menumpuk di dinding arteri. Hal ini dapat membuat arteri lebih sempit dan kurang fleksibel, menempatkan Anda pada risiko kondisi seperti serangan jantung atau stroke.	Low		"APOC1; HMGCR; LDLR; CELSR2; PCSK9; APOB; APOE; PSRC1"	8	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Pria >45 tahun dan wanita >55 tahun berisiko lebih tinggi
+2) Pra-menopause
+wanita berisiko lebih rendah daripada pria tetapi pascamenopause
+wanita berisiko lebih tinggi daripada pria
+3) Umum di Selatan
+orang asia
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Kurang olahraga
+3) Diet kaya lemak jenuh dan lemak trans
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Obstruksi Bilier
+4) Hipotiroidisme
+5) Hipertensi
+6) Hipopituitarisme
+7) Sindrom nefrotik
+
+"	"Kadar Kolesterol LDL (Buruk) yang tinggi tidak memiliki gejala tetapi dapat meningkatkan risiko Anda untuk kondisi yang memang memiliki gejala. Tanda-tanda:
+1) Pertumbuhan atau lesi yang lembut dan kekuningan pada kulit yang disebut xantoma. Mereka dapat berkembang di atas tendon terutama pada Tendon Achilles.
+2) Xanthelasma."	"Uji Profil Lipid yang mengukur:
+1) Kolesterol total
+2) kolesterol LDL
+3) kolesterol HDL
+4) Trigliserida"	Secara genetik, kamu mempunyai risiko tinggi untuk memilki Kadar Kolesterol LDL (Buruk) yang rendah. 	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Kadar Kolesterol LDL (Buruk) yang tinggi dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut.
+"	NA
+High LDL (Bad) Cholesterol Levels	LDL adalah jenis kolesterol jahat yang bisa menjadi berbahaya jika terlalu banyak. Kolesterol LDL dapat membentuk plak dan menumpuk di dinding arteri. Hal ini dapat membuat arteri lebih sempit dan kurang fleksibel, menempatkan Anda pada risiko kondisi seperti serangan jantung atau stroke.	High		"APOC1; HMGCR; LDLR; CELSR2; PCSK9; APOB; APOE; PSRC1"	8	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Pria >45 tahun dan wanita >55 tahun berisiko lebih tinggi
+2) Pra-menopause
+wanita berisiko lebih rendah daripada pria tetapi pascamenopause
+wanita berisiko lebih tinggi daripada pria
+3) Umum di Selatan
+orang asia
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Merokok
+2) Kurang olahraga
+3) Diet kaya lemak jenuh dan lemak trans
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Obstruksi Bilier
+4) Hipotiroidisme
+5) Hipertensi
+6) Hipopituitarisme
+7) Sindrom nefrotik
+
+"	"Kadar Kolesterol LDL (Buruk) yang tinggi tidak memiliki gejala tetapi dapat meningkatkan risiko Anda untuk kondisi yang memang memiliki gejala. Tanda-tanda:
+1) Pertumbuhan atau lesi yang lembut dan kekuningan pada kulit yang disebut xantoma. Mereka dapat berkembang di atas tendon terutama pada Tendon Achilles.
+2) Xanthelasma."	"Uji Profil Lipid yang mengukur:
+1) Kolesterol total
+2) kolesterol LDL
+3) kolesterol HDL
+4) Trigliserida"	Secara genetik, kamu mempunyai risiko tinggi untuk memilki Kadar Kolesterol LDL (Buruk) yang tinggi. 	"Makan makanan kaya serat (buah-buahan, sayuran, dan biji-bijian). Konsumsi produk susu rendah lemak seperti yoghurt dan dadih setiap hari.
+
+Pertahankan BMI yang sehat antara 18,5 hingga 22,9 kg/m2. Cobalah untuk menurunkan berat badan melalui diet dan olahraga yang tepat, jika Anda kelebihan berat badan. 
+
+Berolahraga setiap hari. Orang dewasa harus melakukan olahraga dengan intensitas sedang, seperti jalan cepat atau bersepeda, setiap minggu
+
+Kelola stres.  Berlatih teknik manajemen stres seperti meditasi dan yoga."	"Konsumsi daging merah, makanan berlemak, daging olahan, gorengan, dll.
+
+Konsumsi olahan gula berlebihan
+
+Merokok dan penggunaan tembakau atau produk tembakau
+
+Konsumsi alkohol. Laki-laki tidak lebih dari dua minuman/hari, wanita tidak lebih dari 1 minuman/hari."
+Hypertension	Hipertensi dikenal sebagai tekanan darah tinggi adalah tekanan darah yang lebih tinggi dari normal. Tekanan darah normal adalah 120/80 mmHg, sedangkan hipertensi lebih tinggi dari 140 /90 mmHg. Hipertensi adalah faktor risiko paling umum untuk stroke dan penyakit jantung.Ê	Typical		"HLA-DPA1, HLA-DPB1; AGTR1; NOS3; ALDH2"	9	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia
+2) Jenis Kelamin: lebih sering terjadi pada pria
+3) Etnisitas: umum di antara orang-orang keturunan Afrika
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Kelebihan berat badan
+2) Pola makan yang tidak sehat
+3) Kurangnya aktivitas fisik
+4) Stres
+5) Alkohol lebih dari konsumsi
+6) Kebiasaan Merokok / Tembakau
+
+Kondisi medis terkait
+1) Diabetes
+2) Hipertiroidisme
+3) Penyakit Ginjal Kronis
+4) Demensia
+5) Sindrom metabolik
+6) Dislipidemia
+7) Hipertensi yang diinduksi kehamilan
+8) Pil kontrasepsi oral
+
+
+"	"Kebanyakan pasien hipertensi tidak menunjukkan gejala sama sekali.
+Oleh karena itu, hipertensi tetap tidak terdiagnosis dalam banyak kasus.
+1) Sakit kepala
+2) Mimisan
+3) Sesak napas, Kecemasan/Stres
+4) Berkeringat
+5) Masalah tidur
+6) Bradikardia / Takikardia
+7) Kelemahan
+8) Hiperaldosteronisme"""	Pemantauan tekanan darah secara teratur sangat penting, karena biasanya tidak akan ada gejala yang membuat Anda sadar akan kondisi tersebut. Periksa Tekanan Darah Istirahat dalam posisi Terlentang dan Duduk.	Secara genetik, kamu memiliki risiko umum untuk mengidap Hypertension	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Hypertension dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Hypertension	Hipertensi dikenal sebagai tekanan darah tinggi adalah tekanan darah yang lebih tinggi dari normal. Tekanan darah normal adalah 120/80 mmHg, sedangkan hipertensi lebih tinggi dari 140 /90 mmHg. Hipertensi adalah faktor risiko paling umum untuk stroke dan penyakit jantung.Ê	Low		"HLA-DPA1, HLA-DPB1; AGTR1; NOS3; ALDH2"	9	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia
+2) Jenis Kelamin: lebih sering terjadi pada pria
+3) Etnisitas: umum di antara orang-orang keturunan Afrika
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Kelebihan berat badan
+2) Pola makan yang tidak sehat
+3) Kurangnya aktivitas fisik
+4) Stres
+5) Alkohol lebih dari konsumsi
+6) Kebiasaan Merokok / Tembakau
+
+Kondisi medis terkait
+1) Diabetes
+2) Hipertiroidisme
+3) Penyakit Ginjal Kronis
+4) Demensia
+5) Sindrom metabolik
+6) Dislipidemia
+7) Hipertensi yang diinduksi kehamilan
+8) Pil kontrasepsi oral
+
+
+"	"Kebanyakan pasien hipertensi tidak menunjukkan gejala sama sekali.
+Oleh karena itu, hipertensi tetap tidak terdiagnosis dalam banyak kasus.
+1) Sakit kepala
+2) Mimisan
+3) Sesak napas, Kecemasan/Stres
+4) Berkeringat
+5) Masalah tidur
+6) Bradikardia / Takikardia
+7) Kelemahan
+8) Hiperaldosteronisme"""	Pemantauan tekanan darah secara teratur sangat penting, karena biasanya tidak akan ada gejala yang membuat Anda sadar akan kondisi tersebut. Periksa Tekanan Darah Istirahat dalam posisi Terlentang dan Duduk.	Secara genetik, kamu memiliki risiko rendah untuk mengidap Hypertension	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Hypertension dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Hypertension	Hipertensi dikenal sebagai tekanan darah tinggi adalah tekanan darah yang lebih tinggi dari normal. Tekanan darah normal adalah 120/80 mmHg, sedangkan hipertensi lebih tinggi dari 140 /90 mmHg. Hipertensi adalah faktor risiko paling umum untuk stroke dan penyakit jantung.Ê	High		"HLA-DPA1, HLA-DPB1; AGTR1; NOS3; ALDH2"	9	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia
+2) Jenis Kelamin: lebih sering terjadi pada pria
+3) Etnisitas: umum di antara orang-orang keturunan Afrika
+4) Riwayat keluarga
+
+Faktor gaya hidup
+1) Kelebihan berat badan
+2) Pola makan yang tidak sehat
+3) Kurangnya aktivitas fisik
+4) Stres
+5) Alkohol lebih dari konsumsi
+6) Kebiasaan Merokok / Tembakau
+
+Kondisi medis terkait
+1) Diabetes
+2) Hipertiroidisme
+3) Penyakit Ginjal Kronis
+4) Demensia
+5) Sindrom metabolik
+6) Dislipidemia
+7) Hipertensi yang diinduksi kehamilan
+8) Pil kontrasepsi oral
+
+
+"	"Kebanyakan pasien hipertensi tidak menunjukkan gejala sama sekali.
+Oleh karena itu, hipertensi tetap tidak terdiagnosis dalam banyak kasus.
+1) Sakit kepala
+2) Mimisan
+3) Sesak napas, Kecemasan/Stres
+4) Berkeringat
+5) Masalah tidur
+6) Bradikardia / Takikardia
+7) Kelemahan
+8) Hiperaldosteronisme"""	Pemantauan tekanan darah secara teratur sangat penting, karena biasanya tidak akan ada gejala yang membuat Anda sadar akan kondisi tersebut. Periksa Tekanan Darah Istirahat dalam posisi Terlentang dan Duduk.	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Hypertension	"Makan makanan bergizi (Buah-buahan, Sayuran, dan biji-bijian)
+
+Konsumsi makanan kaya mineral (Kalium, Magnesium, Kalsium, dan antioksidan)
+
+Makan makanan kaya protein (daging ayam, telur, kacang-kacangan, dan biji-bijian)
+
+Konsumsi produk susu rendah lemak (susu, yoghurt, buttermilk) 
+
+Jaga berat badan dan berolahragalah setiap hari. Lakukan olah raga aerobik seperti jalan cepat, bersepeda, dan berenang. Juga disarankan untuk melakukan olahraga ketahan seperti angkat beban."	"Makanan dengan kandungan garam tinggi (acar, keripik, saus, dll)
+
+Konsumsi alkohol
+
+Merokok atau mengunyah tembakau
+
+Konsumsi kafein berlebihan (lebih dari 200mg/ hari)"
+Hypertriglyceridemia	Hipertrigliseridemia (HTG) adalah suatu keadaan dimana terjadi peningkatan kadar trigliserida plasma pada fase puasa. HTG telah diklasifikasikan sebagai primer, ketika dasar genetik dicurigai atau sekunder, saat peningkatan kadar TG dapat diidentifikasi. Peningkatan kadar trigliserida dapat meningkatkan risiko penyakit kardiovaskular.	Typical		"GCKR; TBL2; APOA5"	10	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+Tidak ada
+
+Faktor gaya hidup	
+1) Konsumsi alkohol berlebihan
+2) Kurang olahraga
+3) Diet kaya karbohidrat, jenuh dan lemak trans
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Hipotiroidisme
+4) Uremia dan sindrom nefrotik
+5) Penyakit hati berlemak non-alkohol
+6) Obat-obatan: Obat antihipertensi tertentu, kortikosteroid, tamoxifen, antiretroviral, psikotropika
+"	"Hipertrigliseridemia biasanya tidak muncul dengan
+gejala sampai kadarnya mencapai 1000 sampai 2000 mg/dL.
+1) Sakit perut
+2) Kesulitan bernafas
+3) Kehilangan memori / Demensia
+4) Xanthelasma
+5) arkus kornea
+6) Xanthoma"	"1) Uji Profil Lipid
+2) Tingkat kilomikron
+3) Kadar gula darah puasa dan postprandial (untuk penderita diabetes yang diketahui)
+4) USG abdomen untuk menyingkirkan komplikasi perlemakan hati dan pankreas"	Secara genetik, kamu memiliki risiko umum untuk mengidap Hypertriglyceridemia	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Hypertriglyceridemia dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Hypertriglyceridemia	Hipertrigliseridemia (HTG) adalah suatu keadaan dimana terjadi peningkatan kadar trigliserida plasma pada fase puasa. HTG telah diklasifikasikan sebagai primer, ketika dasar genetik dicurigai atau sekunder, saat peningkatan kadar TG dapat diidentifikasi. Peningkatan kadar trigliserida dapat meningkatkan risiko penyakit kardiovaskular.	Low		"GCKR; TBL2; APOA5"	10	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+Tidak ada
+
+Faktor gaya hidup	
+1) Konsumsi alkohol berlebihan
+2) Kurang olahraga
+3) Diet kaya karbohidrat, jenuh dan lemak trans
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Hipotiroidisme
+4) Uremia dan sindrom nefrotik
+5) Penyakit hati berlemak non-alkohol
+6) Obat-obatan: Obat antihipertensi tertentu, kortikosteroid, tamoxifen, antiretroviral, psikotropika
+"	"Hipertrigliseridemia biasanya tidak muncul dengan
+gejala sampai kadarnya mencapai 1000 sampai 2000 mg/dL.
+1) Sakit perut
+2) Kesulitan bernafas
+3) Kehilangan memori / Demensia
+4) Xanthelasma
+5) arkus kornea
+6) Xanthoma"	"1) Uji Profil Lipid
+2) Tingkat kilomikron
+3) Kadar gula darah puasa dan postprandial (untuk penderita diabetes yang diketahui)
+4) USG abdomen untuk menyingkirkan komplikasi perlemakan hati dan pankreas"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Hypertriglyceridemia	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Hypertriglyceridemia dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Hypertriglyceridemia	Hipertrigliseridemia (HTG) adalah suatu keadaan dimana terjadi peningkatan kadar trigliserida plasma pada fase puasa. HTG telah diklasifikasikan sebagai primer, ketika dasar genetik dicurigai atau sekunder, saat peningkatan kadar TG dapat diidentifikasi. Peningkatan kadar trigliserida dapat meningkatkan risiko penyakit kardiovaskular.	High		"GCKR; TBL2; APOA5"	10	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+Tidak ada
+
+Faktor gaya hidup	
+1) Konsumsi alkohol berlebihan
+2) Kurang olahraga
+3) Diet kaya karbohidrat, jenuh dan lemak trans
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Hipotiroidisme
+4) Uremia dan sindrom nefrotik
+5) Penyakit hati berlemak non-alkohol
+6) Obat-obatan: Obat antihipertensi tertentu, kortikosteroid, tamoxifen, antiretroviral, psikotropika
+"	"Hipertrigliseridemia biasanya tidak muncul dengan
+gejala sampai kadarnya mencapai 1000 sampai 2000 mg/dL.
+1) Sakit perut
+2) Kesulitan bernafas
+3) Kehilangan memori / Demensia
+4) Xanthelasma
+5) arkus kornea
+6) Xanthoma"	"1) Uji Profil Lipid
+2) Tingkat kilomikron
+3) Kadar gula darah puasa dan postprandial (untuk penderita diabetes yang diketahui)
+4) USG abdomen untuk menyingkirkan komplikasi perlemakan hati dan pankreas"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Hypertriglyceridemia	"Konsumsi makanan bergizi dan seimbang (buah-buahan, sayuran,serat, dan omega-3)
+
+Kelola berat badan melalui pola makan yang baik dan olahraga
+
+Olah raga dan beraktifitas fisik setiap hari
+
+Awasi dan kendalikan kadar gula darah anda bila menderita diabetes"	"Makanan olahan susu dan daging tinggi lemak (keju, mentega, daging merah, daging olahan, gorengan, dll)
+
+Konsumsi karbohidrat berlebihan (terutama fruktosa)
+
+Merokok atau penggunaan produk tembakau
+
+Konsumsi alkohol berlebihan"
+Myocardial Infarction	Myocardial infarction (MI) biasanya disebut dengan serangan jantung. MI secara klinis didefinisikan sebagai kematian ireversibel atau nekrosis otot jantung sekunder akibat kekurangan suplai oksigen yang berkepanjangan. MI terjadi ketika salah satu arteri koroner jantung tersumbat tiba-tiba yang disebabkan karena pembentukan bekuan darah. 	Typical		"CDKN2B-AS1; CELSR2; MIA3; LDLR; APOE; APOA5; PSMA6; PSRC1"	11	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: peningkatan risiko setelah usia 65 tahun
+2) Jenis Kelamin: laki-laki berisiko lebih besar daripada perempuan
+3) Etnisitas: lebih umum pada populasi tertentu
+4) Riwayat keluarga	
+
+Faktor gaya hidup
+1) Merokok
+2) Konsumsi alkohol yang berlebihan
+3) Kurang olahraga
+4) Diet tidak sehat (kaya akan lemak jenuh dan lemak trans)
+5) Stres	
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Kadar lipid yang tidak normal
+4) Pre-eklampsia
+5) Peningkatan kadar Homosistein
+6) Faktor-faktor yang menurunkan
+pengiriman oksigen-Hipoksemia	
+
+"	"1) Nyeri dada, Sesak napas/ Dispnea, Kepala terasa ringan/ Pusing/ Kecemasan
+2) Kelemahan tiba-tiba
+3) Mual/muntah
+4) Berkeringat/keringat dingin
+5) Sinkop
+6) Detak jantung cepat atau tidak teratur, Peningkatan Tekanan Darah
+7) Demam
+8) Ketidaknyamanan epigastrium"	"1) Konsultasi ahli jantung
+2) EKG serial
+3) Penanda jantung serial
+4) Angiografi koroner
+5) 2D-ECHO"	Secara genetik, kamu memiliki risiko umum untuk mengidap Myocardial Infarction	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Myocardial Infarction dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Myocardial Infarction	Myocardial infarction (MI) biasanya disebut dengan serangan jantung. MI secara klinis didefinisikan sebagai kematian ireversibel atau nekrosis otot jantung sekunder akibat kekurangan suplai oksigen yang berkepanjangan. MI terjadi ketika salah satu arteri koroner jantung tersumbat tiba-tiba yang disebabkan karena pembentukan bekuan darah. 	Low		"CDKN2B-AS1; CELSR2; MIA3; LDLR; APOE; APOA5; PSMA6; PSRC1"	11	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: peningkatan risiko setelah usia 65 tahun
+2) Jenis Kelamin: laki-laki berisiko lebih besar daripada perempuan
+3) Etnisitas: lebih umum pada populasi tertentu
+4) Riwayat keluarga	
+
+Faktor gaya hidup
+1) Merokok
+2) Konsumsi alkohol yang berlebihan
+3) Kurang olahraga
+4) Diet tidak sehat (kaya akan lemak jenuh dan lemak trans)
+5) Stres	
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Kadar lipid yang tidak normal
+4) Pre-eklampsia
+5) Peningkatan kadar Homosistein
+6) Faktor-faktor yang menurunkan
+pengiriman oksigen-Hipoksemia	
+
+"	"1) Nyeri dada, Sesak napas/ Dispnea, Kepala terasa ringan/ Pusing/ Kecemasan
+2) Kelemahan tiba-tiba
+3) Mual/muntah
+4) Berkeringat/keringat dingin
+5) Sinkop
+6) Detak jantung cepat atau tidak teratur, Peningkatan Tekanan Darah
+7) Demam
+8) Ketidaknyamanan epigastrium"	"1) Konsultasi ahli jantung
+2) EKG serial
+3) Penanda jantung serial
+4) Angiografi koroner
+5) 2D-ECHO"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Myocardial Infarction	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Myocardial Infarction dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Myocardial Infarction	Myocardial infarction (MI) biasanya disebut dengan serangan jantung. MI secara klinis didefinisikan sebagai kematian ireversibel atau nekrosis otot jantung sekunder akibat kekurangan suplai oksigen yang berkepanjangan. MI terjadi ketika salah satu arteri koroner jantung tersumbat tiba-tiba yang disebabkan karena pembentukan bekuan darah. 	High		"CDKN2B-AS1; CELSR2; MIA3; LDLR; APOE; APOA5; PSMA6; PSRC1"	11	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: peningkatan risiko setelah usia 65 tahun
+2) Jenis Kelamin: laki-laki berisiko lebih besar daripada perempuan
+3) Etnisitas: lebih umum pada populasi tertentu
+4) Riwayat keluarga	
+
+Faktor gaya hidup
+1) Merokok
+2) Konsumsi alkohol yang berlebihan
+3) Kurang olahraga
+4) Diet tidak sehat (kaya akan lemak jenuh dan lemak trans)
+5) Stres	
+
+Kondisi medis terkait
+1) Obesitas
+2) Diabetes Tipe 2
+3) Kadar lipid yang tidak normal
+4) Pre-eklampsia
+5) Peningkatan kadar Homosistein
+6) Faktor-faktor yang menurunkan
+pengiriman oksigen-Hipoksemia	
+
+"	"1) Nyeri dada, Sesak napas/ Dispnea, Kepala terasa ringan/ Pusing/ Kecemasan
+2) Kelemahan tiba-tiba
+3) Mual/muntah
+4) Berkeringat/keringat dingin
+5) Sinkop
+6) Detak jantung cepat atau tidak teratur, Peningkatan Tekanan Darah
+7) Demam
+8) Ketidaknyamanan epigastrium"	"1) Konsultasi ahli jantung
+2) EKG serial
+3) Penanda jantung serial
+4) Angiografi koroner
+5) 2D-ECHO"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Myocardial Infarction	"Konsumsi makanan yang bergizi dan seimbang. Konsumsi makanan kaya akan protein (produk olahan susu rendah lemak, daging tanpa lemak, unggas tanpa kulit, kacang-kacangan, biji-bijian, dan telur)
+
+Kelola berat badan melalui pola makan yang baik dan olahraga
+
+Berolahraga setiap hari dengan latihan aerobik seperti berjalan, bersepeda atau berenang.
+
+Mengelola tingkat stress dengan melakukan Aktivitas pereda stress seperti meditasi dan yoga.
+
+Kelola tingkat kolesterol, gula darah, dan tekanan darah secara rutin, minum obat-obatan jika diperlukan"	"Konsumsi lemak jenuh dan tinggi garam.
+
+Konsumsi gula halus ataupun karbohidrat berlebihan.
+
+Merokok dan penggunaan produk tembakau.
+
+Konsumsi alkohol berelbihan"
+Stroke	Stroke terjadi ketika suplai darah ke bagian otak Anda tiba-tiba terganggu, sehingga jaringan otak kekurangan oksigen dan nutrisi sehingga jaringan otak menjadi rusak dan mulai mati dalam beberapa menit. Hal ini menyebabkan bagian tubuh yang dikendalikan oleh otak yang terluka tersebut berhenti bekerja.Ê	Typical		"HDAC9; ZFHX3; ALDH2; MTHFR; CDKN2B-AS1"	12	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia (55 tahun ke atas)
+2) Jenis Kelamin: lebih sering terjadi pada wanita
+3) Etnisitas: Afrika-Amerika berada pada risiko yang lebih tinggi
+4) Riwayat keluarga	
+
+Faktor gaya hidup
+1) Pola makan yang tidak sehat
+2) Kurangnya aktivitas fisik
+3) Konsumsi alkohol yang berlebihan (pesta mabuk-mabukan)
+4) Kebiasaan Tembakau/ Merokok
+5) Penggunaan obat-obatan seperti kokain dan metamfetamin	
+
+Kondisi medis terkait
+1) Obesitas
+2) Hipertensi
+3) Diabetes
+4) Kadar kolesterol tinggi
+5) Kardiomiopati
+6) Apnea tidur obstruktif
+7) Tingkat homosistein tinggi
+8) Kontrasepsi, Terapi penggantian hormon	
+
+Genetika
+Varian genetik gen kunci tertentu juga meningkatkan risiko stroke bersama dengan faktor risiko lainnya.
+"	"1) Sensasi kesemutan yang terus-menerus di lengan atau kaki
+2) Mati rasa/lumpuh pada separuh/bagian tubuh
+3) Kesulitan dalam berbicara
+4) Pusing dan vertigo atau kesulitan menelan
+5) Masalah penglihatan
+6) Sakit kepala parah
+7) Kehilangan kesadaran
+8) Wajah terkulai"	"1) Pemeriksaan fisik oleh dokter
+2) Tes darah untuk mencari waktu pembekuan, adanya faktor pembekuan atau infeksi, hitung darah lengkap, kadar gula, kadar elektrolit, fungsi ginjal, kadar Homosistein Serum
+3) MRI
+4) CT-scan
+5) USG karotis
+6) Angiogram serebral/MR Angio
+7) Ekokardiogram
+8) Konsultasi Dokter / Ahli Saraf"	Secara genetik, kamu memiliki risiko umum untuk mengidap Stroke	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Stroke dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Stroke	Stroke terjadi ketika suplai darah ke bagian otak Anda tiba-tiba terganggu, sehingga jaringan otak kekurangan oksigen dan nutrisi sehingga jaringan otak menjadi rusak dan mulai mati dalam beberapa menit. Hal ini menyebabkan bagian tubuh yang dikendalikan oleh otak yang terluka tersebut berhenti bekerja.Ê	Low		"HDAC9; ZFHX3; ALDH2; MTHFR; CDKN2B-AS1"	12	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia (55 tahun ke atas)
+2) Jenis Kelamin: lebih sering terjadi pada wanita
+3) Etnisitas: Afrika-Amerika berada pada risiko yang lebih tinggi
+4) Riwayat keluarga	
+
+Faktor gaya hidup
+1) Pola makan yang tidak sehat
+2) Kurangnya aktivitas fisik
+3) Konsumsi alkohol yang berlebihan (pesta mabuk-mabukan)
+4) Kebiasaan Tembakau/ Merokok
+5) Penggunaan obat-obatan seperti kokain dan metamfetamin	
+
+Kondisi medis terkait
+1) Obesitas
+2) Hipertensi
+3) Diabetes
+4) Kadar kolesterol tinggi
+5) Kardiomiopati
+6) Apnea tidur obstruktif
+7) Tingkat homosistein tinggi
+8) Kontrasepsi, Terapi penggantian hormon	
+
+Genetika
+Varian genetik gen kunci tertentu juga meningkatkan risiko stroke bersama dengan faktor risiko lainnya.
+"	"1) Sensasi kesemutan yang terus-menerus di lengan atau kaki
+2) Mati rasa/lumpuh pada separuh/bagian tubuh
+3) Kesulitan dalam berbicara
+4) Pusing dan vertigo atau kesulitan menelan
+5) Masalah penglihatan
+6) Sakit kepala parah
+7) Kehilangan kesadaran
+8) Wajah terkulai"	"1) Pemeriksaan fisik oleh dokter
+2) Tes darah untuk mencari waktu pembekuan, adanya faktor pembekuan atau infeksi, hitung darah lengkap, kadar gula, kadar elektrolit, fungsi ginjal, kadar Homosistein Serum
+3) MRI
+4) CT-scan
+5) USG karotis
+6) Angiogram serebral/MR Angio
+7) Ekokardiogram
+8) Konsultasi Dokter / Ahli Saraf"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Stroke	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Stroke dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Stroke	Stroke terjadi ketika suplai darah ke bagian otak Anda tiba-tiba terganggu, sehingga jaringan otak kekurangan oksigen dan nutrisi sehingga jaringan otak menjadi rusak dan mulai mati dalam beberapa menit. Hal ini menyebabkan bagian tubuh yang dikendalikan oleh otak yang terluka tersebut berhenti bekerja.Ê	High		"HDAC9; ZFHX3; ALDH2; MTHFR; CDKN2B-AS1"	12	Health	Cardiovascular and Cerebral Diseases		"Faktor intrinsik
+1) Usia: risiko meningkat seiring bertambahnya usia (55 tahun ke atas)
+2) Jenis Kelamin: lebih sering terjadi pada wanita
+3) Etnisitas: Afrika-Amerika berada pada risiko yang lebih tinggi
+4) Riwayat keluarga	
+
+Faktor gaya hidup
+1) Pola makan yang tidak sehat
+2) Kurangnya aktivitas fisik
+3) Konsumsi alkohol yang berlebihan (pesta mabuk-mabukan)
+4) Kebiasaan Tembakau/ Merokok
+5) Penggunaan obat-obatan seperti kokain dan metamfetamin	
+
+Kondisi medis terkait
+1) Obesitas
+2) Hipertensi
+3) Diabetes
+4) Kadar kolesterol tinggi
+5) Kardiomiopati
+6) Apnea tidur obstruktif
+7) Tingkat homosistein tinggi
+8) Kontrasepsi, Terapi penggantian hormon	
+
+Genetika
+Varian genetik gen kunci tertentu juga meningkatkan risiko stroke bersama dengan faktor risiko lainnya.
+"	"1) Sensasi kesemutan yang terus-menerus di lengan atau kaki
+2) Mati rasa/lumpuh pada separuh/bagian tubuh
+3) Kesulitan dalam berbicara
+4) Pusing dan vertigo atau kesulitan menelan
+5) Masalah penglihatan
+6) Sakit kepala parah
+7) Kehilangan kesadaran
+8) Wajah terkulai"	"1) Pemeriksaan fisik oleh dokter
+2) Tes darah untuk mencari waktu pembekuan, adanya faktor pembekuan atau infeksi, hitung darah lengkap, kadar gula, kadar elektrolit, fungsi ginjal, kadar Homosistein Serum
+3) MRI
+4) CT-scan
+5) USG karotis
+6) Angiogram serebral/MR Angio
+7) Ekokardiogram
+8) Konsultasi Dokter / Ahli Saraf"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Stroke	"Konsumsi makanan bergizi dansehat (buah-buahan dan sayuran), diikuti dengan makanan Timur Tengah (kacang-kacangan, minyak zaitun, buah-buahan, dan biji-bijian)
+
+Kelola berat badan melalui pola makan yang baik dan olahraga
+
+Berolahraga setiap hari dengan latihan kardio maupun latihan aerobik seperti berjalan, jalan cepat, berenang atau bersepeda.
+
+Evaluasi untuk Apnea Tidur Obstruktif (OSA) dan lakukan perawatan yang diperlukan.
+
+Kelola tingkat kolesterol, gula darah, dan tekanan darah secara rutin, minum obat-obatan jika diperlukan"	"Konsumsi lemak jenuh, gula, dan garam berlebihan (daging merah, makanan berlemak, daging olahan, gorengan, dll)
+
+Konsumsi produk olahan gula berlebihan
+
+Merokok dan penggunaan produk tembakau
+
+Konsumsi alkohol berlebihan
+
+Penggunaan obat-obatan terlarang seperti kokain dan methamphetamines"
+Breast Cancer	Kanker Payudara adalah salah satu kanker yang paling umum yang lebih sering terjadi pada wanita. Kanker payudara bisa terjadi karena adanya sel payudara yang mulai tumbuh secara tidak normal. Sel-sel tersebut bertumbuh dengan cepat dan akan berlanjut terakumulasi membentuk gumpalan dan dapat menyebar ke bagian tubuh lain.Ê	Typical		"RALY; CASC16; FGFR2; ESR1; CCDC170; SLC4A7; BRCA1; BRCA2"	13	Health	Cancer		"Faktor intrinsik:
+1) usia: umum terjadi pada usia lanjut
+2) kelamin: umum terjadi pada wanita
+3) Riwayat keluarga yang memiliki kanker payudara maupun kanker lain.
+
+Faktor gaya hidup:
+1) Kelebihan berat badan
+2) Paparan radiasi
+3) Konsumsi alkohol berlebihan
+
+Kondisi medis yang terkait:
+1) Menstruasi dini dan terlambat menopaus
+2) Nullyparity (Seseorang yang belum pernah melahirkan)
+3) Usia lanjut saat mengalami kehamilan pertama
+4) Sedikit atau tidak bisa menyusui
+5) Atypicial hyperplasia atau pertumbuhan sel berlebih pada sel payudara
+6) terapi hormonal pos-menopaus
+
+Genetik: Variasi genetik pada beberapa gen penting akan meningkatkan resiko kanker payudara dan diikuti faktor resiko yang lain."	"1) Benjolan payudara yang terasa berbeda dari tisu sekitarnya
+2) Perubahan ukuran payudara, bentuk atau penampilan dan kulit dari payudara
+3) Puting yang baru terbalik
+4) Pengupasan, penskalaan, pengerasan kulit atau pengelupasan pada area berpigmen kulit di sekitar puting
+5) Kemerahan atau pitting pada kulit di atas payudara"	"1) Pemeriksaan payudara klinis
+2) mamografi
+3) USG payudara
+4) MRI Payudara
+5) Biopsi
+6) Konsultasi dokter dianjurkan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Breast Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Breast Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Breast Cancer	Kanker Payudara adalah salah satu kanker yang paling umum yang lebih sering terjadi pada wanita. Kanker payudara bisa terjadi karena adanya sel payudara yang mulai tumbuh secara tidak normal. Sel-sel tersebut bertumbuh dengan cepat dan akan berlanjut terakumulasi membentuk gumpalan dan dapat menyebar ke bagian tubuh lain.Ê	Low		"RALY; CASC16; FGFR2; ESR1; CCDC170; SLC4A7; BRCA1; BRCA2"	13	Health	Cancer		"Faktor intrinsik:
+1) usia: umum terjadi pada usia lanjut
+2) kelamin: umum terjadi pada wanita
+3) Riwayat keluarga yang memiliki kanker payudara maupun kanker lain.
+
+Faktor gaya hidup:
+1) Kelebihan berat badan
+2) Paparan radiasi
+3) Konsumsi alkohol berlebihan
+
+Kondisi medis yang terkait:
+1) Menstruasi dini dan terlambat menopaus
+2) Nullyparity (Seseorang yang belum pernah melahirkan)
+3) Usia lanjut saat mengalami kehamilan pertama
+4) Sedikit atau tidak bisa menyusui
+5) Atypicial hyperplasia atau pertumbuhan sel berlebih pada sel payudara
+6) terapi hormonal pos-menopaus
+
+Genetik: Variasi genetik pada beberapa gen penting akan meningkatkan resiko kanker payudara dan diikuti faktor resiko yang lain."	"1) Benjolan payudara yang terasa berbeda dari tisu sekitarnya
+2) Perubahan ukuran payudara, bentuk atau penampilan dan kulit dari payudara
+3) Puting yang baru terbalik
+4) Pengupasan, penskalaan, pengerasan kulit atau pengelupasan pada area berpigmen kulit di sekitar puting
+5) Kemerahan atau pitting pada kulit di atas payudara"	"1) Pemeriksaan payudara klinis
+2) mamografi
+3) USG payudara
+4) MRI Payudara
+5) Biopsi
+6) Konsultasi dokter dianjurkan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Breast Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Breast Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Breast Cancer	Kanker Payudara adalah salah satu kanker yang paling umum yang lebih sering terjadi pada wanita. Kanker payudara bisa terjadi karena adanya sel payudara yang mulai tumbuh secara tidak normal. Sel-sel tersebut bertumbuh dengan cepat dan akan berlanjut terakumulasi membentuk gumpalan dan dapat menyebar ke bagian tubuh lain.Ê	High		"RALY; CASC16; FGFR2; ESR1; CCDC170; SLC4A7; BRCA1; BRCA2"	13	Health	Cancer		"Faktor intrinsik:
+1) usia: umum terjadi pada usia lanjut
+2) kelamin: umum terjadi pada wanita
+3) Riwayat keluarga yang memiliki kanker payudara maupun kanker lain.
+
+Faktor gaya hidup:
+1) Kelebihan berat badan
+2) Paparan radiasi
+3) Konsumsi alkohol berlebihan
+
+Kondisi medis yang terkait:
+1) Menstruasi dini dan terlambat menopaus
+2) Nullyparity (Seseorang yang belum pernah melahirkan)
+3) Usia lanjut saat mengalami kehamilan pertama
+4) Sedikit atau tidak bisa menyusui
+5) Atypicial hyperplasia atau pertumbuhan sel berlebih pada sel payudara
+6) terapi hormonal pos-menopaus
+
+Genetik: Variasi genetik pada beberapa gen penting akan meningkatkan resiko kanker payudara dan diikuti faktor resiko yang lain."	"1) Benjolan payudara yang terasa berbeda dari tisu sekitarnya
+2) Perubahan ukuran payudara, bentuk atau penampilan dan kulit dari payudara
+3) Puting yang baru terbalik
+4) Pengupasan, penskalaan, pengerasan kulit atau pengelupasan pada area berpigmen kulit di sekitar puting
+5) Kemerahan atau pitting pada kulit di atas payudara"	"1) Pemeriksaan payudara klinis
+2) mamografi
+3) USG payudara
+4) MRI Payudara
+5) Biopsi
+6) Konsultasi dokter dianjurkan"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Breast Cancer	TBA	TBA
+Colorectal Cancer	Kanker kolorektal dapat dimulai di kolon atau rektum. Kanker kolorektal paling sering dimulai sebagai polip, sebuah pertumbuhan non-kanker yang berkembang di bagian dalam dinding usus besar atau rektum seiring bertambahnya usia. Jika tidak diobati atau diangkat, polip dapat menjadi kanker yang berpotensi mengancam jiwa.Ê	Typical		"C5orf66; TCF7L2; CCND2-AS1; CASC8; POLD3; SMAD7; CCND2; VTI1A"	14	Health	Cancer		"Faktor intrinsik:
+1) Usia: umum setelah
+usia 50 tahun
+2) Etnis: lebih
+umum di Afrika Amerika
+3) Riwayat keluarga
+kolorektal atau kanker lainnya
+
+Faktor gaya hidup:
+1) kelebihan berat badan
+2) Gaya hidup yang tidak banyak bergerak
+3) konsumsi Serat rendah Ð konsumsi tinggi lemak jenuh
+4) Merokok
+5) Alkohol
+
+Kondisi medis terkait:
+1) Polip kolon
+2) Penyakit Radang Usus
+3) Diabetes
+
+Genetik: Variasi genetik pada beberapa gen penting akan meningkatkan risiko kanker kolorektal dan diikuti faktor resiko yang lain."	"1) Perubahan terus-menerus dalam kebiasaan buang air besar Anda, termasuk diare atau konstipasi atau perubahan konsistensi feses
+2) Pendarahan dubur atau darah dalam tinja
+3) Kram, gas, atau nyeri yang terus-menerus
+4) Kelelahan
+5) Penurunan berat badan yang tidak dapat dijelaskan
+6) Kekurangan zat besi yang tidak dapat dijelaskan pada pria, atau pada wanita setelah menopause"	"1) Tes darah samar tinja (tes tinja)
+2) Tes DNA tinja
+3) Sigmoidoskopi fleksibel
+4) Barium enema X-ray
+5) Kolonoskopi
+6) Konsultasi dokter"	Secara genetik, kamu memiliki risiko umum untuk mengidap Colorectal Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Colorectal Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Colorectal Cancer	Kanker kolorektal dapat dimulai di kolon atau rektum. Kanker kolorektal paling sering dimulai sebagai polip, sebuah pertumbuhan non-kanker yang berkembang di bagian dalam dinding usus besar atau rektum seiring bertambahnya usia. Jika tidak diobati atau diangkat, polip dapat menjadi kanker yang berpotensi mengancam jiwa.Ê	Low		"C5orf66; TCF7L2; CCND2-AS1; CASC8; POLD3; SMAD7; CCND2; VTI1A"	14	Health	Cancer		"Faktor intrinsik:
+1) Usia: umum setelah
+usia 50 tahun
+2) Etnis: lebih
+umum di Afrika Amerika
+3) Riwayat keluarga
+kolorektal atau kanker lainnya
+
+Faktor gaya hidup:
+1) kelebihan berat badan
+2) Gaya hidup yang tidak banyak bergerak
+3) konsumsi Serat rendah Ð konsumsi tinggi lemak jenuh
+4) Merokok
+5) Alkohol
+
+Kondisi medis terkait:
+1) Polip kolon
+2) Penyakit Radang Usus
+3) Diabetes
+
+Genetik: Variasi genetik pada beberapa gen penting akan meningkatkan risiko kanker kolorektal dan diikuti faktor resiko yang lain."	"1) Perubahan terus-menerus dalam kebiasaan buang air besar Anda, termasuk diare atau konstipasi atau perubahan konsistensi feses
+2) Pendarahan dubur atau darah dalam tinja
+3) Kram, gas, atau nyeri yang terus-menerus
+4) Kelelahan
+5) Penurunan berat badan yang tidak dapat dijelaskan
+6) Kekurangan zat besi yang tidak dapat dijelaskan pada pria, atau pada wanita setelah menopause"	"1) Tes darah samar tinja (tes tinja)
+2) Tes DNA tinja
+3) Sigmoidoskopi fleksibel
+4) Barium enema X-ray
+5) Kolonoskopi
+6) Konsultasi dokter"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Colorectal Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Colorectal Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Colorectal Cancer	Kanker kolorektal dapat dimulai di kolon atau rektum. Kanker kolorektal paling sering dimulai sebagai polip, sebuah pertumbuhan non-kanker yang berkembang di bagian dalam dinding usus besar atau rektum seiring bertambahnya usia. Jika tidak diobati atau diangkat, polip dapat menjadi kanker yang berpotensi mengancam jiwa.Ê	High		"C5orf66; TCF7L2; CCND2-AS1; CASC8; POLD3; SMAD7; CCND2; VTI1A"	14	Health	Cancer		"Faktor intrinsik:
+1) Usia: umum setelah
+usia 50 tahun
+2) Etnis: lebih
+umum di Afrika Amerika
+3) Riwayat keluarga
+kolorektal atau kanker lainnya
+
+Faktor gaya hidup:
+1) kelebihan berat badan
+2) Gaya hidup yang tidak banyak bergerak
+3) konsumsi Serat rendah Ð konsumsi tinggi lemak jenuh
+4) Merokok
+5) Alkohol
+
+Kondisi medis terkait:
+1) Polip kolon
+2) Penyakit Radang Usus
+3) Diabetes
+
+Genetik: Variasi genetik pada beberapa gen penting akan meningkatkan risiko kanker kolorektal dan diikuti faktor resiko yang lain."	"1) Perubahan terus-menerus dalam kebiasaan buang air besar Anda, termasuk diare atau konstipasi atau perubahan konsistensi feses
+2) Pendarahan dubur atau darah dalam tinja
+3) Kram, gas, atau nyeri yang terus-menerus
+4) Kelelahan
+5) Penurunan berat badan yang tidak dapat dijelaskan
+6) Kekurangan zat besi yang tidak dapat dijelaskan pada pria, atau pada wanita setelah menopause"	"1) Tes darah samar tinja (tes tinja)
+2) Tes DNA tinja
+3) Sigmoidoskopi fleksibel
+4) Barium enema X-ray
+5) Kolonoskopi
+6) Konsultasi dokter"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Colorectal Cancer	"ÊKonsumsi makanan bergizi (kaya serat, buah-buahan, sayuran, dan biji-bijian) yang mengandung vitamin, mineral dan antioksidan
+
+ÊMenjaga kadar kalsium dan vitamin D
+
+Ê Berolahraga minimal 30 menit sehari diikuti dengan aktivitas fisik"	"Konsumsi alkohol berlebihan
+
+ÊMerokok
+
+ÊKonsumsi makanan kaya akan lemak jenuh (terutama daging merah)"
+Endometrial Cancer	Kanker endometrium, juga disebut kanker rahim, adalah jenis kanker yang dimulai pada lapisan sel yang membentuk lapisan (endometrium) rahim. Kanker endometrium sering terdeteksi pada stadium dini karena sering menghasilkan pendarahan vagina yang tidak normal. Pengangkatan rahim dengan pembedahan sering menyembuhkan kanker endometrium.	Typical		"HNF1B; CYP19A1; MDM2; PGR; PGR, PGR-AS1"	15	Health	Cancer		"Faktor intrinsik:
+1) Usia: umum setelah
+menopause (mati haid) atau setelah 65 tahun
+2) Riwayat keluarga endometrium atau lainnya kanker
+
+Faktor gaya hidup:
+1) kelebihan berat badan
+
+Kondisi medis terkait:
+1) Perubahan keseimbangan hormon pada tubuh wanita
+2) Menstruasi dini dan terlambat
+mati haid
+3) Nuliparitas(Wanita yang belum pernah melahirkan sama sekali)
+4) Terapi hormon untuk kanker payudara (Tamoxifen)
+5) Hiperplasia endometrium
+6) Diabetes Tipe 2
+"	"
+1) Pendarahan vagina setelah menopause
+2) Pendarahan hebat yang tidak normal saat menstruasi
+3) Perdarahan antar periode
+4) Nyeri pelvis
+
+
+"	"1) Pemeriksaan pelvis atau vagina
+2) USG transvaginal
+3) Histeroskopi
+4) Biopsi (dalam kasus tertentu)
+5) Konsultasi ginekolog dianjurkan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Endometrial Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Endometrial Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Endometrial Cancer	Kanker endometrium, juga disebut kanker rahim, adalah jenis kanker yang dimulai pada lapisan sel yang membentuk lapisan (endometrium) rahim. Kanker endometrium sering terdeteksi pada stadium dini karena sering menghasilkan pendarahan vagina yang tidak normal. Pengangkatan rahim dengan pembedahan sering menyembuhkan kanker endometrium.	Low		"HNF1B; CYP19A1; MDM2; PGR; PGR, PGR-AS1"	15	Health	Cancer		"Faktor intrinsik:
+1) Usia: umum setelah
+menopause (mati haid) atau setelah 65 tahun
+2) Riwayat keluarga endometrium atau lainnya kanker
+
+Faktor gaya hidup:
+1) kelebihan berat badan
+
+Kondisi medis terkait:
+1) Perubahan keseimbangan hormon pada tubuh wanita
+2) Menstruasi dini dan terlambat
+mati haid
+3) Nuliparitas(Wanita yang belum pernah melahirkan sama sekali)
+4) Terapi hormon untuk kanker payudara (Tamoxifen)
+5) Hiperplasia endometrium
+6) Diabetes Tipe 2
+"	"
+1) Pendarahan vagina setelah menopause
+2) Pendarahan hebat yang tidak normal saat menstruasi
+3) Perdarahan antar periode
+4) Nyeri pelvis
+
+
+"	"1) Pemeriksaan pelvis atau vagina
+2) USG transvaginal
+3) Histeroskopi
+4) Biopsi (dalam kasus tertentu)
+5) Konsultasi ginekolog dianjurkan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Endometrial Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Endometrial Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Endometrial Cancer	Kanker endometrium, juga disebut kanker rahim, adalah jenis kanker yang dimulai pada lapisan sel yang membentuk lapisan (endometrium) rahim. Kanker endometrium sering terdeteksi pada stadium dini karena sering menghasilkan pendarahan vagina yang tidak normal. Pengangkatan rahim dengan pembedahan sering menyembuhkan kanker endometrium.	High		"HNF1B; CYP19A1; MDM2; PGR; PGR, PGR-AS1"	15	Health	Cancer		"Faktor intrinsik:
+1) Usia: umum setelah
+menopause (mati haid) atau setelah 65 tahun
+2) Riwayat keluarga endometrium atau lainnya kanker
+
+Faktor gaya hidup:
+1) kelebihan berat badan
+
+Kondisi medis terkait:
+1) Perubahan keseimbangan hormon pada tubuh wanita
+2) Menstruasi dini dan terlambat
+mati haid
+3) Nuliparitas(Wanita yang belum pernah melahirkan sama sekali)
+4) Terapi hormon untuk kanker payudara (Tamoxifen)
+5) Hiperplasia endometrium
+6) Diabetes Tipe 2
+"	"
+1) Pendarahan vagina setelah menopause
+2) Pendarahan hebat yang tidak normal saat menstruasi
+3) Perdarahan antar periode
+4) Nyeri pelvis
+
+
+"	"1) Pemeriksaan pelvis atau vagina
+2) USG transvaginal
+3) Histeroskopi
+4) Biopsi (dalam kasus tertentu)
+5) Konsultasi ginekolog dianjurkan"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Endometrial Cancer	"Konsultasikan pada dokter anda tentang penggunaan pil KB maupun alat kontrasepsi oral.
+
+Konsultasikan pada dokter anda tentang pengobatan hormon (kombinasi estrogen dan progestin)
+
+Konsumsi makanan kaya omega-3 
+
+Olahraga dan dikuti dengan aktivitas fisik sehari-hari
+
+Pertahankan berat badan ideal 
+
+Konsultasikan pada dokter kandungkan ketika mengalami pendarahan vagina maupun menstruasi berat yang tidak normal setelah menopause."	Konsumsi makanan kaya akan lemak jenuh dan lemak trans
+Lung Cancer	Kanker paru-paru adalah suatu kondisi yang menyebabkan sel-sel membelah di paru-paru secara tidak terkendali. Hal ini menyebabkan pertumbuhan tumor yang mengurangi kemampuan bernafas. Kanker paru-paru adalah salah satu kanker yang paling banyak dialami di antara pria dan wanita. Orang yang merokok memiliki risiko terbesar terkena kanker paru-paru.	Typical		"CHRNA5; TERT; MIR146A; CYP1A1; CLPTM1L; CHRNA3"	16	Health	Cancer		"Faktor intrinsik:
+1) Riwayat keluarga memiliki kanker paru-paru atau kanker lainnya
+
+Faktor gaya hidup:
+1) Merokok
+2) Perokok pasif (paparan asap rokok orang lain)
+3) Paparan gas radon
+4) Paparan asap knalpot
+5) Polusi udara
+6) Paparan serat asbestos
+
+Kondisi medis terkait:
+1) Obstruktif Kronis
+Penyakit Paru (PPOK)
+2) Fibrosis paru
+
+"	"1) Batuk baru yang tidak kunjung sembuh
+2) Batuk darah, bahkan dalam jumlah kecil
+3) Sesak nafas
+4) Nyeri dada
+5) Suara serak
+6) Menurunkan berat badan tanpa mencoba
+7) Sakit tulang
+8) Sakit kepala"	"1) Rontgen paru-paru
+2) Sitologi dahak
+3) Biopsi sampel jaringan
+4) CT-scan dada
+5) Konsultasi dokter dianjurkan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Lung Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Lung Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Lung Cancer	Kanker paru-paru adalah suatu kondisi yang menyebabkan sel-sel membelah di paru-paru secara tidak terkendali. Hal ini menyebabkan pertumbuhan tumor yang mengurangi kemampuan bernafas. Kanker paru-paru adalah salah satu kanker yang paling banyak dialami di antara pria dan wanita. Orang yang merokok memiliki risiko terbesar terkena kanker paru-paru.	Low		"CHRNA5; TERT; MIR146A; CYP1A1; CLPTM1L; CHRNA3"	16	Health	Cancer		"Faktor intrinsik:
+1) Riwayat keluarga memiliki kanker paru-paru atau kanker lainnya
+
+Faktor gaya hidup:
+1) Merokok
+2) Perokok pasif (paparan asap rokok orang lain)
+3) Paparan gas radon
+4) Paparan asap knalpot
+5) Polusi udara
+6) Paparan serat asbestos
+
+Kondisi medis terkait:
+1) Obstruktif Kronis
+Penyakit Paru (PPOK)
+2) Fibrosis paru
+
+"	"1) Batuk baru yang tidak kunjung sembuh
+2) Batuk darah, bahkan dalam jumlah kecil
+3) Sesak nafas
+4) Nyeri dada
+5) Suara serak
+6) Menurunkan berat badan tanpa mencoba
+7) Sakit tulang
+8) Sakit kepala"	"1) Rontgen paru-paru
+2) Sitologi dahak
+3) Biopsi sampel jaringan
+4) CT-scan dada
+5) Konsultasi dokter dianjurkan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Lung Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Lung Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Lung Cancer	Kanker paru-paru adalah suatu kondisi yang menyebabkan sel-sel membelah di paru-paru secara tidak terkendali. Hal ini menyebabkan pertumbuhan tumor yang mengurangi kemampuan bernafas. Kanker paru-paru adalah salah satu kanker yang paling banyak dialami di antara pria dan wanita. Orang yang merokok memiliki risiko terbesar terkena kanker paru-paru.	High		"CHRNA5; TERT; MIR146A; CYP1A1; CLPTM1L; CHRNA3"	16	Health	Cancer		"Faktor intrinsik:
+1) Riwayat keluarga memiliki kanker paru-paru atau kanker lainnya
+
+Faktor gaya hidup:
+1) Merokok
+2) Perokok pasif (paparan asap rokok orang lain)
+3) Paparan gas radon
+4) Paparan asap knalpot
+5) Polusi udara
+6) Paparan serat asbestos
+
+Kondisi medis terkait:
+1) Obstruktif Kronis
+Penyakit Paru (PPOK)
+2) Fibrosis paru
+
+"	"1) Batuk baru yang tidak kunjung sembuh
+2) Batuk darah, bahkan dalam jumlah kecil
+3) Sesak nafas
+4) Nyeri dada
+5) Suara serak
+6) Menurunkan berat badan tanpa mencoba
+7) Sakit tulang
+8) Sakit kepala"	"1) Rontgen paru-paru
+2) Sitologi dahak
+3) Biopsi sampel jaringan
+4) CT-scan dada
+5) Konsultasi dokter dianjurkan"	TBA	TBA	TBA
+Prostate Cancer	Kanker prostat adalah salah satu jenis kanker yang paling umum pada pria. Biasanya kanker prostat tumbuh perlahan dan awalnya terbatas pada kelenjar prostat, di mana mungkin tidak menyebabkan kerusakan serius. Namun, hal itu bisa bersifat agresif dan dapat menyebar dengan cepat. Deteksi dini memiliki peluang lebih besar untuk berhasil diatasi.	Typical		"MSMB; JAZF1; LOC105375751 ; PRNCR1; HNF1B; SLC22A3; CASC21; LOC105372441; SHROOM2 ; CASC8; MARCHF8; CTD-2194D22.4 ; LDAH; ADNP; NSMCE2"	17	Health	Cancer		"Faktor intrinsik:
+1) Usia: lebih sering terjadi pada
+pria di atas usia 50 tahun
+2) Etnis: lebih umum di Afrika-Amerika
+3) Riwayat keluarga yang memiliki kanker prostat dan kanker lainnya
+
+Faktor gaya hidup:
+1) Merokok
+2) Obesitas
+3) Paparan bahan kimia termasuk herbisida oranye
+
+Kondisi medis terkait:
+1) Radang prostat
+2) Vasektomi
+3) Infeksi menular secara seksual
+
+"	"1) Nyeri tumpul di daerah pelvis bagian bawah
+2) Sering buang air kecil
+3) Kesulitan buang air kecil, nyeri, terbakar, menetes atau aliran urin lemah, Hematuria
+4) Ejakulasi yang menyakitkan, Disfungsi ereksi, Darah dalam air mani
+5) Sakit atau tidak nyaman saat duduk (jika prostat membesar)
+6) Kehilangan nafsu makan dan berat badan"	"1) Tes Prostat Spesifik Antigen (PSA)
+2) Pemeriksaan Rektal Digital (DRE)
+3) USG
+4) Biopsi prostat
+5) Konsultasi ahli urologi"	Secara genetik, kamu memiliki risiko umum untuk mengidap Prostate Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Prostate Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Prostate Cancer	Kanker prostat adalah salah satu jenis kanker yang paling umum pada pria. Biasanya kanker prostat tumbuh perlahan dan awalnya terbatas pada kelenjar prostat, di mana mungkin tidak menyebabkan kerusakan serius. Namun, hal itu bisa bersifat agresif dan dapat menyebar dengan cepat. Deteksi dini memiliki peluang lebih besar untuk berhasil diatasi.	Low		"MSMB; JAZF1; LOC105375751 ; PRNCR1; HNF1B; SLC22A3; CASC21; LOC105372441; SHROOM2 ; CASC8; MARCHF8; CTD-2194D22.4 ; LDAH; ADNP; NSMCE2"	17	Health	Cancer		"Faktor intrinsik:
+1) Usia: lebih sering terjadi pada
+pria di atas usia 50 tahun
+2) Etnis: lebih umum di Afrika-Amerika
+3) Riwayat keluarga yang memiliki kanker prostat dan kanker lainnya
+
+Faktor gaya hidup:
+1) Merokok
+2) Obesitas
+3) Paparan bahan kimia termasuk herbisida oranye
+
+Kondisi medis terkait:
+1) Radang prostat
+2) Vasektomi
+3) Infeksi menular secara seksual
+
+"	"1) Nyeri tumpul di daerah pelvis bagian bawah
+2) Sering buang air kecil
+3) Kesulitan buang air kecil, nyeri, terbakar, menetes atau aliran urin lemah, Hematuria
+4) Ejakulasi yang menyakitkan, Disfungsi ereksi, Darah dalam air mani
+5) Sakit atau tidak nyaman saat duduk (jika prostat membesar)
+6) Kehilangan nafsu makan dan berat badan"	"1) Tes Prostat Spesifik Antigen (PSA)
+2) Pemeriksaan Rektal Digital (DRE)
+3) USG
+4) Biopsi prostat
+5) Konsultasi ahli urologi"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Prostate Cancer	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Prostate Cancer dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Prostate Cancer	Kanker prostat adalah salah satu jenis kanker yang paling umum pada pria. Biasanya kanker prostat tumbuh perlahan dan awalnya terbatas pada kelenjar prostat, di mana mungkin tidak menyebabkan kerusakan serius. Namun, hal itu bisa bersifat agresif dan dapat menyebar dengan cepat. Deteksi dini memiliki peluang lebih besar untuk berhasil diatasi.	High		"MSMB; JAZF1; LOC105375751 ; PRNCR1; HNF1B; SLC22A3; CASC21; LOC105372441; SHROOM2 ; CASC8; MARCHF8; CTD-2194D22.4 ; LDAH; ADNP; NSMCE2"	17	Health	Cancer		"Faktor intrinsik:
+1) Usia: lebih sering terjadi pada
+pria di atas usia 50 tahun
+2) Etnis: lebih umum di Afrika-Amerika
+3) Riwayat keluarga yang memiliki kanker prostat dan kanker lainnya
+
+Faktor gaya hidup:
+1) Merokok
+2) Obesitas
+3) Paparan bahan kimia termasuk herbisida oranye
+
+Kondisi medis terkait:
+1) Radang prostat
+2) Vasektomi
+3) Infeksi menular secara seksual
+
+"	"1) Nyeri tumpul di daerah pelvis bagian bawah
+2) Sering buang air kecil
+3) Kesulitan buang air kecil, nyeri, terbakar, menetes atau aliran urin lemah, Hematuria
+4) Ejakulasi yang menyakitkan, Disfungsi ereksi, Darah dalam air mani
+5) Sakit atau tidak nyaman saat duduk (jika prostat membesar)
+6) Kehilangan nafsu makan dan berat badan"	"1) Tes Prostat Spesifik Antigen (PSA)
+2) Pemeriksaan Rektal Digital (DRE)
+3) USG
+4) Biopsi prostat
+5) Konsultasi ahli urologi"	TBA	TBA	TBA
+Celiac Disease	Penyakit celiac adalah gangguan di mana mengkonsumsi gluten (protein penyimpanan yang ada dalam gandum, barley dan rye) memicu respon imun berlebihan dalam tubuh, menyebabkan peradangan dan kerusakan pada usus kecil. Penyakit celiac juga dapat mempengaruhi bagian tubuh lain seperti tulang, persendian, kulit, sistem saraf, dan limpa.Ê	Typical		"LINC01934; IL12A-AS1; LPP; TAGAP, LOC105378083, LOC107986664; ZMIZ1; IL18R1; PUS10; KIAA1109"	18	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Jenis Kelamin: lebih umum pada wanita
+2) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Pola makan mengandung gluten
+
+Kondisi medis terkait:
+1) Diabetes Tipe 1
+2) Sindrom Turner
+3) Sindrom Down
+4) Penyakit Hashimoto
+5) Infeksi Gastrointestinal (infeksi saluran pencernaan)
+
+"	"Gejala Pencernaan (Lebih sering terjadi pada anak-anak):
+1) Kembung, diare, tinja berbau busuk
+2) Muntah, mual
+3) Sakit perut
+
+Gejala ekstra-usus (Lebih sering terjadi pada orang dewasa):
+1) Anemia
+2) Nyeri tulang dan sendi
+3) Dermatitis herpetiformis
+4) Sakit perut, bisul"	"1) Tes transglutaminase jaringan imunoglobulin A
+2) Tingkat IgA total. Tes IgG peptida gliadin deaminasi, jika defisiensi IgA
+3) Biopsi usus halus diikuti dengan esofagogastroduodenoskopi, jika hasil biopsi positif
+4) Biopsi kulit (Dermatitis herpetiformis)"	Secara genetik, kamu memiliki risiko umum untuk mengidap Celiac Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Celiac Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Celiac Disease	Penyakit celiac adalah gangguan di mana mengkonsumsi gluten (protein penyimpanan yang ada dalam gandum, barley dan rye) memicu respon imun berlebihan dalam tubuh, menyebabkan peradangan dan kerusakan pada usus kecil. Penyakit celiac juga dapat mempengaruhi bagian tubuh lain seperti tulang, persendian, kulit, sistem saraf, dan limpa.Ê	Low		"LINC01934; IL12A-AS1; LPP; TAGAP, LOC105378083, LOC107986664; ZMIZ1; IL18R1; PUS10; KIAA1109"	18	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Jenis Kelamin: lebih umum pada wanita
+2) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Pola makan mengandung gluten
+
+Kondisi medis terkait:
+1) Diabetes Tipe 1
+2) Sindrom Turner
+3) Sindrom Down
+4) Penyakit Hashimoto
+5) Infeksi Gastrointestinal (infeksi saluran pencernaan)
+
+"	"Gejala Pencernaan (Lebih sering terjadi pada anak-anak):
+1) Kembung, diare, tinja berbau busuk
+2) Muntah, mual
+3) Sakit perut
+
+Gejala ekstra-usus (Lebih sering terjadi pada orang dewasa):
+1) Anemia
+2) Nyeri tulang dan sendi
+3) Dermatitis herpetiformis
+4) Sakit perut, bisul"	"1) Tes transglutaminase jaringan imunoglobulin A
+2) Tingkat IgA total. Tes IgG peptida gliadin deaminasi, jika defisiensi IgA
+3) Biopsi usus halus diikuti dengan esofagogastroduodenoskopi, jika hasil biopsi positif
+4) Biopsi kulit (Dermatitis herpetiformis)"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Celiac Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Celiac Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Celiac Disease	Penyakit celiac adalah gangguan di mana mengkonsumsi gluten (protein penyimpanan yang ada dalam gandum, barley dan rye) memicu respon imun berlebihan dalam tubuh, menyebabkan peradangan dan kerusakan pada usus kecil. Penyakit celiac juga dapat mempengaruhi bagian tubuh lain seperti tulang, persendian, kulit, sistem saraf, dan limpa.Ê	High		"LINC01934; IL12A-AS1; LPP; TAGAP, LOC105378083, LOC107986664; ZMIZ1; IL18R1; PUS10; KIAA1109"	18	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Jenis Kelamin: lebih umum pada wanita
+2) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Pola makan mengandung gluten
+
+Kondisi medis terkait:
+1) Diabetes Tipe 1
+2) Sindrom Turner
+3) Sindrom Down
+4) Penyakit Hashimoto
+5) Infeksi Gastrointestinal (infeksi saluran pencernaan)
+
+"	"Gejala Pencernaan (Lebih sering terjadi pada anak-anak):
+1) Kembung, diare, tinja berbau busuk
+2) Muntah, mual
+3) Sakit perut
+
+Gejala ekstra-usus (Lebih sering terjadi pada orang dewasa):
+1) Anemia
+2) Nyeri tulang dan sendi
+3) Dermatitis herpetiformis
+4) Sakit perut, bisul"	"1) Tes transglutaminase jaringan imunoglobulin A
+2) Tingkat IgA total. Tes IgG peptida gliadin deaminasi, jika defisiensi IgA
+3) Biopsi usus halus diikuti dengan esofagogastroduodenoskopi, jika hasil biopsi positif
+4) Biopsi kulit (Dermatitis herpetiformis)"	TBA	TBA	TBA
+Crohn's Disease	Penyakit Crohn adalah penyakit inflamasi kronis idiopatik yang mempengaruhi berbagai bagian saluran pencernaan dari mulut ke anus. Penyakit Crohn menyebabkan peradangan dan iritasi pada saluran pencernaan, yang dapat menyebabkan sakit perut, diare, kelelahan, penurunan berat badan dan malnutrisi. Respon imun abnormal, genetika, dan faktor lingkungan berkontribusi terhadapnya.	Typical		"TNFSF15; IRF1-AS1; PTPN2; STAT3; IL23R; LINC01475; ATG16L1; IRGM"	19	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Usia: biasanya dimulai sebelum 30 tahun
+2) Etnis: lebih umum di Yahudi Ashkenazi
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Merokok
+2) Pola makan tinggi lemak
+
+Kondisi medis terkait:
+) Anemia
+2) Radang sendi
+3) Gangguan Kulit- Eritema Nodosum, Pioderma Gangrenosum
+4) Osteoporosis
+5) Gangguan Mata- Skleritis, Episkleritis, Uveitis
+6) Pankreatitis
+
+"	"1) Diare
+2) Darah dalam tinja atau perdarahan per rektum
+3) Sakit perut/kram
+4) Fistula
+5) Mual, kehilangan nafsu makan, penurunan berat badan
+6) Demam
+7) Tertundanya pertumbuhan dan perkembangan seksual pada anak
+8) Anemia, kekurangan vitamin
+9) Kelelahan"	"1) Pemeriksaan fisik oleh dokter
+2) Tes tinja
+3) Endoskopi
+4) Kolonoskopi
+5) Biopsi
+6) CT-scan
+7) Barium X-ray
+8) Sigmoidoskopi fleksibel
+9) Tes darah CBC, ESR, CRP"	Secara genetik, kamu memiliki risiko umum untuk mengidap Crohn's Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Crohn's Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Crohn's Disease	Penyakit Crohn adalah penyakit inflamasi kronis idiopatik yang mempengaruhi berbagai bagian saluran pencernaan dari mulut ke anus. Penyakit Crohn menyebabkan peradangan dan iritasi pada saluran pencernaan, yang dapat menyebabkan sakit perut, diare, kelelahan, penurunan berat badan dan malnutrisi. Respon imun abnormal, genetika, dan faktor lingkungan berkontribusi terhadapnya.	Low		"TNFSF15; IRF1-AS1; PTPN2; STAT3; IL23R; LINC01475; ATG16L1; IRGM"	19	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Usia: biasanya dimulai sebelum 30 tahun
+2) Etnis: lebih umum di Yahudi Ashkenazi
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Merokok
+2) Pola makan tinggi lemak
+
+Kondisi medis terkait:
+) Anemia
+2) Radang sendi
+3) Gangguan Kulit- Eritema Nodosum, Pioderma Gangrenosum
+4) Osteoporosis
+5) Gangguan Mata- Skleritis, Episkleritis, Uveitis
+6) Pankreatitis
+
+"	"1) Diare
+2) Darah dalam tinja atau perdarahan per rektum
+3) Sakit perut/kram
+4) Fistula
+5) Mual, kehilangan nafsu makan, penurunan berat badan
+6) Demam
+7) Tertundanya pertumbuhan dan perkembangan seksual pada anak
+8) Anemia, kekurangan vitamin
+9) Kelelahan"	"1) Pemeriksaan fisik oleh dokter
+2) Tes tinja
+3) Endoskopi
+4) Kolonoskopi
+5) Biopsi
+6) CT-scan
+7) Barium X-ray
+8) Sigmoidoskopi fleksibel
+9) Tes darah CBC, ESR, CRP"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Crohn's Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Crohn's Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Crohn's Disease	Penyakit Crohn adalah penyakit inflamasi kronis idiopatik yang mempengaruhi berbagai bagian saluran pencernaan dari mulut ke anus. Penyakit Crohn menyebabkan peradangan dan iritasi pada saluran pencernaan, yang dapat menyebabkan sakit perut, diare, kelelahan, penurunan berat badan dan malnutrisi. Respon imun abnormal, genetika, dan faktor lingkungan berkontribusi terhadapnya.	High		"TNFSF15; IRF1-AS1; PTPN2; STAT3; IL23R; LINC01475; ATG16L1; IRGM"	19	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Usia: biasanya dimulai sebelum 30 tahun
+2) Etnis: lebih umum di Yahudi Ashkenazi
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Merokok
+2) Pola makan tinggi lemak
+
+Kondisi medis terkait:
+) Anemia
+2) Radang sendi
+3) Gangguan Kulit- Eritema Nodosum, Pioderma Gangrenosum
+4) Osteoporosis
+5) Gangguan Mata- Skleritis, Episkleritis, Uveitis
+6) Pankreatitis
+
+"	"1) Diare
+2) Darah dalam tinja atau perdarahan per rektum
+3) Sakit perut/kram
+4) Fistula
+5) Mual, kehilangan nafsu makan, penurunan berat badan
+6) Demam
+7) Tertundanya pertumbuhan dan perkembangan seksual pada anak
+8) Anemia, kekurangan vitamin
+9) Kelelahan"	"1) Pemeriksaan fisik oleh dokter
+2) Tes tinja
+3) Endoskopi
+4) Kolonoskopi
+5) Biopsi
+6) CT-scan
+7) Barium X-ray
+8) Sigmoidoskopi fleksibel
+9) Tes darah CBC, ESR, CRP"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Crohn's Disease	"Konsumsi makanan rendah lemak
+
+Konsumsi makanan mengandung serat dengan hati-hati
+
+Makan makanan dengan porsi kecil 5-6 kali sehari
+
+Minum air secara teratur
+
+Kendalikan stress dengan relaksasi dan latihan nafas."	Konsumsi makanan kaya serat saat flare (masa penyakit aktif dengan gejala)
+Ulcerative Colitis	Kolitis ulserativa adalah penyakit radang usus kronis yang mempengaruhi lapisan paling dalam dari kolon dan rektum. Hal ini terjadi ketika lapisan kolon, rektum, atau keduanya menjadi meradang. Bisul dan luka dapat terbentuk menyebabkan tinja berdarah dan diare. Respon imun abnormal, genetika, mikrobioma, dan faktor lingkungan berkontribusi terhadap kolitis ulserativa.	Typical		FCGR2A	20	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Usia: biasanya dimulai sebelum 30 tahun
+2) Etnis: lebih umum di Yahudi Ashkenazi
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Pola makan dengan rendah antioksidan
+2) Stress psikologis
+3) Merokok
+
+Kondisi medis terkait:
+1) Penggunaan Pil kontrasepsi
+2) Penggunaan NSAID
+
+"	"1) Diare, sering disertai darah atau nanah
+2) Sakit perut, kram
+3) Nyeri dubur, pendarahan
+4) Masalah buang air besar
+5) Kehilangan nafsu makan, penurunan berat badan
+6) Kelelahan
+7) Demam
+8) Anemia"	"1) Pemeriksaan fisik oleh dokter
+2) Tes tinja
+3) Endoskopi
+4) Kolonoskopi
+5) Biopsi
+6) CT-scan
+7) Barium X-ray
+8) Sigmoidoskopi fleksibel
+9) Tes darah CBC, ESR, CRP"	Secara genetik, kamu memiliki risiko umum untuk mengidap Ulcerative Colitis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Ulcerative Colitis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Ulcerative Colitis	Kolitis ulserativa adalah penyakit radang usus kronis yang mempengaruhi lapisan paling dalam dari kolon dan rektum. Hal ini terjadi ketika lapisan kolon, rektum, atau keduanya menjadi meradang. Bisul dan luka dapat terbentuk menyebabkan tinja berdarah dan diare. Respon imun abnormal, genetika, mikrobioma, dan faktor lingkungan berkontribusi terhadap kolitis ulserativa.	Low		FCGR2A	20	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Usia: biasanya dimulai sebelum 30 tahun
+2) Etnis: lebih umum di Yahudi Ashkenazi
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Pola makan dengan rendah antioksidan
+2) Stress psikologis
+3) Merokok
+
+Kondisi medis terkait:
+1) Penggunaan Pil kontrasepsi
+2) Penggunaan NSAID
+
+"	"1) Diare, sering disertai darah atau nanah
+2) Sakit perut, kram
+3) Nyeri dubur, pendarahan
+4) Masalah buang air besar
+5) Kehilangan nafsu makan, penurunan berat badan
+6) Kelelahan
+7) Demam
+8) Anemia"	"1) Pemeriksaan fisik oleh dokter
+2) Tes tinja
+3) Endoskopi
+4) Kolonoskopi
+5) Biopsi
+6) CT-scan
+7) Barium X-ray
+8) Sigmoidoskopi fleksibel
+9) Tes darah CBC, ESR, CRP"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Ulcerative Colitis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Ulcerative Colitis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Ulcerative Colitis	Kolitis ulserativa adalah penyakit radang usus kronis yang mempengaruhi lapisan paling dalam dari kolon dan rektum. Hal ini terjadi ketika lapisan kolon, rektum, atau keduanya menjadi meradang. Bisul dan luka dapat terbentuk menyebabkan tinja berdarah dan diare. Respon imun abnormal, genetika, mikrobioma, dan faktor lingkungan berkontribusi terhadap kolitis ulserativa.	High		FCGR2A	20	Health	Gastrointestinal Disorders		"Faktor intrinsik:
+1) Usia: biasanya dimulai sebelum 30 tahun
+2) Etnis: lebih umum di Yahudi Ashkenazi
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Pola makan dengan rendah antioksidan
+2) Stress psikologis
+3) Merokok
+
+Kondisi medis terkait:
+1) Penggunaan Pil kontrasepsi
+2) Penggunaan NSAID
+
+"	"1) Diare, sering disertai darah atau nanah
+2) Sakit perut, kram
+3) Nyeri dubur, pendarahan
+4) Masalah buang air besar
+5) Kehilangan nafsu makan, penurunan berat badan
+6) Kelelahan
+7) Demam
+8) Anemia"	"1) Pemeriksaan fisik oleh dokter
+2) Tes tinja
+3) Endoskopi
+4) Kolonoskopi
+5) Biopsi
+6) CT-scan
+7) Barium X-ray
+8) Sigmoidoskopi fleksibel
+9) Tes darah CBC, ESR, CRP"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Ulcerative Colitis	"Makan makanan rendah lemak
+
+Konsumsi vitamin C
+
+Makan makanan berserat
+
+Makan makanan dengan porsi kecil 5-6 kali sehari
+
+Minum air secara teratur
+
+Makan nanas
+
+Makan makanan/suplemen probiotik
+
+Konsumsi kunyit
+
+Lakukan relaksasi teratur dan latihan pernapasan untuk mengurangi stress"	"Hindari makanan yang mengandung serat berlebih selama sakit dan bergejala.
+
+Batasi konsumsi produk susu"
+Hypothyroidism	Hipotiroidisme sebuah gangguan umum, dimana kelenjar tiroid tidak menghasilkan cukup hormon tiroid. Hipotiroidisme berhubungan dengan kadar TSH (hormon perangsang tiroid) yang lebih tinggi, dan dapat juga disebabkan karena gangguan autoimun (penyakit Hashimoto) atau karena kekurangan yodium yang berat. Penyakit ini menyebabkan asimtomatik hingga koma miksedema dengan kegagalan banyak organ.	Typical		"PTPN22; FOXE1; SH2B3; PTCSC2"	21	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Umur: lebih sering terjadi setelah 60 tahun 
+2) Jenis kelamin: perempuan memiliki risiko yang lebih tinggi daripada laki-laki 
+3) Riwayat keluarga. 
+
+Faktor Gaya Hidup :
+ 1) Diet rendah yodium. 
+
+Kondisi Medis Terkait: 
+1) Penyakit autoimun seperti Diabetes Tipe 1, penyakit seliak, Rheumatoid Arthritis, Lupus 
+2) Sindrom Turner 
+3) Gangguan kelenjar pituitari dan adrenal 
+4) Pengobatan dengan yodium radioaktif 
+5) Operasi tiroid 
+6) Kehamilan. "	"1) Kenaikan berat badan, hipotermia
+2) Sembelit
+3) Amenore
+4) Kulit kering dan bersisik, rambut tipis
+5) Detak jantung rendah, peningkatan ukuran jantung, kolesterol tinggi
+6) Kelupaan, kesemutan di tangan dan kaki, refleks lambat
+7) Suara serak, kelopak mata turun, otot lemah, libido menurun, wajah bengkak, gondok. "	"1) Pemeriksaan klinis oleh dokter
+2) Tes Fungsi Tiroid Total T3 , T4, kadar TSH dalam serum
+3) Gratis T3 dan T4
+4) Tes auto-antibodi tiroid (Antibodi Anti-TPO)
+5) Hemogram."	Secara genetik, kamu memiliki risiko umum untuk mengidap Hypothyroidism	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Hypothyroidism dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Hypothyroidism	Hipotiroidisme sebuah gangguan umum, dimana kelenjar tiroid tidak menghasilkan cukup hormon tiroid. Hipotiroidisme berhubungan dengan kadar TSH (hormon perangsang tiroid) yang lebih tinggi, dan dapat juga disebabkan karena gangguan autoimun (penyakit Hashimoto) atau karena kekurangan yodium yang berat. Penyakit ini menyebabkan asimtomatik hingga koma miksedema dengan kegagalan banyak organ.	Low		"PTPN22; FOXE1; SH2B3; PTCSC2"	21	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Umur: lebih sering terjadi setelah 60 tahun 
+2) Jenis kelamin: perempuan memiliki risiko yang lebih tinggi daripada laki-laki 
+3) Riwayat keluarga. 
+
+Faktor Gaya Hidup :
+ 1) Diet rendah yodium. 
+
+Kondisi Medis Terkait: 
+1) Penyakit autoimun seperti Diabetes Tipe 1, penyakit seliak, Rheumatoid Arthritis, Lupus 
+2) Sindrom Turner 
+3) Gangguan kelenjar pituitari dan adrenal 
+4) Pengobatan dengan yodium radioaktif 
+5) Operasi tiroid 
+6) Kehamilan. "	"1) Kenaikan berat badan, hipotermia
+2) Sembelit
+3) Amenore
+4) Kulit kering dan bersisik, rambut tipis
+5) Detak jantung rendah, peningkatan ukuran jantung, kolesterol tinggi
+6) Kelupaan, kesemutan di tangan dan kaki, refleks lambat
+7) Suara serak, kelopak mata turun, otot lemah, libido menurun, wajah bengkak, gondok. "	"1) Pemeriksaan klinis oleh dokter
+2) Tes Fungsi Tiroid Total T3 , T4, kadar TSH dalam serum
+3) Gratis T3 dan T4
+4) Tes auto-antibodi tiroid (Antibodi Anti-TPO)
+5) Hemogram."	Secara genetik, kamu memiliki risiko rendah untuk mengidap Hypothyroidism	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Hypothyroidism dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Hypothyroidism	Hipotiroidisme sebuah gangguan umum, dimana kelenjar tiroid tidak menghasilkan cukup hormon tiroid. Hipotiroidisme berhubungan dengan kadar TSH (hormon perangsang tiroid) yang lebih tinggi, dan dapat juga disebabkan karena gangguan autoimun (penyakit Hashimoto) atau karena kekurangan yodium yang berat. Penyakit ini menyebabkan asimtomatik hingga koma miksedema dengan kegagalan banyak organ.	High		"PTPN22; FOXE1; SH2B3; PTCSC2"	21	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Umur: lebih sering terjadi setelah 60 tahun 
+2) Jenis kelamin: perempuan memiliki risiko yang lebih tinggi daripada laki-laki 
+3) Riwayat keluarga. 
+
+Faktor Gaya Hidup :
+ 1) Diet rendah yodium. 
+
+Kondisi Medis Terkait: 
+1) Penyakit autoimun seperti Diabetes Tipe 1, penyakit seliak, Rheumatoid Arthritis, Lupus 
+2) Sindrom Turner 
+3) Gangguan kelenjar pituitari dan adrenal 
+4) Pengobatan dengan yodium radioaktif 
+5) Operasi tiroid 
+6) Kehamilan. "	"1) Kenaikan berat badan, hipotermia
+2) Sembelit
+3) Amenore
+4) Kulit kering dan bersisik, rambut tipis
+5) Detak jantung rendah, peningkatan ukuran jantung, kolesterol tinggi
+6) Kelupaan, kesemutan di tangan dan kaki, refleks lambat
+7) Suara serak, kelopak mata turun, otot lemah, libido menurun, wajah bengkak, gondok. "	"1) Pemeriksaan klinis oleh dokter
+2) Tes Fungsi Tiroid Total T3 , T4, kadar TSH dalam serum
+3) Gratis T3 dan T4
+4) Tes auto-antibodi tiroid (Antibodi Anti-TPO)
+5) Hemogram."	TBA	TBA	TBA
+Obesity	Obesitas dapat didefinisikan sebagai berat badan berlebih yang disebabkan oleh akumulasi lemak tubuh yang memiliki indeks masa tubuh (BMI) lebih dari 30 kg/m2. Obesitas dapat terjadi akibat ketidakseimbangan antara asupan kalori dan konsumsi kalori. Obesitas dapat meningkatkan resiko penyakit jantung, diabetes, tekanan darah tinggi dan kanker tertentu	Typical		"FTO; NPC1"	22	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Usia: risiko meningkat seiring bertambahnya usia 
+2) Jenis kelamin: perempuan memilki risiko lebih besar daripada laki-laki 
+3) Riwayat keluarga. 
+
+Faktor Gaya Hidup: 
+1) Diet tidak sehat 
+2) Makan berlebihan atau makan emosional 
+3) Kurang olahraga 
+4) Stres 
+5) Kurang tidur 
+6) Obat-obatan tertentu seperti pil kontrasepsi, antidepresan, steroid, dll. 
+
+Kondisi Medis Terkait: 
+1) Sindrom Ovarium Polikistik (PCOS) 
+2) Hipotiroidisme 
+3) Depresi 
+4) Penyakit Arteri Koroner 
+5) Hipertensi 
+6) Stroke 
+7) Diabetes Tipe 2"	"1) BMI tinggi
+2) Apnea Tidur Obstruktif
+3) Deformitas Sendi."	"1) Pengukuran BMI dan lingkar pinggang 
+2) Analisis massa lemak tubuh menggunakan metode berbasis pencitraan seperti DEXA (Dual Energy X-ray Absorptiometry), MRI dan CT scan atau diukur secara tidak langsung menggunakan air, perpindahan udara (BODPOD) dan analisis bioimpedansi (BIA) 
+3) Distribusi lemak tubuh (ketebalan lipatan kulit, pengukuran rasio pinggang ke pinggul) 
+4) Profil Lipid Puasa 
+5) Tes Fungsi Hati 
+6) Tes Fungsi Tiroid 
+7) Kadar Glukosa Puasa dan HbA1c"	Secara genetik, kamu memiliki risiko umum untuk mengidap Obesity	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Obesity dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Obesity	Obesitas dapat didefinisikan sebagai berat badan berlebih yang disebabkan oleh akumulasi lemak tubuh yang memiliki indeks masa tubuh (BMI) lebih dari 30 kg/m2. Obesitas dapat terjadi akibat ketidakseimbangan antara asupan kalori dan konsumsi kalori. Obesitas dapat meningkatkan resiko penyakit jantung, diabetes, tekanan darah tinggi dan kanker tertentu	Low		"FTO; NPC1"	22	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Usia: risiko meningkat seiring bertambahnya usia 
+2) Jenis kelamin: perempuan memilki risiko lebih besar daripada laki-laki 
+3) Riwayat keluarga. 
+
+Faktor Gaya Hidup: 
+1) Diet tidak sehat 
+2) Makan berlebihan atau makan emosional 
+3) Kurang olahraga 
+4) Stres 
+5) Kurang tidur 
+6) Obat-obatan tertentu seperti pil kontrasepsi, antidepresan, steroid, dll. 
+
+Kondisi Medis Terkait: 
+1) Sindrom Ovarium Polikistik (PCOS) 
+2) Hipotiroidisme 
+3) Depresi 
+4) Penyakit Arteri Koroner 
+5) Hipertensi 
+6) Stroke 
+7) Diabetes Tipe 2"	"1) BMI tinggi
+2) Apnea Tidur Obstruktif
+3) Deformitas Sendi."	"1) Pengukuran BMI dan lingkar pinggang 
+2) Analisis massa lemak tubuh menggunakan metode berbasis pencitraan seperti DEXA (Dual Energy X-ray Absorptiometry), MRI dan CT scan atau diukur secara tidak langsung menggunakan air, perpindahan udara (BODPOD) dan analisis bioimpedansi (BIA) 
+3) Distribusi lemak tubuh (ketebalan lipatan kulit, pengukuran rasio pinggang ke pinggul) 
+4) Profil Lipid Puasa 
+5) Tes Fungsi Hati 
+6) Tes Fungsi Tiroid 
+7) Kadar Glukosa Puasa dan HbA1c"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Obesity	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Obesity dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Obesity	Obesitas dapat didefinisikan sebagai berat badan berlebih yang disebabkan oleh akumulasi lemak tubuh yang memiliki indeks masa tubuh (BMI) lebih dari 30 kg/m2. Obesitas dapat terjadi akibat ketidakseimbangan antara asupan kalori dan konsumsi kalori. Obesitas dapat meningkatkan resiko penyakit jantung, diabetes, tekanan darah tinggi dan kanker tertentu	High		"FTO; NPC1"	22	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Usia: risiko meningkat seiring bertambahnya usia 
+2) Jenis kelamin: perempuan memilki risiko lebih besar daripada laki-laki 
+3) Riwayat keluarga. 
+
+Faktor Gaya Hidup: 
+1) Diet tidak sehat 
+2) Makan berlebihan atau makan emosional 
+3) Kurang olahraga 
+4) Stres 
+5) Kurang tidur 
+6) Obat-obatan tertentu seperti pil kontrasepsi, antidepresan, steroid, dll. 
+
+Kondisi Medis Terkait: 
+1) Sindrom Ovarium Polikistik (PCOS) 
+2) Hipotiroidisme 
+3) Depresi 
+4) Penyakit Arteri Koroner 
+5) Hipertensi 
+6) Stroke 
+7) Diabetes Tipe 2"	"1) BMI tinggi
+2) Apnea Tidur Obstruktif
+3) Deformitas Sendi."	"1) Pengukuran BMI dan lingkar pinggang 
+2) Analisis massa lemak tubuh menggunakan metode berbasis pencitraan seperti DEXA (Dual Energy X-ray Absorptiometry), MRI dan CT scan atau diukur secara tidak langsung menggunakan air, perpindahan udara (BODPOD) dan analisis bioimpedansi (BIA) 
+3) Distribusi lemak tubuh (ketebalan lipatan kulit, pengukuran rasio pinggang ke pinggul) 
+4) Profil Lipid Puasa 
+5) Tes Fungsi Hati 
+6) Tes Fungsi Tiroid 
+7) Kadar Glukosa Puasa dan HbA1c"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Obesity	"Perbaiki asupan kalori dan aktifitas fisik
+
+Kurangi asupan kalori
+
+Pilihlah makanan yang lebih sehat dan kontrol porsi makan Anda
+
+Lakukan aktivitas fisik secara teratur 150 menit/minggu
+
+Batasi makan secara berlebihan jika sedang stress
+
+Konsultasikan dengan dokter terkait pengobatan dan operasi yang cocok. 
+
+Tidur yang cukup 6-8 jam/hari."	"Kurangi karbohidrat, lemak jenuh, garam dan gula, serta minuman dingin. 
+
+Batasi produk dengan fruktosa tinggi. 
+
+Jangan melewatkan waktu makan.
+
+Jangan abaikan kondisi kesehatan.
+
+Hindari rencana diet yang tidak realistis.
+
+Jangan konsumsi suplemen penurun berat badan."
+Type 2 Diabetes	Diabetes Tipe 2 (T2D) adalah kondisi kronis yang mempengaruhi cara glukosa diproses yang menyebabkan peningkatan kadar glukosa dalam darah. T2D umumnya ditandai dengan resistensi insulin yang membuat kadar glukosa darah terus meningkat, Hal ini dapat mengarah pada neuropati diabetik, nefropati, retinopati, penyakit jantung, ketoasidosis diabetik, dan kaki diabetik.Ê	Typical		"IGF2BP2; CDKAL1; TCF7L2; ARAP1; FTO; ADCY5; WFS1; KCNQ1; SLC30A8; UBE2E2; CTBP1; FSCN3; NKX6-3; GPSM1; HNF1B; PABPC4; PPARG; JAZF1; THADA; CCNQ; EXOC6; IGF2; PAM; GATAD2A; IRS1; C5orf67"	23	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Usia: risiko meningkat setelah 40 tahun 
+2) Jenis kelamin: perempuan memiliki risiko lebih besar daripada laki-laki 
+3) Etnis: lebih sering terjadi pada populasi tertentu, termasuk orang India 
+4) Riwayat keluarga. 
+
+Faktor Gaya Hidup: 
+1) Gaya hidup kurangnya bergerak 
+2) Berat badan berlebih 
+3) Minum soda atau terlalu banyak mengkonsumsi gula dan makanan olahan 
+4) Stres. 
+
+Kondisi Medis Terkait: 
+1) Obesitas 
+2) Sindrom Ovarium Polikistik (PCOS) 
+3) Diabetes kehamilan 
+4) Pradiabetes 
+5) Penyakit jantung 
+6) Hipertensi 
+7) Trigliserida tinggi atau HDL rendah. "	"1) Peningkatan rasa haus dan mulut kering
+2) Penglihatan kabur
+3) Luka yang penyembuhannya lambat
+4) Sering buang air kecil dan infeksi saluran kemih
+5) Meningkatkan rasa lapar
+6) Penurunan berat badan yang tidak disengaja
+7) Kelelahan
+8) Kesemutan atau mati rasa pada anggota badan
+9) Kulit gatal/infeksi jamur
+10) Disfungsi ereksi (pria)."	"1) Puasa dan tes gula darah post prandial 
+2) Tes toleransi glukosa oral 
+3) Tes hemoglobin terglikosilasi (HbA1c) 
+4) Tes gula darah acak 
+5) Direkomendasikan untuk berkonsultasi dengan dokter."	Secara genetik, kamu memiliki risiko umum untuk mengidap Type 2 Diabetes	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Type 2 Diabetes dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Type 2 Diabetes	Diabetes Tipe 2 (T2D) adalah kondisi kronis yang mempengaruhi cara glukosa diproses yang menyebabkan peningkatan kadar glukosa dalam darah. T2D umumnya ditandai dengan resistensi insulin yang membuat kadar glukosa darah terus meningkat, Hal ini dapat mengarah pada neuropati diabetik, nefropati, retinopati, penyakit jantung, ketoasidosis diabetik, dan kaki diabetik.Ê	Low		"IGF2BP2; CDKAL1; TCF7L2; ARAP1; FTO; ADCY5; WFS1; KCNQ1; SLC30A8; UBE2E2; CTBP1; FSCN3; NKX6-3; GPSM1; HNF1B; PABPC4; PPARG; JAZF1; THADA; CCNQ; EXOC6; IGF2; PAM; GATAD2A; IRS1; C5orf67"	23	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Usia: risiko meningkat setelah 40 tahun 
+2) Jenis kelamin: perempuan memiliki risiko lebih besar daripada laki-laki 
+3) Etnis: lebih sering terjadi pada populasi tertentu, termasuk orang India 
+4) Riwayat keluarga. 
+
+Faktor Gaya Hidup: 
+1) Gaya hidup kurangnya bergerak 
+2) Berat badan berlebih 
+3) Minum soda atau terlalu banyak mengkonsumsi gula dan makanan olahan 
+4) Stres. 
+
+Kondisi Medis Terkait: 
+1) Obesitas 
+2) Sindrom Ovarium Polikistik (PCOS) 
+3) Diabetes kehamilan 
+4) Pradiabetes 
+5) Penyakit jantung 
+6) Hipertensi 
+7) Trigliserida tinggi atau HDL rendah. "	"1) Peningkatan rasa haus dan mulut kering
+2) Penglihatan kabur
+3) Luka yang penyembuhannya lambat
+4) Sering buang air kecil dan infeksi saluran kemih
+5) Meningkatkan rasa lapar
+6) Penurunan berat badan yang tidak disengaja
+7) Kelelahan
+8) Kesemutan atau mati rasa pada anggota badan
+9) Kulit gatal/infeksi jamur
+10) Disfungsi ereksi (pria)."	"1) Puasa dan tes gula darah post prandial 
+2) Tes toleransi glukosa oral 
+3) Tes hemoglobin terglikosilasi (HbA1c) 
+4) Tes gula darah acak 
+5) Direkomendasikan untuk berkonsultasi dengan dokter."	Secara genetik, kamu memiliki risiko rendah untuk mengidap Type 2 Diabetes	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Type 2 Diabetes dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Type 2 Diabetes	Diabetes Tipe 2 (T2D) adalah kondisi kronis yang mempengaruhi cara glukosa diproses yang menyebabkan peningkatan kadar glukosa dalam darah. T2D umumnya ditandai dengan resistensi insulin yang membuat kadar glukosa darah terus meningkat, Hal ini dapat mengarah pada neuropati diabetik, nefropati, retinopati, penyakit jantung, ketoasidosis diabetik, dan kaki diabetik.Ê	High		"IGF2BP2; CDKAL1; TCF7L2; ARAP1; FTO; ADCY5; WFS1; KCNQ1; SLC30A8; UBE2E2; CTBP1; FSCN3; NKX6-3; GPSM1; HNF1B; PABPC4; PPARG; JAZF1; THADA; CCNQ; EXOC6; IGF2; PAM; GATAD2A; IRS1; C5orf67"	23	Health	Endocrine / Metabolic Disorders		"Faktor Intrinsik: 
+1) Usia: risiko meningkat setelah 40 tahun 
+2) Jenis kelamin: perempuan memiliki risiko lebih besar daripada laki-laki 
+3) Etnis: lebih sering terjadi pada populasi tertentu, termasuk orang India 
+4) Riwayat keluarga. 
+
+Faktor Gaya Hidup: 
+1) Gaya hidup kurangnya bergerak 
+2) Berat badan berlebih 
+3) Minum soda atau terlalu banyak mengkonsumsi gula dan makanan olahan 
+4) Stres. 
+
+Kondisi Medis Terkait: 
+1) Obesitas 
+2) Sindrom Ovarium Polikistik (PCOS) 
+3) Diabetes kehamilan 
+4) Pradiabetes 
+5) Penyakit jantung 
+6) Hipertensi 
+7) Trigliserida tinggi atau HDL rendah. "	"1) Peningkatan rasa haus dan mulut kering
+2) Penglihatan kabur
+3) Luka yang penyembuhannya lambat
+4) Sering buang air kecil dan infeksi saluran kemih
+5) Meningkatkan rasa lapar
+6) Penurunan berat badan yang tidak disengaja
+7) Kelelahan
+8) Kesemutan atau mati rasa pada anggota badan
+9) Kulit gatal/infeksi jamur
+10) Disfungsi ereksi (pria)."	"1) Puasa dan tes gula darah post prandial 
+2) Tes toleransi glukosa oral 
+3) Tes hemoglobin terglikosilasi (HbA1c) 
+4) Tes gula darah acak 
+5) Direkomendasikan untuk berkonsultasi dengan dokter."	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Type 2 Diabetes	"Buat rencana atau pilihan makanan sehat.
+
+Hindari makanan olahan.
+
+Makan makanan dengan indeks glikemilk rendah. 
+
+Konsumsi makanan yang mengandung asam lemak omega-3 dan lemak sehat. 
+
+Konsumsi makanan rendah karbohidrat.
+
+Raih dan pertahankan BMI yang sehat dengan diet dan olahraga. 
+
+Lakukan aktivitas fisik yang teratur. "	"Hindari makanan dengan indeks glikemik (GI) tinggi. 
+
+Batasi makanan dengan tambahan gula.
+
+Jangan terlalu banyak minum soda, minuman dingin atau minuman manis.
+
+Hindari merokok.
+
+Kurangi konsumsi alkohol.
+
+Jangan tidur terlalu larut malam/kurang tidur. "
+Age-Related Macular Degeneration (AMD)	Degenerasi Makula Terkait Usia (AMD) adalah penyebab utama kehilangan penglihatan pada orang dewasa di atas usia 60 tahun. Penyakit ini menyebabkan kerusakan di makula yang memungkinkan kita melihat objek yang lurus ke depan. Patogenesis AMD adalah multifaktorial, melibatkan interaksi kompleks genetik, metabolik, fungsional, dan faktor lingkungan.	Typical		"NPLOC4; ARMS2, LOC105378525; TNFRSF10A, LOC389641; ABCA1; CETP; APOE; SKIV2L; C3; CFB; LOC107986598; CFH"	24	Health	Eye Conditions		"Faktor intrinsik:
+1) Usia
+2) Etnis: lebih umum di Eropa Amerika
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Obesitas
+2) Merokok
+3) Konsumsi alkohol berlebih
+4) Pola makan kekurangan lutein
+5) Stres oksidatif (karena
+radiasi cahaya dan tinggi
+tekanan oksigen)
+
+Kondisi medis terkait:
+1) Hipertensi
+2) Penyakit jantung
+3) penyakit Alzheimer
+
+"	"1) Penglihatan terdistorsi
+2) Bintik buta
+3) Penglihatan kabur
+4) Kesulitan dalam membaca tulisan halus
+5) Area buram gelap di pusat penglihatan
+6) Penampilan bergelombang dari garis lurus
+7) Persepsi warna yang berubah"	"1) Pemeriksaan mata rutin
+2) Tes ketajaman visual
+3) Tes jaringan Amsler
+4) Tes Tomografi Koherensi Optik
+5) Angiogram fluorescein
+6) Biomikroskopi lampu celah
+7) Biopsi dan pemeriksaan histologis"	Secara genetik, kamu memiliki risiko umum untuk mengidap Age-Related Macular Degeneration (AMD)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Age-Related Macular Degeneration (AMD) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Age-Related Macular Degeneration (AMD)	Degenerasi Makula Terkait Usia (AMD) adalah penyebab utama kehilangan penglihatan pada orang dewasa di atas usia 60 tahun. Penyakit ini menyebabkan kerusakan di makula yang memungkinkan kita melihat objek yang lurus ke depan. Patogenesis AMD adalah multifaktorial, melibatkan interaksi kompleks genetik, metabolik, fungsional, dan faktor lingkungan.	Low		"NPLOC4; ARMS2, LOC105378525; TNFRSF10A, LOC389641; ABCA1; CETP; APOE; SKIV2L; C3; CFB; LOC107986598; CFH"	24	Health	Eye Conditions		"Faktor intrinsik:
+1) Usia
+2) Etnis: lebih umum di Eropa Amerika
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Obesitas
+2) Merokok
+3) Konsumsi alkohol berlebih
+4) Pola makan kekurangan lutein
+5) Stres oksidatif (karena
+radiasi cahaya dan tinggi
+tekanan oksigen)
+
+Kondisi medis terkait:
+1) Hipertensi
+2) Penyakit jantung
+3) penyakit Alzheimer
+
+"	"1) Penglihatan terdistorsi
+2) Bintik buta
+3) Penglihatan kabur
+4) Kesulitan dalam membaca tulisan halus
+5) Area buram gelap di pusat penglihatan
+6) Penampilan bergelombang dari garis lurus
+7) Persepsi warna yang berubah"	"1) Pemeriksaan mata rutin
+2) Tes ketajaman visual
+3) Tes jaringan Amsler
+4) Tes Tomografi Koherensi Optik
+5) Angiogram fluorescein
+6) Biomikroskopi lampu celah
+7) Biopsi dan pemeriksaan histologis"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Age-Related Macular Degeneration (AMD)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Age-Related Macular Degeneration (AMD) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Age-Related Macular Degeneration (AMD)	Degenerasi Makula Terkait Usia (AMD) adalah penyebab utama kehilangan penglihatan pada orang dewasa di atas usia 60 tahun. Penyakit ini menyebabkan kerusakan di makula yang memungkinkan kita melihat objek yang lurus ke depan. Patogenesis AMD adalah multifaktorial, melibatkan interaksi kompleks genetik, metabolik, fungsional, dan faktor lingkungan.	High		"NPLOC4; ARMS2, LOC105378525; TNFRSF10A, LOC389641; ABCA1; CETP; APOE; SKIV2L; C3; CFB; LOC107986598; CFH"	24	Health	Eye Conditions		"Faktor intrinsik:
+1) Usia
+2) Etnis: lebih umum di Eropa Amerika
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Obesitas
+2) Merokok
+3) Konsumsi alkohol berlebih
+4) Pola makan kekurangan lutein
+5) Stres oksidatif (karena
+radiasi cahaya dan tinggi
+tekanan oksigen)
+
+Kondisi medis terkait:
+1) Hipertensi
+2) Penyakit jantung
+3) penyakit Alzheimer
+
+"	"1) Penglihatan terdistorsi
+2) Bintik buta
+3) Penglihatan kabur
+4) Kesulitan dalam membaca tulisan halus
+5) Area buram gelap di pusat penglihatan
+6) Penampilan bergelombang dari garis lurus
+7) Persepsi warna yang berubah"	"1) Pemeriksaan mata rutin
+2) Tes ketajaman visual
+3) Tes jaringan Amsler
+4) Tes Tomografi Koherensi Optik
+5) Angiogram fluorescein
+6) Biomikroskopi lampu celah
+7) Biopsi dan pemeriksaan histologis"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Age-Related Macular Degeneration (AMD)	"Makan makanan kaya vitamin dan mineral.
+
+Ikuti gaya hidup aktif dan olahraga.
+
+Pantau tekanan darah dan kolesterol secara teratur. 
+
+Kenakan perlindungan mata seperti kaca mata hitam."	"Merokok
+
+Konsumsi alkohol berlebih
+
+Konsumsi produk tembakau
+
+Konsumsi berlebih lemak jenuh"
+Glaucoma	Glaukoma adalah sekelompok gangguan mata terkait yang menyebabkan kerusakan pada saraf optik yang membawa informasi dari mata ke otak. Glaukoma lebih sering terjadi pada orang dewasa yang lebih tua (di atas 60 tahun). Dalam kebanyakan kasus, glaukoma dikaitkan dengan hipertensi okular dan stres oksidatif. Glaukoma menyebabkan kehilangan penglihatan tepi dan dapat menyebabkan kebutaan.	Typical		"TMCO1; EPDR1; GLIS3; CHAT; FERMT2; COL11A1; PLEKHA7; CDKN2B-AS1; GAS7; EXOC2; ARHGEF12; LOXL1"	25	Health	Eye Conditions		"Faktor intrinsik:
+1) Usia: lebih umum setelah 40 tahun
+2) Etnis: beberapa jenis glaukoma
+lebih umum di etnis yang berbeda
+3) Riwayat keluarga
+
+Faktor gaya hidup: tidak ada
+
+Kondisi medis terkait:
+1) Diabetes
+2) Hipertensi
+3) Penyakit jantung
+4) TIO tinggi
+5) Trauma/Cedera fisik ke mata
+6) Operasi mata
+7) Rabun dekat
+8) Rabun jauh
+9) Kornea tipis
+
+"	"Sebagian besar jenis glaukoma biasanya tidak menimbulkan rasa sakit dan tidak menimbulkan gejala sampai terjadi kehilangan penglihatan yang nyata.
+Beberapa tanda antara lain:
+1) Penglihatan kabur
+2) Halo di sekitar cahaya
+3) Sakit mata yang intens
+4) Mual dan muntah
+5) Sakit kepala"	Pemeriksaan glaukoma komprehensif (termasuk: tonometri, oftalmoskopi, perimetri, gonioskopi, pachymetry) setiap tahun atau setiap dua tahun dimulai pada usia 35 tahun.	Secara genetik, kamu memiliki risiko umum untuk mengidap Glaucoma	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Glaucoma dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Glaucoma	Glaukoma adalah sekelompok gangguan mata terkait yang menyebabkan kerusakan pada saraf optik yang membawa informasi dari mata ke otak. Glaukoma lebih sering terjadi pada orang dewasa yang lebih tua (di atas 60 tahun). Dalam kebanyakan kasus, glaukoma dikaitkan dengan hipertensi okular dan stres oksidatif. Glaukoma menyebabkan kehilangan penglihatan tepi dan dapat menyebabkan kebutaan.	Low		"TMCO1; EPDR1; GLIS3; CHAT; FERMT2; COL11A1; PLEKHA7; CDKN2B-AS1; GAS7; EXOC2; ARHGEF12; LOXL1"	25	Health	Eye Conditions		"Faktor intrinsik:
+1) Usia: lebih umum setelah 40 tahun
+2) Etnis: beberapa jenis glaukoma
+lebih umum di etnis yang berbeda
+3) Riwayat keluarga
+
+Faktor gaya hidup: tidak ada
+
+Kondisi medis terkait:
+1) Diabetes
+2) Hipertensi
+3) Penyakit jantung
+4) TIO tinggi
+5) Trauma/Cedera fisik ke mata
+6) Operasi mata
+7) Rabun dekat
+8) Rabun jauh
+9) Kornea tipis
+
+"	"Sebagian besar jenis glaukoma biasanya tidak menimbulkan rasa sakit dan tidak menimbulkan gejala sampai terjadi kehilangan penglihatan yang nyata.
+Beberapa tanda antara lain:
+1) Penglihatan kabur
+2) Halo di sekitar cahaya
+3) Sakit mata yang intens
+4) Mual dan muntah
+5) Sakit kepala"	Pemeriksaan glaukoma komprehensif (termasuk: tonometri, oftalmoskopi, perimetri, gonioskopi, pachymetry) setiap tahun atau setiap dua tahun dimulai pada usia 35 tahun.	Secara genetik, kamu memiliki risiko rendah untuk mengidap Glaucoma	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Glaucoma dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Glaucoma	Glaukoma adalah sekelompok gangguan mata terkait yang menyebabkan kerusakan pada saraf optik yang membawa informasi dari mata ke otak. Glaukoma lebih sering terjadi pada orang dewasa yang lebih tua (di atas 60 tahun). Dalam kebanyakan kasus, glaukoma dikaitkan dengan hipertensi okular dan stres oksidatif. Glaukoma menyebabkan kehilangan penglihatan tepi dan dapat menyebabkan kebutaan.	High		"TMCO1; EPDR1; GLIS3; CHAT; FERMT2; COL11A1; PLEKHA7; CDKN2B-AS1; GAS7; EXOC2; ARHGEF12; LOXL1"	25	Health	Eye Conditions		"Faktor intrinsik:
+1) Usia: lebih umum setelah 40 tahun
+2) Etnis: beberapa jenis glaukoma
+lebih umum di etnis yang berbeda
+3) Riwayat keluarga
+
+Faktor gaya hidup: tidak ada
+
+Kondisi medis terkait:
+1) Diabetes
+2) Hipertensi
+3) Penyakit jantung
+4) TIO tinggi
+5) Trauma/Cedera fisik ke mata
+6) Operasi mata
+7) Rabun dekat
+8) Rabun jauh
+9) Kornea tipis
+
+"	"Sebagian besar jenis glaukoma biasanya tidak menimbulkan rasa sakit dan tidak menimbulkan gejala sampai terjadi kehilangan penglihatan yang nyata.
+Beberapa tanda antara lain:
+1) Penglihatan kabur
+2) Halo di sekitar cahaya
+3) Sakit mata yang intens
+4) Mual dan muntah
+5) Sakit kepala"	Pemeriksaan glaukoma komprehensif (termasuk: tonometri, oftalmoskopi, perimetri, gonioskopi, pachymetry) setiap tahun atau setiap dua tahun dimulai pada usia 35 tahun.	TBA	TBA	TBA
+Endometriosis	Endometriosis didefinisikan sebagai adanya jaringan endometrium normal yang tumbuh secara abnormal di lokasi selain rongga rahim. Perubahan hormonal selama siklus menstruasi mempengaruhi jaringan ekstra-uterin yang menyebabkan area tersebut menebal, rusak dan berdarah pada setiap siklus menstruasi. Gejala seperti nyeri hanya dapat diatasi melalui tindakan medis dan/atau operasi.	Typical		"WNT4; LOC105376850; GREB1; LOC100506885; CDKN2B-AS1; FN1"	26	Health	Gynaecological Disorders		"Faktor Intrinsik: 
+1) Usia: umum terjadi pada usia 30 hingga 40 tahun 
+2) Riwayat keluarga.Ê
+
+Faktor Gaya Hidup: 
+1) Konsumsi alkohol berlebihan 
+2) Gaya hidup kurang bergerak 
+3) IMT rendah 
+4) Paparan dietilstilbestrol dalam kandungan.ÊÊ
+
+Kondisi Medis Terkait: 
+1) Tingkat estrogen tinggi dalam darah 
+2) Menstruasi dini atau menopause terlambat 
+3) Menstruasi lebih dari 7 hari atau siklus menstruasi kurang dari 27 hari 
+4) Nuliparitas atau melahirkan anak tertunda 
+5) Infeksi panggul 
+6) Kanker ovarium atau payudara 
+7) Cacat tabung Mullerian.
+"	"1) Kram, Sakit perut, inguinal dan punggung
+2) Nyeri selama atau setelah berhubungan seksual, di pelvis, saat buang air besar atau saat buang air kecil
+3) Menstruasi berat atau pendarahan di antara periode
+4) Infertilitas yang memburuk sebelum dan selama menstruasi"""	"1) Pemeriksaan pelvis atau vagina
+2) USG perut / USG transvaginal
+3) Laparoskopi pelvis
+4) MRI
+5) Sigmoidoskopi
+6) Sitoskopi
+7) Biopsi (dalam kasus tertentu)
+8) Indeks kesuburan endometriosis (EFI) ke tahap infertilitas terkait endometriosis"	Secara genetik, kamu memiliki risiko umum untuk mengidap Endometriosis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Endometriosis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Endometriosis	Endometriosis didefinisikan sebagai adanya jaringan endometrium normal yang tumbuh secara abnormal di lokasi selain rongga rahim. Perubahan hormonal selama siklus menstruasi mempengaruhi jaringan ekstra-uterin yang menyebabkan area tersebut menebal, rusak dan berdarah pada setiap siklus menstruasi. Gejala seperti nyeri hanya dapat diatasi melalui tindakan medis dan/atau operasi.	Low		"WNT4; LOC105376850; GREB1; LOC100506885; CDKN2B-AS1; FN1"	26	Health	Gynaecological Disorders		"Faktor Intrinsik: 
+1) Usia: umum terjadi pada usia 30 hingga 40 tahun 
+2) Riwayat keluarga.Ê
+
+Faktor Gaya Hidup: 
+1) Konsumsi alkohol berlebihan 
+2) Gaya hidup kurang bergerak 
+3) IMT rendah 
+4) Paparan dietilstilbestrol dalam kandungan.ÊÊ
+
+Kondisi Medis Terkait: 
+1) Tingkat estrogen tinggi dalam darah 
+2) Menstruasi dini atau menopause terlambat 
+3) Menstruasi lebih dari 7 hari atau siklus menstruasi kurang dari 27 hari 
+4) Nuliparitas atau melahirkan anak tertunda 
+5) Infeksi panggul 
+6) Kanker ovarium atau payudara 
+7) Cacat tabung Mullerian.
+"	"1) Kram, Sakit perut, inguinal dan punggung
+2) Nyeri selama atau setelah berhubungan seksual, di pelvis, saat buang air besar atau saat buang air kecil
+3) Menstruasi berat atau pendarahan di antara periode
+4) Infertilitas yang memburuk sebelum dan selama menstruasi"""	"1) Pemeriksaan pelvis atau vagina
+2) USG perut / USG transvaginal
+3) Laparoskopi pelvis
+4) MRI
+5) Sigmoidoskopi
+6) Sitoskopi
+7) Biopsi (dalam kasus tertentu)
+8) Indeks kesuburan endometriosis (EFI) ke tahap infertilitas terkait endometriosis"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Endometriosis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Endometriosis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Endometriosis	Endometriosis didefinisikan sebagai adanya jaringan endometrium normal yang tumbuh secara abnormal di lokasi selain rongga rahim. Perubahan hormonal selama siklus menstruasi mempengaruhi jaringan ekstra-uterin yang menyebabkan area tersebut menebal, rusak dan berdarah pada setiap siklus menstruasi. Gejala seperti nyeri hanya dapat diatasi melalui tindakan medis dan/atau operasi.	High		"WNT4; LOC105376850; GREB1; LOC100506885; CDKN2B-AS1; FN1"	26	Health	Gynaecological Disorders		"Faktor Intrinsik: 
+1) Usia: umum terjadi pada usia 30 hingga 40 tahun 
+2) Riwayat keluarga.Ê
+
+Faktor Gaya Hidup: 
+1) Konsumsi alkohol berlebihan 
+2) Gaya hidup kurang bergerak 
+3) IMT rendah 
+4) Paparan dietilstilbestrol dalam kandungan.ÊÊ
+
+Kondisi Medis Terkait: 
+1) Tingkat estrogen tinggi dalam darah 
+2) Menstruasi dini atau menopause terlambat 
+3) Menstruasi lebih dari 7 hari atau siklus menstruasi kurang dari 27 hari 
+4) Nuliparitas atau melahirkan anak tertunda 
+5) Infeksi panggul 
+6) Kanker ovarium atau payudara 
+7) Cacat tabung Mullerian.
+"	"1) Kram, Sakit perut, inguinal dan punggung
+2) Nyeri selama atau setelah berhubungan seksual, di pelvis, saat buang air besar atau saat buang air kecil
+3) Menstruasi berat atau pendarahan di antara periode
+4) Infertilitas yang memburuk sebelum dan selama menstruasi"""	"1) Pemeriksaan pelvis atau vagina
+2) USG perut / USG transvaginal
+3) Laparoskopi pelvis
+4) MRI
+5) Sigmoidoskopi
+6) Sitoskopi
+7) Biopsi (dalam kasus tertentu)
+8) Indeks kesuburan endometriosis (EFI) ke tahap infertilitas terkait endometriosis"	TBA	TBA	TBA
+Polycystic Ovary Syndrome (PCOS)	Sindrom Ovarium Polikistik (PCOS) adalah gangguan endokrin yang mempengaruhi wanita pada usia reproduksi. PCOS dapat menyebabkan beberapa masalah reproduksi, seperti tidak adanya menstruasi, menstruasi yang tidak teratur, dan anovulasi (karena folikel tidak matang untuk melepaskan sel telur) yang menyebabkan infertilitas. Patofisiologi PCOS tergolong kompleks dan heterogen dengan kombinasi faktor gaya hidup variasi genetik.	Typical		"FSHR; ERBB4; DENND1A"	27	Health	Gynaecological Disorders		"Faktor Intrinsik: 
+1) Usia: sering terjadi pada usia reproduksi 
+2) Riwayat keluarga
+
+Faktor Gaya Hidup: 
+1) Gaya hidup kurang gerak 
+2) Berat badan berlebih 
+3) Merokok
+
+Kondisi Medis Terkait: 
+1) Obesitas 
+2) Resistensi insulin 
+3) Diabetes Mellitus Tipe 2 
+4) Sindrom metabolik 
+5) Gangguan tiroid
+"	"1) Kelainan menstruasi
+2) Kenaikan berat badan
+3) Infertilitas
+4) Penurunan libido
+5) Pembesaran ovarium
+6) Jerawat parah
+7) Nyeri pelvis
+8) Depresi dan kecemasan
+9) Rambut tubuh yang berlebihan
+10) Akantosis nigrikans"	"1) Pemeriksaan pelvis oleh ginekolog
+2) Sonografi pelvis
+3) Tes Hormon (Tes Fungsi Tiroid, Kadar Prolaktin Serum, Androgen, FSH, LH, AMH, Insulin)
+4) Gula darah
+5) Vitamin D
+6) Pemeriksaan profil lipid jika diindikasikan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Polycystic Ovary Syndrome (PCOS)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Polycystic Ovary Syndrome (PCOS) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Polycystic Ovary Syndrome (PCOS)	Sindrom Ovarium Polikistik (PCOS) adalah gangguan endokrin yang mempengaruhi wanita pada usia reproduksi. PCOS dapat menyebabkan beberapa masalah reproduksi, seperti tidak adanya menstruasi, menstruasi yang tidak teratur, dan anovulasi (karena folikel tidak matang untuk melepaskan sel telur) yang menyebabkan infertilitas. Patofisiologi PCOS tergolong kompleks dan heterogen dengan kombinasi faktor gaya hidup variasi genetik.	Low		"FSHR; ERBB4; DENND1A"	27	Health	Gynaecological Disorders		"Faktor Intrinsik: 
+1) Usia: sering terjadi pada usia reproduksi 
+2) Riwayat keluarga
+
+Faktor Gaya Hidup: 
+1) Gaya hidup kurang gerak 
+2) Berat badan berlebih 
+3) Merokok
+
+Kondisi Medis Terkait: 
+1) Obesitas 
+2) Resistensi insulin 
+3) Diabetes Mellitus Tipe 2 
+4) Sindrom metabolik 
+5) Gangguan tiroid
+"	"1) Kelainan menstruasi
+2) Kenaikan berat badan
+3) Infertilitas
+4) Penurunan libido
+5) Pembesaran ovarium
+6) Jerawat parah
+7) Nyeri pelvis
+8) Depresi dan kecemasan
+9) Rambut tubuh yang berlebihan
+10) Akantosis nigrikans"	"1) Pemeriksaan pelvis oleh ginekolog
+2) Sonografi pelvis
+3) Tes Hormon (Tes Fungsi Tiroid, Kadar Prolaktin Serum, Androgen, FSH, LH, AMH, Insulin)
+4) Gula darah
+5) Vitamin D
+6) Pemeriksaan profil lipid jika diindikasikan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Polycystic Ovary Syndrome (PCOS)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Polycystic Ovary Syndrome (PCOS) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Polycystic Ovary Syndrome (PCOS)	Sindrom Ovarium Polikistik (PCOS) adalah gangguan endokrin yang mempengaruhi wanita pada usia reproduksi. PCOS dapat menyebabkan beberapa masalah reproduksi, seperti tidak adanya menstruasi, menstruasi yang tidak teratur, dan anovulasi (karena folikel tidak matang untuk melepaskan sel telur) yang menyebabkan infertilitas. Patofisiologi PCOS tergolong kompleks dan heterogen dengan kombinasi faktor gaya hidup variasi genetik.	High		"FSHR; ERBB4; DENND1A"	27	Health	Gynaecological Disorders		"Faktor Intrinsik: 
+1) Usia: sering terjadi pada usia reproduksi 
+2) Riwayat keluarga
+
+Faktor Gaya Hidup: 
+1) Gaya hidup kurang gerak 
+2) Berat badan berlebih 
+3) Merokok
+
+Kondisi Medis Terkait: 
+1) Obesitas 
+2) Resistensi insulin 
+3) Diabetes Mellitus Tipe 2 
+4) Sindrom metabolik 
+5) Gangguan tiroid
+"	"1) Kelainan menstruasi
+2) Kenaikan berat badan
+3) Infertilitas
+4) Penurunan libido
+5) Pembesaran ovarium
+6) Jerawat parah
+7) Nyeri pelvis
+8) Depresi dan kecemasan
+9) Rambut tubuh yang berlebihan
+10) Akantosis nigrikans"	"1) Pemeriksaan pelvis oleh ginekolog
+2) Sonografi pelvis
+3) Tes Hormon (Tes Fungsi Tiroid, Kadar Prolaktin Serum, Androgen, FSH, LH, AMH, Insulin)
+4) Gula darah
+5) Vitamin D
+6) Pemeriksaan profil lipid jika diindikasikan"	TBA	TBA	TBA
+Alzheimer's Disease	Penyakit Alzheimer adalah penyakit progresif yang menyebabkan sel-sel otak mengalami degenerasi dan kemudian mati. . Ini disebabkan karena kekurangan neurotransmiter yang penting untuk komunikasi antar sel-sel saraf. Hal ini mempengaruhi area utama otak yang berkaitan dengan memori, ucapan, penalaran, proses sensorik, dan pemikiran sadar. 	Typical		"TOMM40; BIN1; TREM2; CR1; ABCA7; CD2AP; PGRN; MS4A6A; APOC1; NECTIN2; CLU"	28	Health	Neurological Disorders		"Faktor Intrinsik: 
+1) Usia: lebih sering terjadi pada orang dewasa di atas usia 65 tahun 
+2) Jenis kelamin: lebih sering terjadi pada perempuan 
+3) Riwayat keluarga
+
+Faktor Gaya Hidup: 
+1) Obesitas 
+2) Merokok Aktif/Pasif 
+3) Kebiasaan makan yang tidak sehat 
+4) Gaya hidup sedentary 
+5) Pola tidur yang buruk
+
+Kondisi Medis Terkait: 
+1) Resistensi Insulin 
+2) Dislipidemia 
+3) Peradangan 
+4) Sindrom Down 
+5) Penyakit kardiovaskular
+"	"1) Rentang Perhatian yang Dipendekkan
+2) Kesulitan dalam mengenali keluarga dan teman
+3) Gelisah
+4) Halusinasi
+5) Peningkatan kecemasan dan/atau agresi
+6) Memori terganggu
+7) Penurunan kemampuan penalaran, konsentrasi dan pengambilan keputusan 
+8) Perubahan mood dan kepribadian"	"1) Pemeriksaan fisik dan neurologis oleh ahli saraf
+2) Tes kemampuan mental menilai memori jangka pendek dan panjang, perhatian dan konsentrasi, kemampuan bahasa dan komunikasi, orientasi dan kemampuan visuospasial
+3) Tingkat Tusukan Lumbar Tau dan Tau Fosforilasi di CSF
+4) Pencitraan otakTau pencitraan PET, pencitraan PET Amyloid, MRI, CT-scan"	Secara genetik, kamu memiliki risiko umum untuk mengidap Alzheimer's Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Alzheimer's Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Alzheimer's Disease	Penyakit Alzheimer adalah penyakit progresif yang menyebabkan sel-sel otak mengalami degenerasi dan kemudian mati. . Ini disebabkan karena kekurangan neurotransmiter yang penting untuk komunikasi antar sel-sel saraf. Hal ini mempengaruhi area utama otak yang berkaitan dengan memori, ucapan, penalaran, proses sensorik, dan pemikiran sadar. 	Low		"TOMM40; BIN1; TREM2; CR1; ABCA7; CD2AP; PGRN; MS4A6A; APOC1; NECTIN2; CLU"	28	Health	Neurological Disorders		"Faktor Intrinsik: 
+1) Usia: lebih sering terjadi pada orang dewasa di atas usia 65 tahun 
+2) Jenis kelamin: lebih sering terjadi pada perempuan 
+3) Riwayat keluarga
+
+Faktor Gaya Hidup: 
+1) Obesitas 
+2) Merokok Aktif/Pasif 
+3) Kebiasaan makan yang tidak sehat 
+4) Gaya hidup sedentary 
+5) Pola tidur yang buruk
+
+Kondisi Medis Terkait: 
+1) Resistensi Insulin 
+2) Dislipidemia 
+3) Peradangan 
+4) Sindrom Down 
+5) Penyakit kardiovaskular
+"	"1) Rentang Perhatian yang Dipendekkan
+2) Kesulitan dalam mengenali keluarga dan teman
+3) Gelisah
+4) Halusinasi
+5) Peningkatan kecemasan dan/atau agresi
+6) Memori terganggu
+7) Penurunan kemampuan penalaran, konsentrasi dan pengambilan keputusan 
+8) Perubahan mood dan kepribadian"	"1) Pemeriksaan fisik dan neurologis oleh ahli saraf
+2) Tes kemampuan mental menilai memori jangka pendek dan panjang, perhatian dan konsentrasi, kemampuan bahasa dan komunikasi, orientasi dan kemampuan visuospasial
+3) Tingkat Tusukan Lumbar Tau dan Tau Fosforilasi di CSF
+4) Pencitraan otakTau pencitraan PET, pencitraan PET Amyloid, MRI, CT-scan"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Alzheimer's Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Alzheimer's Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Alzheimer's Disease	Penyakit Alzheimer adalah penyakit progresif yang menyebabkan sel-sel otak mengalami degenerasi dan kemudian mati. . Ini disebabkan karena kekurangan neurotransmiter yang penting untuk komunikasi antar sel-sel saraf. Hal ini mempengaruhi area utama otak yang berkaitan dengan memori, ucapan, penalaran, proses sensorik, dan pemikiran sadar. 	High		"TOMM40; BIN1; TREM2; CR1; ABCA7; CD2AP; PGRN; MS4A6A; APOC1; NECTIN2; CLU"	28	Health	Neurological Disorders		"Faktor Intrinsik: 
+1) Usia: lebih sering terjadi pada orang dewasa di atas usia 65 tahun 
+2) Jenis kelamin: lebih sering terjadi pada perempuan 
+3) Riwayat keluarga
+
+Faktor Gaya Hidup: 
+1) Obesitas 
+2) Merokok Aktif/Pasif 
+3) Kebiasaan makan yang tidak sehat 
+4) Gaya hidup sedentary 
+5) Pola tidur yang buruk
+
+Kondisi Medis Terkait: 
+1) Resistensi Insulin 
+2) Dislipidemia 
+3) Peradangan 
+4) Sindrom Down 
+5) Penyakit kardiovaskular
+"	"1) Rentang Perhatian yang Dipendekkan
+2) Kesulitan dalam mengenali keluarga dan teman
+3) Gelisah
+4) Halusinasi
+5) Peningkatan kecemasan dan/atau agresi
+6) Memori terganggu
+7) Penurunan kemampuan penalaran, konsentrasi dan pengambilan keputusan 
+8) Perubahan mood dan kepribadian"	"1) Pemeriksaan fisik dan neurologis oleh ahli saraf
+2) Tes kemampuan mental menilai memori jangka pendek dan panjang, perhatian dan konsentrasi, kemampuan bahasa dan komunikasi, orientasi dan kemampuan visuospasial
+3) Tingkat Tusukan Lumbar Tau dan Tau Fosforilasi di CSF
+4) Pencitraan otakTau pencitraan PET, pencitraan PET Amyloid, MRI, CT-scan"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Alzheimer's Disease	"Lakukan olahraga teratur minimal 150 menit/minggu. Fokus pada latihan aerobik, latihan keseimbangan dan koordinasi (Yoga dan Tai Chi) setiap hari, selain 2-3 sesi latihan kekuatan per minggu.
+
+Konsumsi makanan yang sehat dan seimbang (buah-buahan, sayur-sayuran yang kaya vitamin E, dan omega-3)
+
+Melatih aktivitas mental yang melibatkan komunikasi, interaksi dan organisasi. Terus belajar sesuatu yang baru, berlatih menghafal, memecahkan kuis dan teka-teki.
+
+Tidur cukup 6-8 jam sehari
+
+Lakukan interaksi dan aktivitas sosial"	"Merokok
+
+Konsumsi alkohol berlebihan
+
+Konsumsi karbohirat, gula, dan karbohidrat olahan (tepung, nasi putih, pasta) secara berlebih
+
+Mengkonsumsi makanan yang mengandung lemak trans seperti gorengan dan makanan cepat saji"
+Multiple Sclerosis	Multiple sclerosis (MS) adalah penyakit yang berpotensi melumpuhkan otak dan sumsum tulang belakang. Pada MS, sistem kekebalan tubuh menyerang mielin yang menutupi serabut saraf sehingga menyebabkan kerusakan serabut tersebut. Individu dengan MS yang parah dapat kehilangan kemampuan untuk berjalan secara mandiri. Kombinasi faktor genetik dan lingkungan dapat menyebabkan MS.	Typical		"TNFRSF1A; AGAP2; CBLB; CYP27B1; HLA-DRA; IL2RA; IL7R"	29	Health	Neurological Disorders		"Faktor intrinsik:
+1) Dimulai sebagian besar pada usia 20-an atau 30-an
+2) Tipe Remisi kambuhan MS adalah tiga kali
+lebih umum di perempuan
+3) Risiko tertinggi di orang eropa utara
+4) Riwayat keluarga
+5) Iklim: lebih banyak umum di negara-negara
+dengan iklim sedang
+
+Faktor gaya hidup:
+1) Merokok
+2) Obesitas usia remaja
+
+Kondisi medis terkait:
+1) Infeksi oleh Epstein-Barr Virus
+2) Kekurangan Vitamin D
+3) Penyakit autoimun seperti Diabetes Tipe 1, Radang usus, Penyakit dan gangguan tiroid
+
+"	"1) Kelelahan
+2) Masalah penglihatan
+3) Mati rasa dan kesemutan di lengan, kaki dan tungkai
+4) Kejang otot dan masalah gaya berjalan
+5) Pusing dan Vertigo
+6) Sembelit
+7) Disfungsi kandung kemih
+8) Disfungsi Kognitif (masalah dalam berpikir, belajar dan perencanaan)
+9) Masalah kesehatan mental
+10) Disfungsi seksual"	"Tidak ada tes khusus untuk MS. Sebaliknya, diagnosis multiple sclerosis sering bergantung pada pemeriksaan fisik menyeluruh dan diagnosis perbandingan. Tes meliputi:
+1) Diagnosis klinis berdasarkan kriteria diagnostik
+2) Pemeriksaan neurologis
+3) Pemindaian MRI
+4) Elektroensefalografi
+5) Tes potensi yang membangkitkan visual
+6) Pungsi lumbal
+7) Tes darah untuk menyingkirkan penyebab lain dari gejala terkait MS"	Secara genetik, kamu memiliki risiko umum untuk mengidap Multiple Sclerosis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Multiple Sclerosis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Multiple Sclerosis	Multiple sclerosis (MS) adalah penyakit yang berpotensi melumpuhkan otak dan sumsum tulang belakang. Pada MS, sistem kekebalan tubuh menyerang mielin yang menutupi serabut saraf sehingga menyebabkan kerusakan serabut tersebut. Individu dengan MS yang parah dapat kehilangan kemampuan untuk berjalan secara mandiri. Kombinasi faktor genetik dan lingkungan dapat menyebabkan MS.	Low		"TNFRSF1A; AGAP2; CBLB; CYP27B1; HLA-DRA; IL2RA; IL7R"	29	Health	Neurological Disorders		"Faktor intrinsik:
+1) Dimulai sebagian besar pada usia 20-an atau 30-an
+2) Tipe Remisi kambuhan MS adalah tiga kali
+lebih umum di perempuan
+3) Risiko tertinggi di orang eropa utara
+4) Riwayat keluarga
+5) Iklim: lebih banyak umum di negara-negara
+dengan iklim sedang
+
+Faktor gaya hidup:
+1) Merokok
+2) Obesitas usia remaja
+
+Kondisi medis terkait:
+1) Infeksi oleh Epstein-Barr Virus
+2) Kekurangan Vitamin D
+3) Penyakit autoimun seperti Diabetes Tipe 1, Radang usus, Penyakit dan gangguan tiroid
+
+"	"1) Kelelahan
+2) Masalah penglihatan
+3) Mati rasa dan kesemutan di lengan, kaki dan tungkai
+4) Kejang otot dan masalah gaya berjalan
+5) Pusing dan Vertigo
+6) Sembelit
+7) Disfungsi kandung kemih
+8) Disfungsi Kognitif (masalah dalam berpikir, belajar dan perencanaan)
+9) Masalah kesehatan mental
+10) Disfungsi seksual"	"Tidak ada tes khusus untuk MS. Sebaliknya, diagnosis multiple sclerosis sering bergantung pada pemeriksaan fisik menyeluruh dan diagnosis perbandingan. Tes meliputi:
+1) Diagnosis klinis berdasarkan kriteria diagnostik
+2) Pemeriksaan neurologis
+3) Pemindaian MRI
+4) Elektroensefalografi
+5) Tes potensi yang membangkitkan visual
+6) Pungsi lumbal
+7) Tes darah untuk menyingkirkan penyebab lain dari gejala terkait MS"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Multiple Sclerosis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Multiple Sclerosis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Multiple Sclerosis	Multiple sclerosis (MS) adalah penyakit yang berpotensi melumpuhkan otak dan sumsum tulang belakang. Pada MS, sistem kekebalan tubuh menyerang mielin yang menutupi serabut saraf sehingga menyebabkan kerusakan serabut tersebut. Individu dengan MS yang parah dapat kehilangan kemampuan untuk berjalan secara mandiri. Kombinasi faktor genetik dan lingkungan dapat menyebabkan MS.	High		"TNFRSF1A; AGAP2; CBLB; CYP27B1; HLA-DRA; IL2RA; IL7R"	29	Health	Neurological Disorders		"Faktor intrinsik:
+1) Dimulai sebagian besar pada usia 20-an atau 30-an
+2) Tipe Remisi kambuhan MS adalah tiga kali
+lebih umum di perempuan
+3) Risiko tertinggi di orang eropa utara
+4) Riwayat keluarga
+5) Iklim: lebih banyak umum di negara-negara
+dengan iklim sedang
+
+Faktor gaya hidup:
+1) Merokok
+2) Obesitas usia remaja
+
+Kondisi medis terkait:
+1) Infeksi oleh Epstein-Barr Virus
+2) Kekurangan Vitamin D
+3) Penyakit autoimun seperti Diabetes Tipe 1, Radang usus, Penyakit dan gangguan tiroid
+
+"	"1) Kelelahan
+2) Masalah penglihatan
+3) Mati rasa dan kesemutan di lengan, kaki dan tungkai
+4) Kejang otot dan masalah gaya berjalan
+5) Pusing dan Vertigo
+6) Sembelit
+7) Disfungsi kandung kemih
+8) Disfungsi Kognitif (masalah dalam berpikir, belajar dan perencanaan)
+9) Masalah kesehatan mental
+10) Disfungsi seksual"	"Tidak ada tes khusus untuk MS. Sebaliknya, diagnosis multiple sclerosis sering bergantung pada pemeriksaan fisik menyeluruh dan diagnosis perbandingan. Tes meliputi:
+1) Diagnosis klinis berdasarkan kriteria diagnostik
+2) Pemeriksaan neurologis
+3) Pemindaian MRI
+4) Elektroensefalografi
+5) Tes potensi yang membangkitkan visual
+6) Pungsi lumbal
+7) Tes darah untuk menyingkirkan penyebab lain dari gejala terkait MS"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Multiple Sclerosis	"Makan makanan bergizi seimbang dan sehat, terutama makanan kaya serat (buah dan sayuran)
+
+Menjaga tingkat optimal Vitamin D dalam tubuh melalui paparan sinar matahari (30 menit setiap hari) atau melalui diet. 
+
+Istirahat yang cukup dengan tidur setidaknya 6-8 jam setiap malam 
+
+Berolahraga teratur. Berenang, berjalan, peregangan, aerobik berdampak rendah, bersepeda stasioner, yoga dan taichi bisa menjadi pilihan yang baik.
+
+Konsultasikan kepada fisioterapis jika terdapat gejala AS
+
+Hindari stress. Berlatih latihan menghilangkan stres dan meditasi."	"Makanan yang kaya akan lemak jenuh, karbohidrat sederhana, dan produk susu penuh lemak
+
+Merokok
+
+Paparan panas"
+Migraine	Migrain adalah gangguan sakit kepala primer yang ditandai dengan episode berulang dari sakit kepala yang sedang sampai berat. Migrain adalah gangguan neurovaskular. Terdapat berbagai faktor pemicu seperti pola makan, stres, kadar hormon pada wanita, perubahan tidur, dan obat-obatan, yang dapat memicu episode migrain.	Typical		"LOC101927066, LOC105375655; PRDM16, LOC105378606; PHACTR1; ASTN2; MTHFR; STX1A, MIR4284"	30	Health	Neurological Disorders		"Faktor intrinsik:
+1) Usia: puncak selama usia 30 tahun ketas
+2) Jenis Kelamin: lebih umum pada wanita
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Menjadi terlalu kurus atau kegemukan
+2) Stres
+
+Kondisi medis terkait:
+1) Hipertensi
+2) Kadar kolesterol tinggi
+3) Penyakit Jantung
+4) stroke
+5) Gangguan Kecemasan dan depresi
+6) Perubahan hormonal
+7) Pembunuh rasa sakit digunakan untuk
+sakit kepala
+
+"	"1) Episode sakit kepala dengan atau tanpa aura dengan intensitas sedang sampai berat
+2) Kekakuan leher
+3) Mengidam makanan dan perubahan suasana hati
+4) Mual dan muntah
+5) Peningkatan kepekaan terhadap cahaya, suara dan terkadang sentuhan dan bau"	"1) Diagnosis klinis primer
+2) MRI
+3) CT-Scan
+4) Direkomendasikan untuk berkonsultasi dengan Dokter/Ahli Saraf"	Secara genetik, kamu memiliki risiko umum untuk mengidap Migraine	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Migraine dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Migraine	Migrain adalah gangguan sakit kepala primer yang ditandai dengan episode berulang dari sakit kepala yang sedang sampai berat. Migrain adalah gangguan neurovaskular. Terdapat berbagai faktor pemicu seperti pola makan, stres, kadar hormon pada wanita, perubahan tidur, dan obat-obatan, yang dapat memicu episode migrain.	Low		"LOC101927066, LOC105375655; PRDM16, LOC105378606; PHACTR1; ASTN2; MTHFR; STX1A, MIR4284"	30	Health	Neurological Disorders		"Faktor intrinsik:
+1) Usia: puncak selama usia 30 tahun ketas
+2) Jenis Kelamin: lebih umum pada wanita
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Menjadi terlalu kurus atau kegemukan
+2) Stres
+
+Kondisi medis terkait:
+1) Hipertensi
+2) Kadar kolesterol tinggi
+3) Penyakit Jantung
+4) stroke
+5) Gangguan Kecemasan dan depresi
+6) Perubahan hormonal
+7) Pembunuh rasa sakit digunakan untuk
+sakit kepala
+
+"	"1) Episode sakit kepala dengan atau tanpa aura dengan intensitas sedang sampai berat
+2) Kekakuan leher
+3) Mengidam makanan dan perubahan suasana hati
+4) Mual dan muntah
+5) Peningkatan kepekaan terhadap cahaya, suara dan terkadang sentuhan dan bau"	"1) Diagnosis klinis primer
+2) MRI
+3) CT-Scan
+4) Direkomendasikan untuk berkonsultasi dengan Dokter/Ahli Saraf"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Migraine	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Migraine dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Migraine	Migrain adalah gangguan sakit kepala primer yang ditandai dengan episode berulang dari sakit kepala yang sedang sampai berat. Migrain adalah gangguan neurovaskular. Terdapat berbagai faktor pemicu seperti pola makan, stres, kadar hormon pada wanita, perubahan tidur, dan obat-obatan, yang dapat memicu episode migrain.	High		"LOC101927066, LOC105375655; PRDM16, LOC105378606; PHACTR1; ASTN2; MTHFR; STX1A, MIR4284"	30	Health	Neurological Disorders		"Faktor intrinsik:
+1) Usia: puncak selama usia 30 tahun ketas
+2) Jenis Kelamin: lebih umum pada wanita
+3) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Menjadi terlalu kurus atau kegemukan
+2) Stres
+
+Kondisi medis terkait:
+1) Hipertensi
+2) Kadar kolesterol tinggi
+3) Penyakit Jantung
+4) stroke
+5) Gangguan Kecemasan dan depresi
+6) Perubahan hormonal
+7) Pembunuh rasa sakit digunakan untuk
+sakit kepala
+
+"	"1) Episode sakit kepala dengan atau tanpa aura dengan intensitas sedang sampai berat
+2) Kekakuan leher
+3) Mengidam makanan dan perubahan suasana hati
+4) Mual dan muntah
+5) Peningkatan kepekaan terhadap cahaya, suara dan terkadang sentuhan dan bau"	"1) Diagnosis klinis primer
+2) MRI
+3) CT-Scan
+4) Direkomendasikan untuk berkonsultasi dengan Dokter/Ahli Saraf"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Migraine	"Ketahui pemicu migrain dengan menyimpan buku catatan untuk mencatat insiden selama atau sebelum episode migrain
+
+Mengelola stress dengan metode relaksasi
+
+Berolahraga aerobik, peregangan, dan yoga secara teratur. 
+
+Konsumsi makanan mengandung magnesium dan B2
+
+Minum air secara teratur untuk menghindari dehidrasi
+
+Mengkonsumsi suplemen koenzim Q."	"Mengkonsumsi makanan berlemak berlebihan (>20g).
+
+Konsumsi makanan olahan (kaya karbohidrat olahan) berlebih
+
+Siklus tidur yang tidak teratur.
+
+Makanan yang mengandung tiramin (makanan fermentasi, tua, dan bukan segar)"
+Parkinson's Disease	Penyakit Parkinson (PD) adalah gangguan progresif yang disebabkan oleh degenerasi sel saraf di bagian otak disebut substansia nigra, yang mengontrol gerakan. Sel-sel saraf ini mati atau kehilangan fungsi, kehilangan kemampuan untuk menghasilkan dopamin. Hal ini menyebabkan ketidakseimbangan pergerakan tubuh seperti kesulitan dalam berjalan dan berbicara.	Typical		"SNCA; GAK; LRRK2; LOC105377329; BST1; DGKQ; GBA"	31	Health	Neurological Disorders		"Faktor intrinsik:
+1) Usia: lebih umum setelah 60 tahun
+2) Jenis Kelamin: laki-laki berada dalam
+risiko lebih tinggi daripada wanita
+3) Etnisitas: Orang kulit putih
+lebih mungkin untuk memiliki
+Parkinson daripada Afrika Amerika atau Asia
+4) Riwayat keluarga
+
+Faktor gaya hidup:
+Paparan jangka panjang terhadap racun tertentu seperti pestisida dan herbisida, pelarut dan polutan lainnya
+
+Kondisi medis terkait:
+1) Penyakit Reumatik autoimun
+2) Gangguan tidur REM
+3) Cedera kepala
+
+"	"1) Tremor Istirahat
+2) Gerakan lambat
+3) Kekakuan otot
+4) Masalah dalam keseimbangan dan koordinasi
+5) Postur tubuh yang terganggu
+6) Perubahan ucapan
+7) Kehilangan indra penciuman
+8) Memperbaiki ekspresi wajah
+9) Perubahan dalam tulisan
+10) Masalah tidur"	"Tidak ada tes khusus untuk mendiagnosis Parkinson. Diagnosis Klinis dibuat berdasarkan riwayat kesehatan, pemeriksaan fisik dan neurologis, serta tinjauan tanda dan gejala.
+
+tes seperti CAT scan atau MRI, dapat digunakan untuk menyingkirkan kondisi lain. Pemindaian dopamin transporter (DAT) juga dapat digunakan."	Secara genetik, kamu memiliki risiko umum untuk mengidap Parkinson's Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Parkinson's Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Parkinson's Disease	Penyakit Parkinson (PD) adalah gangguan progresif yang disebabkan oleh degenerasi sel saraf di bagian otak disebut substansia nigra, yang mengontrol gerakan. Sel-sel saraf ini mati atau kehilangan fungsi, kehilangan kemampuan untuk menghasilkan dopamin. Hal ini menyebabkan ketidakseimbangan pergerakan tubuh seperti kesulitan dalam berjalan dan berbicara.	Low		"SNCA; GAK; LRRK2; LOC105377329; BST1; DGKQ; GBA"	31	Health	Neurological Disorders		"Faktor intrinsik:
+1) Usia: lebih umum setelah 60 tahun
+2) Jenis Kelamin: laki-laki berada dalam
+risiko lebih tinggi daripada wanita
+3) Etnisitas: Orang kulit putih
+lebih mungkin untuk memiliki
+Parkinson daripada Afrika Amerika atau Asia
+4) Riwayat keluarga
+
+Faktor gaya hidup:
+Paparan jangka panjang terhadap racun tertentu seperti pestisida dan herbisida, pelarut dan polutan lainnya
+
+Kondisi medis terkait:
+1) Penyakit Reumatik autoimun
+2) Gangguan tidur REM
+3) Cedera kepala
+
+"	"1) Tremor Istirahat
+2) Gerakan lambat
+3) Kekakuan otot
+4) Masalah dalam keseimbangan dan koordinasi
+5) Postur tubuh yang terganggu
+6) Perubahan ucapan
+7) Kehilangan indra penciuman
+8) Memperbaiki ekspresi wajah
+9) Perubahan dalam tulisan
+10) Masalah tidur"	"Tidak ada tes khusus untuk mendiagnosis Parkinson. Diagnosis Klinis dibuat berdasarkan riwayat kesehatan, pemeriksaan fisik dan neurologis, serta tinjauan tanda dan gejala.
+
+tes seperti CAT scan atau MRI, dapat digunakan untuk menyingkirkan kondisi lain. Pemindaian dopamin transporter (DAT) juga dapat digunakan."	Secara genetik, kamu memiliki risiko rendah untuk mengidap Parkinson's Disease	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Parkinson's Disease dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Parkinson's Disease	Penyakit Parkinson (PD) adalah gangguan progresif yang disebabkan oleh degenerasi sel saraf di bagian otak disebut substansia nigra, yang mengontrol gerakan. Sel-sel saraf ini mati atau kehilangan fungsi, kehilangan kemampuan untuk menghasilkan dopamin. Hal ini menyebabkan ketidakseimbangan pergerakan tubuh seperti kesulitan dalam berjalan dan berbicara.	High		"SNCA; GAK; LRRK2; LOC105377329; BST1; DGKQ; GBA"	31	Health	Neurological Disorders		"Faktor intrinsik:
+1) Usia: lebih umum setelah 60 tahun
+2) Jenis Kelamin: laki-laki berada dalam
+risiko lebih tinggi daripada wanita
+3) Etnisitas: Orang kulit putih
+lebih mungkin untuk memiliki
+Parkinson daripada Afrika Amerika atau Asia
+4) Riwayat keluarga
+
+Faktor gaya hidup:
+Paparan jangka panjang terhadap racun tertentu seperti pestisida dan herbisida, pelarut dan polutan lainnya
+
+Kondisi medis terkait:
+1) Penyakit Reumatik autoimun
+2) Gangguan tidur REM
+3) Cedera kepala
+
+"	"1) Tremor Istirahat
+2) Gerakan lambat
+3) Kekakuan otot
+4) Masalah dalam keseimbangan dan koordinasi
+5) Postur tubuh yang terganggu
+6) Perubahan ucapan
+7) Kehilangan indra penciuman
+8) Memperbaiki ekspresi wajah
+9) Perubahan dalam tulisan
+10) Masalah tidur"	"Tidak ada tes khusus untuk mendiagnosis Parkinson. Diagnosis Klinis dibuat berdasarkan riwayat kesehatan, pemeriksaan fisik dan neurologis, serta tinjauan tanda dan gejala.
+
+tes seperti CAT scan atau MRI, dapat digunakan untuk menyingkirkan kondisi lain. Pemindaian dopamin transporter (DAT) juga dapat digunakan."	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Parkinson's Disease	"Konsumsi makanan yang kaya omega-3 dan antioksidan lainnya (buah-buahan, sayuran)
+
+Konsumsi makanan yang mengandung karotenoid
+
+Konsumsi moderat kafein dan teh hijau
+
+Lakukan olahraga  aerobik secara teratur
+
+Tai chi untuk meningkatkan keseimbangan"	"konsumsi berlebihan produk susu (terutama lemak tinggi)
+
+Paparan polutan dan racun seperti pestisida dan herbisida."
+Chronic Obstructive Pulmonary Disease (COPD)	Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit radang paru-paru kronis yang menyebabkan aliran udara terhambat dari paru-paru. Penyebab utama PPOK adalah merokok, Dengan diagnosis tepat waktu dan manajemen yang tepat, sebagian besar orang dengan PPOK dapat mencapai kontrol gejala dan kualitas hidup yang baik.	Typical		"SFTPD; HYKK; CHRNA5; AGER; RAB4B, MIA-RAB4B, RAB4B-EGLN2; TNF; CHRNA3"	32	Health	Respiratory Conditions		"Faktor intrinsik:
+1) Usia: Kebanyakan orang mulai merasakan gejala minimal 40 tahun
+2) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Merokok Aktif/Pasif
+2) Paparan pekerjaan
+untuk debu dan bahan kimia seperti amonia, asbes, dll.
+3) Paparan asap dari pembakaran bahan bakar, debu, semprotan, pembersih, dll.
+
+Kondisi medis terkait:
+1) Asma dalam kombinasi dengan merokok
+2) Penyakit jantung
+3) Osteoporosis dan radang sendi
+
+"	"1) Peningkatan sesak napas/ Sesak napas
+2) Menjadi kurus dengan dada barel, penurunan berat badan yang tidak diinginkan (pada tahap selanjutnya)
+3) Mengi
+4) Sesak di dada
+5) Batuk kronis
+6) Infeksi saluran pernapasan yang sering terjadi
+7) Pembengkakan di pergelangan kaki, kaki atau paru-paru
+8) Sianosis (kebiruan pada bibir dan kuku)"	"1) Tes Fungsi Paru: Spirometri adalah yang paling umum
+2) Rontgen dada: untuk memeriksa emfisema dan untuk menyingkirkan gangguan paru-paru lainnya
+3) CT-Scan: untuk memeriksa emfisema dan untuk memeriksa apakah pembedahan akan membantu untuk COPD
+4) Analisis gas darah arteri
+5) Tes genetik untuk defisiensi alfa-1-antitripsin"	Secara genetik, kamu memiliki risiko umum untuk mengidap Chronic Obstructive Pulmonary Disease (COPD)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Chronic Obstructive Pulmonary Disease (COPD) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Chronic Obstructive Pulmonary Disease (COPD)	Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit radang paru-paru kronis yang menyebabkan aliran udara terhambat dari paru-paru. Penyebab utama PPOK adalah merokok, Dengan diagnosis tepat waktu dan manajemen yang tepat, sebagian besar orang dengan PPOK dapat mencapai kontrol gejala dan kualitas hidup yang baik.	Low		"SFTPD; HYKK; CHRNA5; AGER; RAB4B, MIA-RAB4B, RAB4B-EGLN2; TNF; CHRNA3"	32	Health	Respiratory Conditions		"Faktor intrinsik:
+1) Usia: Kebanyakan orang mulai merasakan gejala minimal 40 tahun
+2) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Merokok Aktif/Pasif
+2) Paparan pekerjaan
+untuk debu dan bahan kimia seperti amonia, asbes, dll.
+3) Paparan asap dari pembakaran bahan bakar, debu, semprotan, pembersih, dll.
+
+Kondisi medis terkait:
+1) Asma dalam kombinasi dengan merokok
+2) Penyakit jantung
+3) Osteoporosis dan radang sendi
+
+"	"1) Peningkatan sesak napas/ Sesak napas
+2) Menjadi kurus dengan dada barel, penurunan berat badan yang tidak diinginkan (pada tahap selanjutnya)
+3) Mengi
+4) Sesak di dada
+5) Batuk kronis
+6) Infeksi saluran pernapasan yang sering terjadi
+7) Pembengkakan di pergelangan kaki, kaki atau paru-paru
+8) Sianosis (kebiruan pada bibir dan kuku)"	"1) Tes Fungsi Paru: Spirometri adalah yang paling umum
+2) Rontgen dada: untuk memeriksa emfisema dan untuk menyingkirkan gangguan paru-paru lainnya
+3) CT-Scan: untuk memeriksa emfisema dan untuk memeriksa apakah pembedahan akan membantu untuk COPD
+4) Analisis gas darah arteri
+5) Tes genetik untuk defisiensi alfa-1-antitripsin"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Chronic Obstructive Pulmonary Disease (COPD)	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Chronic Obstructive Pulmonary Disease (COPD) dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Chronic Obstructive Pulmonary Disease (COPD)	Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit radang paru-paru kronis yang menyebabkan aliran udara terhambat dari paru-paru. Penyebab utama PPOK adalah merokok, Dengan diagnosis tepat waktu dan manajemen yang tepat, sebagian besar orang dengan PPOK dapat mencapai kontrol gejala dan kualitas hidup yang baik.	High		"SFTPD; HYKK; CHRNA5; AGER; RAB4B, MIA-RAB4B, RAB4B-EGLN2; TNF; CHRNA3"	32	Health	Respiratory Conditions		"Faktor intrinsik:
+1) Usia: Kebanyakan orang mulai merasakan gejala minimal 40 tahun
+2) Riwayat keluarga
+
+Faktor gaya hidup:
+1) Merokok Aktif/Pasif
+2) Paparan pekerjaan
+untuk debu dan bahan kimia seperti amonia, asbes, dll.
+3) Paparan asap dari pembakaran bahan bakar, debu, semprotan, pembersih, dll.
+
+Kondisi medis terkait:
+1) Asma dalam kombinasi dengan merokok
+2) Penyakit jantung
+3) Osteoporosis dan radang sendi
+
+"	"1) Peningkatan sesak napas/ Sesak napas
+2) Menjadi kurus dengan dada barel, penurunan berat badan yang tidak diinginkan (pada tahap selanjutnya)
+3) Mengi
+4) Sesak di dada
+5) Batuk kronis
+6) Infeksi saluran pernapasan yang sering terjadi
+7) Pembengkakan di pergelangan kaki, kaki atau paru-paru
+8) Sianosis (kebiruan pada bibir dan kuku)"	"1) Tes Fungsi Paru: Spirometri adalah yang paling umum
+2) Rontgen dada: untuk memeriksa emfisema dan untuk menyingkirkan gangguan paru-paru lainnya
+3) CT-Scan: untuk memeriksa emfisema dan untuk memeriksa apakah pembedahan akan membantu untuk COPD
+4) Analisis gas darah arteri
+5) Tes genetik untuk defisiensi alfa-1-antitripsin"	Secara genetik, kamu memiliki risiko tinggi untuk mengidap Chronic Obstructive Pulmonary Disease (COPD)	"Makan makanan yang kaya kalium.
+
+Konsumsilah 20 hingga 30 gram serat setiap hari dari sumber seperti roti, pasta, kacang-kacangan, biji-bijian, buah-buahan, dan sayuran
+
+Konsumsi protein dari sumber seperti susu, telur, keju, daging, ikan, unggas, kacang-kacangan, dan kacang kering setidaknya dua kali sehari
+
+Berolahraga mulai dari rutinitas yang lambat dan mudah, lalu tingkatkan waktu dan upaya untuk berolahraga seiring berjalannya waktu "	"Merokok
+
+Paparan polutan dan iritan.
+
+Konsumsi berlebihan karbohidrat sederhana dari makanan seperti permen, kue, minuman ringan, dan gula meja
+
+Konsumsi natrium atau garam berlebihan"
+Psoriasis	Psoriasis adalah penyakit inflamasi yang kompleks, kronis, tidak menular, multisistem, multifaktorial, yang melibatkan proliferasi keratinosit di epidermis dengan peningkatan laju pergantian sel epidermis Genetika dan sistem kekebalan dianggap memainkan peran penting dalam perkembangan psoriasis, sementara pemicu lingkungan sering menyebabkan gejala psoriasis kambuh.	Typical		"HLA-C; TNFAIP3; LCE3D; IL12B; IL13; CAST; CDKAL1; IL23R"	33	Health	Skin Conditions		"Faktor intrinsik
+1) Riwayat keluarga
+2) Warna kulit: orang
+dengan kulit yang lebih cerah
+biasanya lebih mungkin
+untuk mengembangkan psoriasis daripada orang dengan kulit yang lebih gelap
+Faktor Gaya Hidup
+1) Merokok dan tembakau
+menggunakan
+2) Alkohol
+konsumsi berlebih
+3) Stres*
+4) Obat* seperti
+antibiotik, NSAID, lithium, beta-blocker, quinidine, obat antimalaria
+* faktor pemicu untuk
+psoriasis daripada faktor risiko.
+Kondisi Medis Terkait
+1) Obesitas
+2) Kekurangan vitamin D
+3) Cedera kulit*
+4) Virus dan bakteri
+infeksi*
+* faktor pemicu untuk
+psoriasis daripada faktor risiko"	"1) Bercak merah pada kulit yang ditutupi dengan sisik tebal berwarna keperakan
+2) Kulit kering dan pecah-pecah yang mungkin berdarah
+3) Gatal, terbakar atau nyeri
+4) Kuku menebal, diadu atau bergerigi
+5) Sendi bengkak dan kaku
+6) Blefaritis, konjungtivitis non-spesifik kronis
+7) Pustula steril pada telapak tangan, telapak kaki atau menyebar ke seluruh tubuh"	"1) Penilaian klinis: pemeriksaan fisik dan riwayat medis
+2) Biopsi kulit"	Secara genetik, kamu memiliki risiko umum untuk mengidap Psoriasis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Psoriasis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Psoriasis	Psoriasis adalah penyakit inflamasi yang kompleks, kronis, tidak menular, multisistem, multifaktorial, yang melibatkan proliferasi keratinosit di epidermis dengan peningkatan laju pergantian sel epidermis Genetika dan sistem kekebalan dianggap memainkan peran penting dalam perkembangan psoriasis, sementara pemicu lingkungan sering menyebabkan gejala psoriasis kambuh.	Low		"HLA-C; TNFAIP3; LCE3D; IL12B; IL13; CAST; CDKAL1; IL23R"	33	Health	Skin Conditions		"Faktor intrinsik
+1) Riwayat keluarga
+2) Warna kulit: orang
+dengan kulit yang lebih cerah
+biasanya lebih mungkin
+untuk mengembangkan psoriasis daripada orang dengan kulit yang lebih gelap
+Faktor Gaya Hidup
+1) Merokok dan tembakau
+menggunakan
+2) Alkohol
+konsumsi berlebih
+3) Stres*
+4) Obat* seperti
+antibiotik, NSAID, lithium, beta-blocker, quinidine, obat antimalaria
+* faktor pemicu untuk
+psoriasis daripada faktor risiko.
+Kondisi Medis Terkait
+1) Obesitas
+2) Kekurangan vitamin D
+3) Cedera kulit*
+4) Virus dan bakteri
+infeksi*
+* faktor pemicu untuk
+psoriasis daripada faktor risiko"	"1) Bercak merah pada kulit yang ditutupi dengan sisik tebal berwarna keperakan
+2) Kulit kering dan pecah-pecah yang mungkin berdarah
+3) Gatal, terbakar atau nyeri
+4) Kuku menebal, diadu atau bergerigi
+5) Sendi bengkak dan kaku
+6) Blefaritis, konjungtivitis non-spesifik kronis
+7) Pustula steril pada telapak tangan, telapak kaki atau menyebar ke seluruh tubuh"	"1) Penilaian klinis: pemeriksaan fisik dan riwayat medis
+2) Biopsi kulit"	Secara genetik, kamu memiliki risiko rendah untuk mengidap Psoriasis	"1) Mengikuti diet seimbang dan berolahraga secara teratur untuk menjaga kesehatan yang optimal.
+2) Waspadai tanda dan gejala Psoriasis dan segera konsultasikan ke dokter jika Anda mengalami salah satu gejala tersebut."	NA
+Psoriasis	Psoriasis adalah penyakit inflamasi yang kompleks, kronis, tidak menular, multisistem, multifaktorial, yang melibatkan proliferasi keratinosit di epidermis dengan peningkatan laju pergantian sel epidermis Genetika dan sistem kekebalan dianggap memainkan peran penting dalam perkembangan psoriasis, sementara pemicu lingkungan sering menyebabkan gejala psoriasis kambuh.	High		"HLA-C; TNFAIP3; LCE3D; IL12B; IL13; CAST; CDKAL1; IL23R"	33	Health	Skin Conditions		"Faktor intrinsik
+1) Riwayat keluarga
+2) Warna kulit: orang
+dengan kulit yang lebih cerah
+biasanya lebih mungkin
+untuk mengembangkan psoriasis daripada orang dengan kulit yang lebih gelap
+Faktor Gaya Hidup
+1) Merokok dan tembakau
+menggunakan
+2) Alkohol
+konsumsi berlebih
+3) Stres*
+4) Obat* seperti
+antibiotik, NSAID, lithium, beta-blocker, quinidine, obat antimalaria
+* faktor pemicu untuk
+psoriasis daripada faktor risiko.
+Kondisi Medis Terkait
+1) Obesitas
+2) Kekurangan vitamin D
+3) Cedera kulit*
+4) Virus dan bakteri
+infeksi*
+* faktor pemicu untuk
+psoriasis daripada faktor risiko"	"1) Bercak merah pada kulit yang ditutupi dengan sisik tebal berwarna keperakan
+2) Kulit kering dan pecah-pecah yang mungkin berdarah
+3) Gatal, terbakar atau nyeri
+4) Kuku menebal, diadu atau bergerigi
+5) Sendi bengkak dan kaku
+6) Blefaritis, konjungtivitis non-spesifik kronis
+7) Pustula steril pada telapak tangan, telapak kaki atau menyebar ke seluruh tubuh"	"1) Penilaian klinis: pemeriksaan fisik dan riwayat medis
+2) Biopsi kulit"	TBA	TBA	TBA
